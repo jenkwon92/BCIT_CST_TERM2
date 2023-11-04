@@ -68,6 +68,7 @@ class ChessBoard extends JPanel {
         int col = x / TILE_SIZE;
         int row = y / TILE_SIZE;
 
+        // When not chosing any piece
         if (selectedPiece == null) {
             if (board[row][col] != null) {
                 if (board[row][col].isWhite() == currentPlayerWhite) {
@@ -79,17 +80,23 @@ class ChessBoard extends JPanel {
                 }
             }
         } else {
+            // Check valid move
             if (selectedPiece.canMove(selectedRow, selectedCol, row, col)) {
                 board[row][col] = selectedPiece;
                 board[selectedRow][selectedCol] = null;
                 selectedPiece = null;
                 selectedRow = -1;
                 selectedCol = -1;
-                
-                // 차례를 바꿉니다.
-                currentPlayerWhite = !currentPlayerWhite;
 
+                // Change the turn
+                currentPlayerWhite = !currentPlayerWhite;
+                
                 repaint();
+            } else {
+                JOptionPane.showMessageDialog(null, "Invalid Move");
+                selectedPiece = null;
+                selectedRow = -1;
+                selectedCol = -1;
             }
         }
     }

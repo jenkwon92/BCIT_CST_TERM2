@@ -5,6 +5,13 @@
 - Develop a collection of classes for a Chess game and design a game board using GUI components and layouts.
 
 ## Instruction
+1. <b>Purpose</b> To build on your knowledge of OOP and software development with a larger project and more freedoms.
+2. <b>Description</b> For part A of this assignment you will focus on a collection of classes to support a Chess game, developing a playing area (board) with appropriate GUI components and layouts, and respond to simple player movement via clicking on a square with a piece and then clicking on a free square to move it.<br><br>
+YOU ARE NOT REQUIRED TO HAVE CORRECT CHESS PIECE MOVEMENTS!<br><br>
+YOU ARE NOT REQUIRED TO HAVE “TURNS” <br><br>
+During the first week (Tuesday Oct 10) you will work on your design and obtain feedback from your lab instructor on your design. Your design must be handed in by Sunday at 11:59pm. Your final code must be very similar to the design you handed in. Up to 20% can be deducted from your mark for failure to follow your design. Your design should contain the main classes you will need, relationships between them, and the major methods and attributes for each class. Create all 3 types of UML design diagrams as discussed in class. Be prepared to defend your design. You will need to provide a final design that matches your code with the code handed in.<br><br>
+For the second week of the assignment (Monday Oct 15) there will be a milestone check at the end of your lab where you will demonstrate your game board (squares that alternate black and white as a chess board does – 8x8 board). Also if you click the mouse on a square you do something to demonstrate that the square “heard” the click (change colour, draw a message, whatever that is obvious to your lab instructor). <br><br>
+Code is due by the end of on Sunday November 5 @ 11:59pm and should contain the basic piece layout and movement – if a user clicks on a piece, then clicks on another square the piece is “moved” to that square. Note: at this point there are no turns, pieces can move anywhere on the board any distance, and can land on an occupied location replacing the piece that was on the square before. 
 
 ## Demo
 

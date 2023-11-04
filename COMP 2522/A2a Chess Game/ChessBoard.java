@@ -3,6 +3,11 @@ import java.awt.Graphics;
 
 import javax.swing.JPanel;
 
+/**
+ * Represents the chessboard where pieces are placed and moved.
+ * @author yongeun
+ *
+ */
 class ChessBoard extends JPanel {
     private Piece[][] board = new Piece[8][8];
     
@@ -11,10 +16,16 @@ class ChessBoard extends JPanel {
     private int selectedRow = -1;
     private int selectedCol = -1;
     
+    /**
+     * Initializes the chessboard, placing pieces in their starting positions.
+     */
     public ChessBoard() {
         this.initBoard();
     }
 
+    /**
+     * Places the pieces on the board in their initial positions.
+     */
     public void initBoard() {
         // Black Pieces
         board[0][0] = new Rook(false);
@@ -43,6 +54,14 @@ class ChessBoard extends JPanel {
         board[7][7] = new Rook(true);
     }
 
+    /**
+     * Moves a piece from a starting position to a destination position on the board.
+     * 
+     * @param stRow The starting row of the piece.
+     * @param stCol The starting column of the piece.
+     * @param desRow The destination row.
+     * @param desCol The destination column.
+     */
     public void movePiece(int x, int y) {
         int col = x / TILE_SIZE;
         int row = y / TILE_SIZE;
@@ -66,7 +85,11 @@ class ChessBoard extends JPanel {
         }
     }
 
-
+    /**
+     * Paints the board and pieces on the JPanel. Called automatically by the Swing framework.
+     * 
+     * @param g The Graphics object for drawing.
+     */
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
         for (int i = 0; i < 8; i++) {

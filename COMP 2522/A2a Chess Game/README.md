@@ -61,5 +61,28 @@ Piece - you are assuming that your movement is on a 2D grid. But what if that ch
 <br><br>
 Again, it's not that your design won't work but it's not very flexible to changes and would require you to modify previously written code and is not taking advantage of OOP. I would like you to explore options (such as I suggest you to think about). See if you can design your program to be decoupled upon assumptions about the game as much as possible (such as the board is an 8x8 2D grid). 
 ## Final product
+### Contents of Folder
+```
+Classes 
+├── Bishop.java          # Represents a Bishop in a chess game, including its movement and capture logic.
+├── ChessBoard.java      # Manages the graphical display of the chessboard and interaction with the game pieces.
+├── ChessGame.java       # Handles the overall game logic, turn management, and rules of the chess game.
+├── EventListener.java   # Manages user interactions and events within the community features of the game.
+├── King.java            # Represents a King in a chess game, including its movement and check/checkmate logic.
+├── Knight.java          # Represents a Knight in a chess game, capable of L-shaped movements and jumps.
+├── Pawn.java            # Represents a Pawn in a chess game, including its unique first-move and promotion logic.
+├── Piece.java           # An abstract class that serves as a template for all the different types of chess pieces
+├── Player.java          # Manages player-specific information, such as color, and whether it's their turn.
+├── Queen.java           # Represents a Queen in a chess game, with the most powerful movements in all directions
+└── Rook.java            # Represents a Rook in a chess game, with horizontal and vertical movement capabilities.
+```
+### Images
+<img width="359" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/8ff4fac0-ab21-4772-b9e0-41006b832c14">
+<img width="362" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/6807d1d6-aead-4f65-9573-5c2bf689b3ed">
+<img width="361" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/1182625c-6a80-44bc-9fe6-b222f46fd2ed">
+<img width="359" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/8988f562-3bc0-45d2-89c4-20de0861c60e">
+<img width="359" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/12410b4e-459b-4131-9dda-921a74898609">
 
-## Fix
+## Known Bugs and Limitations
+
+## Features for Future

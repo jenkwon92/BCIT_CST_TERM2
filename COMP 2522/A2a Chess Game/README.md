@@ -28,6 +28,7 @@
 <img width="695" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/07c2c31e-72d8-427d-91d7-102e9d0ddbd8">
 <img width="636" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/a93beb59-77c5-41e2-bbad-54f5a390f171">
 </details>
+
 >Can your MoveListener determine if a move is valid? Or is that something a Piece is better suited?
 Does a Tile need to be aware of it's location? Or is it enough that the Board knows the locations?
 Boards understand paths which a Piece can use to determine if the path is valid
@@ -38,6 +39,7 @@ Think about all of your possible sequences including ones that are wrong. This w
 <img width="479" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/e8ca5736-0ed5-44e4-80f7-34381d83b089">
 <img width="641" alt="image" src="https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/21001320-6a3c-426d-a105-fefa6bc8628c">
 </details>
+
 >My comments are suggestions to get you to think about your design. It's not that your design won't work but the aim isn't to get a chess game working but to build a flexible product that can be easily modified to handle new features without redoing your previous code. 
 <br><br>
 This isn't a design course so yes I expect you are struggling. I'm not expecting a perfect design or anything close. I'm hoping you can take this opportunity to try your best to put as much OOP into your program rather than code it like a C application. This means to think differently. So I asked you for a design so I can comment on it and make suggestions and ask you questions for you to explore and think on. That is the best way to learn about design. You can look at lots of other designs for other applications but you will learn more from this approach of trying, getting feedback, and thinking on that feedback then reviewing other designs.

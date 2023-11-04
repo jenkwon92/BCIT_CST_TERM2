@@ -74,6 +74,13 @@ class ChessBoard extends JPanel {
                 selectedCol = col;
             }
         } else {
+            // Check if the same piece is clicked again
+            if (row == selectedRow && col == selectedCol) {
+                selectedPiece = null;
+                selectedRow = -1;
+                selectedCol = -1;
+                return; // Cancel the selection
+            }
             board[row][col] = selectedPiece;
             board[selectedRow][selectedCol] = null;
             selectedPiece = null;

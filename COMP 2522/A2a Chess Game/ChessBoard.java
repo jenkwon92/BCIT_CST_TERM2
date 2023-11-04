@@ -1,6 +1,7 @@
 import java.awt.Color;
 import java.awt.Graphics;
 
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 /**
@@ -15,6 +16,7 @@ class ChessBoard extends JPanel {
     private Piece selectedPiece = null;
     private int selectedRow = -1;
     private int selectedCol = -1;
+    private boolean currentPlayerWhite = true;
     
     /**
      * Initializes the chessboard, placing pieces in their starting positions.
@@ -67,28 +69,28 @@ class ChessBoard extends JPanel {
         int row = y / TILE_SIZE;
 
         if (selectedPiece == null) {
-            //Select piece
             if (board[row][col] != null) {
-                selectedPiece = board[row][col];
-                selectedRow = row;
-                selectedCol = col;
+                if (board[row][col].isWhite() == currentPlayerWhite) {
+                    selectedPiece = board[row][col];
+                    selectedRow = row;
+                    selectedCol = col;
+                } else {
+                    JOptionPane.showMessageDialog(null, "Not your turn");
+                }
             }
         } else {
-            // Check if the same piece is clicked again
-            if (row == selectedRow && col == selectedCol) {
+            if (selectedPiece.canMove(selectedRow, selectedCol, row, col)) {
+                board[row][col] = selectedPiece;
+                board[selectedRow][selectedCol] = null;
                 selectedPiece = null;
                 selectedRow = -1;
                 selectedCol = -1;
-                return; // Cancel the selection
+                
+                // 차례를 바꿉니다.
+                currentPlayerWhite = !currentPlayerWhite;
+
+                repaint();
             }
-            board[row][col] = selectedPiece;
-            board[selectedRow][selectedCol] = null;
-            selectedPiece = null;
-            selectedRow = -1;
-            selectedCol = -1;
-            
-            //repaint the board
-            repaint();
         }
     }
 

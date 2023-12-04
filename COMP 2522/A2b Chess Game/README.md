@@ -11,6 +11,8 @@ Proper chess movements according to the chess piece: [final square must be empty
 
 
 ## Demo
+https://github.com/jenkwon92/BCIT_CST_TERM2/assets/70299766/e7d7a05a-5df2-44cc-a42c-9a7990c6eaf9
+
 
 
 ## Key Features & Requirements

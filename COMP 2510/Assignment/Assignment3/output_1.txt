@@ -1,0 +1,17 @@
+Found
+John Kim
+Found
+Chris Patel
+Chris Patel
+Found
+Chris Batel
+Chris Patel
+Not Found
+
+
+
+
+1: add operation
+2: delete operation
+3: search operation
+4: perform the traversal

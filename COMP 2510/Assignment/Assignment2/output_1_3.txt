@@ -1,0 +1,5134 @@
+Mallory Stephens Jan-2-1950 3.5 D
+Mark Lewis Jan-3-1950 0.0 I 25
+Mark Lewis Jan-3-1950 0.0 I 25
+Mark Lewis Jan-3-1950 0.0 I 25
+Thomas Love Jan-3-1950 4.2 I 6
+Daniel Brian Jan-20-1950 2.25 I 16
+Daniel Hartman Jan-20-1950 2.005 I 26
+Joseph Weiss Jan-21-1950 1.3 D
+Elizabeth Vincent Feb-2-1950 2.714 I 10
+Emily Benson Feb-5-1950 0.905 D
+Nancy Christensen Feb-12-1950 0.1 D
+Nancy Christensen Feb-12-1950 0.1 I 102
+Craig Patton Feb-12-1950 4.2 I 39
+Craig Patton Feb-12-1950 4.28 I 39
+Anna Holmes Mar-1-1950 1.7 I 82
+James Miller Mar-1-1950 0.337 D
+James Moore Mar-1-1950 2.61 D
+Jose Johnson Mar-9-1950 4.0 I 110
+Jose Johnson Mar-9-1950 4.0 I 115
+Kayla Hayes Mar-13-1950 0.6 D
+Perry Rodgers Mar-13-1950 3.7 D
+Barbara Knapp Mar-14-1950 2.634 D
+Mark Patrick Mar-22-1950 1.3 D
+John Clark Mar-31-1950 3.2 D
+Cynthia Miller Apr-10-1950 2.387 I 112
+Gary Stewart Apr-11-1950 0.83 I 10
+Christopher Scott Apr-12-1950 2.29 I 17
+Phillip Thomas Apr-16-1950 0.8 I 119
+Valerie Garrett Apr-18-1950 0.4 I 116
+Amy Jimenez Apr-23-1950 1.3 D
+Mary Jones May-2-1950 2.782 D
+Manuel Kim May-4-1950 2.824 D
+Anthony Mora May-11-1950 3.5 I 40
+Gregory Ross May-11-1950 3.107 I 94
+Ronald Weaver May-12-1950 0.517 D
+Kathleen Rodriguez May-16-1950 3.6 D
+Roberto Jimenez May-30-1950 2.1 D
+Crystal Potter Jun-9-1950 1.33 I 68
+Samuel Lopez Jun-13-1950 2.8 D
+Jamie Martinez Jun-14-1950 1.82 I 75
+Alexandra Robinson Jun-20-1950 4.1 D
+Marc Sullivan Jun-22-1950 3.7 I 33
+Wanda Thomas Jun-22-1950 3.6 I 99
+Rachel Rice Jun-27-1950 0.4 D
+Sherry Davis Jun-29-1950 2.907 I 32
+Maria Ortiz Jun-30-1950 3.2 I 30
+Edward White Jul-1-1950 3.42 I 70
+Collin Thomas Jul-5-1950 2.91 I 112
+Ashley Davis Jul-16-1950 2.86 I 53
+Debra Wilson Jul-24-1950 2.64 I 61
+Nicholas Figueroa Jul-27-1950 0.427 I 119
+Brian Lopez Aug-14-1950 2.9 D
+Jerome Hogan Aug-26-1950 4.2 I 49
+Gwendolyn Cabrera Sep-4-1950 3.3 D
+Travis Miranda Sep-8-1950 1.3 I 19
+Adam Boyd Sep-17-1950 1.31 I 96
+Julie Campbell Sep-18-1950 4.21 I 81
+Andrea Colon Sep-18-1950 2.8 I 104
+Matthew Garcia Sep-19-1950 3.812 D
+Mitchell Young Sep-19-1950 1.18 D
+Lindsay Duncan Sep-23-1950 4.24 D
+Karen Greene Sep-26-1950 0.3 I 3
+Kristine Stanley Sep-29-1950 1.223 D
+Randy Rogers Sep-30-1950 0.48 D
+Dawn Anderson Oct-4-1950 2.11 I 119
+Darrell Moon Oct-6-1950 2.13 I 37
+Crystal Ross Oct-8-1950 3.9 I 108
+Eric Kelly Oct-9-1950 2.6 D
+Melissa Kaufman Oct-19-1950 2.7 D
+John Jenkins Oct-22-1950 2.28 D
+Denise Pacheco Oct-30-1950 1.48 I 99
+Maria Kim Nov-2-1950 2.7 D
+Matthew Castillo Nov-9-1950 2.51 D
+Cory Alexander Nov-14-1950 0.9 I 8
+Brian Ballard Nov-15-1950 1.4 I 112
+Daniel Jones Nov-16-1950 1.01 I 18
+Keith Johnson Nov-24-1950 1.809 D
+Tanya Elliott Nov-30-1950 1.13 D
+Brianna Clay Dec-1-1950 2.5 I 52
+Michelle Dyer Dec-8-1950 2.92 I 25
+Michael Wise Dec-9-1950 1.02 I 30
+Michael Taylor Dec-10-1950 1.6 I 69
+Mitchell Salazar Dec-14-1950 3.252 I 61
+Andrea Oneal Dec-18-1950 3.13 I 102
+Eric Kim Dec-20-1950 4.033 I 78
+Anthony Joseph Dec-27-1950 4.235 I 111
+Mark Wolf Dec-30-1950 3.85 I 24
+Dawn Waller Jan-1-1951 4.2 D
+Julie Coleman Jan-4-1951 1.43 I 114
+Adrienne Hampton Jan-12-1951 3.4 I 97
+Ronald Garcia Jan-13-1951 0.4 I 11
+Jeremy Dillon Jan-16-1951 2.74 D
+Matthew Hayes Jan-16-1951 2.2 I 60
+Elizabeth Robinson Jan-22-1951 1.631 I 24
+Michelle Lane Jan-27-1951 0.331 I 11
+Michele Santos Jan-27-1951 3.805 D
+James Conner Feb-3-1951 0.2 D
+Jessica Griffin Feb-4-1951 1.1 I 51
+Brenda Garrett Feb-12-1951 1.67 I 23
+Maria Clark Mar-5-1951 0.097 D
+Nicole Velasquez Mar-5-1951 4.2 I 69
+Brad Goodwin Mar-8-1951 3.3 D
+Rachel Harvey Mar-8-1951 3.972 I 19
+Bianca Powers Mar-12-1951 3.48 D
+Natalie Hansen Mar-14-1951 0.8 D
+George Kelly Mar-17-1951 1.275 I 17
+Jason Chapman Apr-10-1951 1.0 D
+George Cook Apr-16-1951 3.4 D
+James Wiggins Apr-16-1951 3.2 I 69
+Amanda Baker Apr-17-1951 0.1 D
+Donna Lee Apr-22-1951 0.889 D
+Jeremy Lopez Apr-25-1951 1.7 D
+Kathryn Wilson Apr-30-1951 2.7 D
+Felicia Roberts May-6-1951 0.8 D
+Joel Perez May-9-1951 3.288 D
+Cynthia Huang May-12-1951 2.809 I 102
+Marcus Morton May-19-1951 1.879 I 10
+Jeremy Fisher May-21-1951 0.323 D
+Christopher Wilson May-23-1951 1.7 D
+Sara Schmidt May-24-1951 3.2 D
+Nathan Reed May-25-1951 2.38 D
+Teresa Nicholson May-29-1951 3.088 I 93
+Stephen Davis May-30-1951 4.1 I 29
+Kelly Schultz May-31-1951 2.9 D
+Jacqueline Sanchez Jun-3-1951 4.3 D
+Andrea Williams Jun-11-1951 3.259 D
+Brittany Williams Jun-20-1951 3.568 I 101
+Sarah Boyd Jun-22-1951 2.2 D
+Ian Mckee Jun-28-1951 0.39 I 38
+Bethany Lewis Jun-30-1951 2.4 I 54
+Ashley Stone Jul-2-1951 1.66 I 82
+Sherri Lin Jul-4-1951 3.424 I 84
+Barbara Allen Jul-23-1951 4.0 I 38
+Judy Jordan Jul-24-1951 4.1 D
+Matthew Mcdonald Jul-24-1951 0.307 D
+Lisa Le Aug-2-1951 2.84 D
+Andrew Medina Aug-8-1951 1.978 I 34
+Jennifer Santiago Aug-12-1951 2.427 D
+Joy Martin Aug-15-1951 1.293 D
+Charles Greene Aug-19-1951 2.09 I 40
+Kathryn Adams Aug-22-1951 1.9 I 1
+Lisa Houston Aug-25-1951 0.446 I 54
+Amy Hanson Sep-4-1951 1.7 D
+Rachel Morrison Sep-9-1951 1.81 I 78
+Samuel White Sep-16-1951 3.011 D
+Darrell Brown Sep-25-1951 3.826 D
+Amanda Johnson Sep-27-1951 2.892 D
+Dawn Williams Sep-27-1951 0.41 D
+Jose Woodard Sep-30-1951 0.403 D
+Gloria Cohen Oct-11-1951 2.26 D
+Ashley Tran Oct-14-1951 0.5 D
+Kelly Riddle Oct-16-1951 2.8 I 33
+Mary Bolton Oct-18-1951 4.064 D
+Brian Mccarty Oct-19-1951 3.866 I 118
+Rita Olson Oct-21-1951 1.8 D
+Rebecca Martinez Oct-23-1951 0.4 D
+Jacqueline Terrell Oct-26-1951 1.793 D
+Joseph Graham Oct-27-1951 3.644 I 21
+Tracy Johnson Oct-28-1951 3.202 I 88
+Donald Quinn Nov-5-1951 3.795 I 21
+Carl Green Nov-9-1951 0.7 I 100
+Anna Lee Nov-10-1951 3.262 D
+Cheryl Freeman Nov-20-1951 1.5 D
+Cameron Mckinney Nov-22-1951 0.0 D
+Evan Pruitt Dec-3-1951 1.05 D
+Thomas Davis Dec-21-1951 1.45 I 0
+Paul Baker Dec-23-1951 2.4 I 63
+Pamela Peterson Dec-24-1951 1.0 I 42
+Ann Thomas Jan-2-1952 2.8 D
+James Turner Jan-13-1952 0.3 I 107
+Jacob Lindsey Jan-20-1952 0.7 D
+Michael Lester Jan-24-1952 0.853 D
+Nicholas Maddox Jan-26-1952 0.3 D
+Jessica Scott Jan-26-1952 3.9 I 16
+Alexandra Rogers Jan-27-1952 0.47 D
+Julie Miller Jan-29-1952 2.7 I 63
+Lori Green Feb-4-1952 0.788 D
+Sonya Dunlap Feb-5-1952 2.37 I 79
+Cristina Huber Feb-9-1952 3.44 D
+Wendy Gomez Feb-11-1952 2.269 I 82
+Michael Graves Feb-14-1952 1.9 D
+Heather Jenkins Feb-14-1952 2.245 D
+Alexandria Hodges Feb-16-1952 3.1 D
+Cynthia King Mar-7-1952 0.86 I 34
+Nicholas Sutton Mar-10-1952 2.01 D
+Michelle Pratt Mar-24-1952 2.7 I 27
+Hannah Turner Mar-31-1952 0.0 I 39
+Michelle Doyle Apr-3-1952 3.292 D
+Jessica Thompson Apr-7-1952 3.7 D
+Curtis Gray Apr-8-1952 0.171 I 106
+Matthew Pace Apr-10-1952 4.28 I 31
+William Smith Apr-21-1952 1.271 D
+Louis Joseph May-3-1952 1.712 I 115
+Lisa Thomas May-3-1952 2.202 D
+Kelly Singh May-7-1952 0.39 D
+Manuel Brown May-19-1952 4.036 D
+Christine Molina May-27-1952 2.01 I 42
+Kelsey Duarte May-30-1952 2.378 I 81
+Mike Odonnell May-31-1952 0.95 I 30
+Christopher Stewart Jun-11-1952 3.4 I 83
+Michelle Carrillo Jun-13-1952 0.1 I 75
+Mark Mendoza Jun-14-1952 1.646 I 91
+Wanda Cole Jun-20-1952 3.3 D
+Amy Forbes Jul-4-1952 0.694 D
+Karen Olson Jul-9-1952 2.17 D
+Amber Ramirez Jul-9-1952 2.196 I 78
+Jermaine Robinson Jul-10-1952 1.71 D
+David Fitzpatrick Jul-11-1952 2.349 D
+Kenneth Reed Jul-14-1952 3.54 D
+Elizabeth Potter Jul-16-1952 2.922 D
+Rachel Richardson Jul-16-1952 2.8 I 76
+Sean Hensley Jul-30-1952 0.355 I 39
+Corey Delacruz Aug-1-1952 1.958 I 99
+Eric Howell Aug-13-1952 1.9 I 88
+Jorge Butler Aug-14-1952 3.81 D
+Carolyn Oconnell Aug-24-1952 1.8 I 31
+Patrick Dunlap Aug-29-1952 2.1 I 96
+Nicholas Williams Aug-30-1952 3.47 I 8
+Joseph Thompson Sep-2-1952 2.54 I 68
+Jared Perez Sep-7-1952 0.19 D
+Autumn Allen Sep-13-1952 3.205 D
+Bradley Brown Sep-14-1952 1.9 D
+Brandi Johnson Sep-15-1952 0.037 I 48
+Susan Bridges Sep-21-1952 4.0 D
+Jasmine Bernard Sep-24-1952 1.13 D
+Catherine Mills Sep-29-1952 1.29 I 17
+Amy Davis Oct-6-1952 3.8 I 88
+Stephanie Graham Oct-12-1952 4.07 I 26
+Aaron Owens Oct-24-1952 2.37 D
+Benjamin Becker Nov-18-1952 1.006 D
+Danielle Molina Nov-22-1952 1.048 D
+Breanna Moore Nov-25-1952 1.8 D
+Carol Anderson Dec-10-1952 0.696 D
+Erika Leblanc Dec-16-1952 1.32 I 90
+Lindsey Kelley Dec-20-1952 1.1 I 99
+Monica Green Dec-23-1952 2.04 D
+Belinda Martin Dec-24-1952 2.47 I 31
+Ryan Gross Dec-31-1952 2.2 D
+Lauren Smith Jan-1-1953 3.408 D
+Emily Gray Jan-3-1953 1.54 I 73
+Valerie Barton Jan-4-1953 3.8 I 85
+David Hughes Jan-5-1953 1.27 I 85
+Sophia Taylor Jan-7-1953 4.2 D
+Neil Fowler Jan-17-1953 0.81 D
+Joseph Henderson Jan-19-1953 0.8 D
+Brian Johnson Jan-19-1953 3.3 I 99
+Thomas Miller Jan-26-1953 3.012 D
+Danielle Williams Jan-28-1953 0.19 I 23
+Christopher Nguyen Jan-29-1953 3.4 D
+Christian Adams Jan-30-1953 4.288 I 53
+Lisa Townsend Feb-12-1953 0.586 D
+Kristen Hamilton Feb-15-1953 0.79 D
+Bonnie Roberts Feb-15-1953 3.48 D
+Jessica Jackson Feb-16-1953 3.85 I 29
+Joseph Kelly Feb-26-1953 3.86 I 114
+Angela Baker Mar-3-1953 2.6 D
+Charles Ashley Mar-12-1953 0.03 I 45
+Cheyenne Sandoval Mar-26-1953 0.84 D
+Robert Deleon Apr-1-1953 2.52 D
+Jennifer Johnson Apr-9-1953 1.5 I 119
+Samuel Page Apr-16-1953 0.76 D
+Sara Rodriguez Apr-21-1953 1.16 D
+Shannon Brown Apr-24-1953 0.0 I 33
+Jonathan Mccormick May-2-1953 0.4 D
+Travis Bell May-9-1953 0.519 I 103
+James Holmes May-13-1953 0.35 D
+Cassandra Stewart May-15-1953 1.033 I 65
+Anthony Reilly May-18-1953 2.2 D
+Katherine Henderson May-29-1953 0.22 D
+Cynthia Jordan Jun-1-1953 3.65 I 59
+Seth Jackson Jun-3-1953 0.182 D
+James Mendoza Jun-7-1953 1.681 D
+Earl Horton Jun-10-1953 3.24 D
+Sarah Liu Jun-11-1953 0.1 I 88
+Danny Lowe Jun-11-1953 2.08 I 86
+Kenneth Middleton Jun-22-1953 3.7 D
+Joseph Blackburn Jun-26-1953 4.0 I 104
+Roger Patrick Jul-22-1953 2.0 D
+Courtney Thomas Jul-27-1953 2.373 I 113
+Kristin Garcia Aug-3-1953 0.82 I 33
+Austin Ortiz Aug-3-1953 1.764 D
+Tammy Hale Aug-14-1953 4.21 I 62
+Jeanette Barr Aug-16-1953 3.999 D
+Christine Gay Aug-17-1953 3.688 D
+Crystal Powell Aug-28-1953 1.45 D
+Vanessa Brooks Sep-1-1953 1.92 D
+Elizabeth Pratt Sep-1-1953 3.72 I 52
+Eric Johnson Sep-11-1953 0.1 I 39
+John Lee Sep-12-1953 0.57 I 23
+Jonathan Alvarado Sep-16-1953 3.2 D
+Thomas Jarvis Sep-16-1953 0.498 I 90
+Cody Byrd Oct-2-1953 3.82 D
+Thomas Hurst Oct-8-1953 3.3 I 77
+Tabitha Martin Oct-8-1953 3.875 I 110
+Henry Sullivan Oct-16-1953 3.326 D
+Jeremy Maldonado Oct-25-1953 1.555 D
+William Ramsey Nov-4-1953 1.982 I 104
+Christopher Case Nov-9-1953 2.6 D
+Norman Friedman Nov-10-1953 1.919 I 81
+Eric Adams Nov-14-1953 3.87 D
+Emily Mccarthy Nov-14-1953 3.66 I 71
+Kyle Yates Nov-14-1953 0.11 I 95
+Luke Vasquez Nov-15-1953 3.9 I 28
+Lance Poole Nov-16-1953 2.66 D
+Heather Fry Nov-17-1953 3.67 D
+Benjamin Fisher Nov-19-1953 0.311 I 8
+Michelle Smith Nov-22-1953 3.5 D
+Luis Huffman Nov-23-1953 2.3 I 81
+Robert Mathis Dec-5-1953 4.06 D
+Jessica Clark Dec-6-1953 0.3 I 71
+Jeffrey Perez Dec-7-1953 2.7 I 116
+Maria Campbell Dec-15-1953 0.229 I 105
+Ashley Porter Dec-18-1953 0.1 D
+Shawn Watts Dec-18-1953 2.9 I 76
+Cynthia Rivera Dec-22-1953 1.1 D
+Sergio Jones Jan-3-1954 2.1 D
+Todd Henderson Jan-6-1954 1.2 I 26
+Edward Benjamin Jan-15-1954 3.321 I 31
+Amanda Berg Jan-21-1954 2.0 I 57
+Melissa Stewart Jan-24-1954 2.25 I 100
+Joseph Thomas Jan-31-1954 3.756 I 79
+Matthew Moore Feb-5-1954 2.1 D
+Joel Heath Feb-6-1954 1.0 I 17
+Gregory Lee Feb-12-1954 2.59 I 86
+Beverly Jones Feb-22-1954 3.012 I 27
+Kelly Malone Feb-28-1954 3.99 D
+Tyler Mcclure Feb-28-1954 3.2 I 61
+Monica Brock Mar-1-1954 1.151 I 27
+Jonathon Woods Mar-8-1954 2.1 I 96
+Isabella Webb Mar-12-1954 2.8 I 10
+Spencer Copeland Mar-24-1954 0.4 D
+Samantha Mills Mar-30-1954 2.8 I 33
+Molly Heath Mar-31-1954 4.05 I 8
+Troy Washington Apr-9-1954 4.1 I 98
+Sarah Dorsey Apr-18-1954 3.23 I 78
+Tracy Medina Apr-18-1954 3.3 I 19
+Amy Ross Apr-20-1954 0.3 D
+James Hamilton Apr-23-1954 2.464 D
+Kenneth Graham Apr-24-1954 4.0 D
+Glen Hughes Apr-25-1954 0.283 D
+Christopher Salazar Apr-26-1954 1.4 I 24
+Michael Short May-1-1954 2.88 D
+Michael Meyer May-8-1954 2.51 I 118
+Nicholas West May-12-1954 3.74 I 43
+Robin Keith May-17-1954 2.35 D
+Monica Barker May-20-1954 0.5 D
+Latoya Herrera May-25-1954 3.9 I 98
+Sara Tran Jun-1-1954 3.5 I 28
+Stephen Garcia Jun-9-1954 0.51 I 88
+Duane Hayes Jun-14-1954 2.9 D
+Kelly Willis Jun-26-1954 4.09 D
+Sarah Goodman Jun-30-1954 0.76 D
+Beverly Ward Jul-3-1954 3.12 D
+Jeffrey Coleman Jul-5-1954 0.4 I 80
+Christina Mullins Jul-9-1954 2.886 D
+Latoya Graves Jul-10-1954 1.97 I 90
+Sean Martinez Jul-11-1954 1.65 I 117
+Don Compton Jul-17-1954 1.419 I 93
+Stuart Meyer Jul-19-1954 3.8 I 98
+Brandon Fuller Jul-21-1954 0.2 D
+Matthew Houston Jul-21-1954 2.86 D
+Megan Fisher Aug-8-1954 1.3 I 62
+Kimberly Black Aug-9-1954 0.99 I 48
+Jacob Ross Aug-9-1954 1.97 I 51
+Autumn Fisher Aug-10-1954 0.2 I 36
+Jason Coleman Aug-11-1954 3.3 I 66
+Nancy Compton Aug-11-1954 0.97 D
+Justin Andrade Aug-13-1954 2.965 D
+Cory Smith Aug-16-1954 3.099 D
+James Carlson Aug-17-1954 0.8 D
+Mariah Steele Aug-17-1954 2.63 D
+Robert Baker Aug-18-1954 2.23 I 82
+Ashley Roberson Aug-26-1954 3.784 I 54
+Leah Fernandez Aug-27-1954 2.42 D
+Lisa Thomas Aug-29-1954 2.59 D
+Cameron Medina Sep-3-1954 2.854 D
+Colin Williams Sep-10-1954 0.84 I 68
+Daisy Bentley Sep-17-1954 3.86 D
+Sandra Mitchell Sep-30-1954 2.5 D
+Angela Smith Oct-5-1954 0.8 D
+April Campbell Oct-6-1954 0.5 D
+Tracy Bond Oct-8-1954 0.7 D
+Jessica Richardson Oct-15-1954 2.4 I 110
+William Hernandez Oct-18-1954 1.1 I 35
+David Wheeler Oct-24-1954 4.2 D
+Joyce Stone Nov-10-1954 2.4 D
+Matthew Hall Nov-12-1954 2.569 D
+Misty Dennis Nov-30-1954 2.991 D
+Alyssa Berg Dec-2-1954 2.81 D
+Amanda Kent Dec-6-1954 0.5 I 91
+Frank Hogan Dec-8-1954 3.99 D
+Kimberly Wu Dec-9-1954 3.4 D
+Joel Murray Dec-17-1954 2.41 I 93
+Anita Peters Dec-28-1954 2.229 I 7
+Travis Newman Jan-3-1955 1.8 D
+Dustin Daniel Jan-11-1955 3.37 D
+Janet Carter Jan-16-1955 1.1 I 112
+Amy Jackson Jan-18-1955 2.01 I 112
+Roberto French Feb-1-1955 2.7 D
+Scott Bryant Feb-5-1955 1.848 D
+Karla Sanford Feb-8-1955 0.68 I 79
+Megan Baxter Feb-10-1955 0.533 I 77
+Kelly Alexander Feb-16-1955 0.28 D
+Larry Spencer Feb-26-1955 1.8 D
+Matthew Burke Mar-11-1955 3.4 I 2
+Kristin Sanders Mar-11-1955 2.5 I 107
+Amber Cortez Apr-6-1955 3.3 D
+Daniel Rich Apr-12-1955 3.56 D
+Brian Lopez Apr-21-1955 3.42 I 106
+Christopher Smith Apr-22-1955 2.47 I 95
+Erin Smith Apr-23-1955 1.532 I 84
+Katherine Webster Apr-23-1955 2.3 I 34
+Adam Pineda May-1-1955 2.439 I 47
+Chase Mullen May-7-1955 3.03 D
+Nicholas Brooks May-8-1955 4.209 D
+Melissa Nguyen May-8-1955 1.99 D
+William Murray May-18-1955 1.478 D
+Olivia Bullock May-19-1955 0.3 D
+George Davila May-19-1955 0.673 D
+Tony White May-22-1955 3.36 D
+Brian Lawrence May-29-1955 2.6 I 104
+Sara Wilkins May-29-1955 2.5 I 91
+Joshua Fleming Jun-1-1955 0.4 I 26
+Natalie Carroll Jun-5-1955 1.66 I 5
+David Vasquez Jun-14-1955 1.49 I 40
+Michael Thomas Jun-20-1955 1.586 D
+David Davis Jun-23-1955 3.8 D
+Jeffrey Stephens Jun-28-1955 4.02 D
+Gina Hunt Jul-6-1955 3.5 D
+Derek Guerrero Jul-8-1955 3.95 I 37
+Christina Green Jul-10-1955 1.99 I 25
+Krista Price Jul-11-1955 1.3 I 15
+Andrew Owens Jul-13-1955 4.2 D
+Victor Griffith Jul-19-1955 3.204 I 98
+Robin Simmons Jul-19-1955 3.5 I 104
+Sandra Terry Jul-21-1955 0.668 D
+Larry Ramirez Jul-24-1955 3.959 I 37
+Yolanda James Jul-31-1955 0.8 D
+Elizabeth Rodriguez Aug-5-1955 2.82 D
+Shane White Aug-14-1955 3.832 I 7
+Julie Hawkins Aug-16-1955 4.247 I 48
+Justin Herrera Aug-22-1955 0.392 I 64
+Brandy Martinez Sep-3-1955 0.7 I 111
+Jason Smith Sep-3-1955 2.58 I 3
+Michael Smith Sep-10-1955 3.762 D
+Frederick Ward Sep-26-1955 1.672 D
+Melanie Davis Sep-27-1955 0.9 I 4
+Sharon Johnson Sep-28-1955 1.2 D
+Linda Davidson Oct-13-1955 4.099 D
+Austin Dixon Oct-13-1955 3.74 I 44
+Mike Clark Oct-16-1955 2.521 I 91
+John Brooks Oct-18-1955 0.85 D
+Kimberly May Oct-19-1955 3.4 I 20
+Julie Warner Oct-19-1955 4.1 I 63
+Amanda Smith Nov-1-1955 1.947 D
+Timothy Jennings Nov-4-1955 4.3 D
+Angela Hunter Nov-7-1955 1.6 D
+Hannah Parker Nov-7-1955 1.5 I 90
+Jeffery Paul Nov-8-1955 2.8 I 104
+Darren Sandoval Nov-9-1955 1.882 I 31
+Maria Francis Nov-10-1955 1.49 D
+Mitchell Perez Nov-10-1955 1.08 I 88
+Christopher Crawford Nov-13-1955 2.538 D
+David Moore Nov-14-1955 2.3 D
+Matthew Dorsey Nov-18-1955 3.4 I 60
+Jennifer Baldwin Nov-23-1955 2.25 I 79
+Aaron Anderson Nov-26-1955 2.682 I 14
+Charles Adams Nov-30-1955 2.725 I 81
+Jody Franklin Dec-1-1955 0.57 I 83
+Brandon Miller Dec-10-1955 2.544 I 37
+Olivia Reed Dec-12-1955 1.4 I 84
+Jeremy Figueroa Dec-14-1955 0.185 I 60
+Joseph White Dec-15-1955 0.283 D
+Ryan Jackson Dec-18-1955 1.62 I 55
+Angel Jones Dec-20-1955 0.679 I 98
+Andrea James Dec-22-1955 2.98 D
+Douglas Johnston Dec-29-1955 2.208 D
+Jacob Matthews Dec-29-1955 3.1 D
+John Byrd Dec-31-1955 0.0 D
+Danny Hall Jan-1-1956 0.186 D
+Jeffery Smith Jan-7-1956 0.36 D
+John Zimmerman Jan-22-1956 3.6 I 63
+Teresa Steele Jan-24-1956 2.07 I 97
+Dean Marsh Jan-27-1956 1.4 I 78
+Lori Reed Jan-28-1956 2.693 D
+Melissa Williams Feb-5-1956 2.4 I 54
+Michael Ortiz Feb-9-1956 0.98 D
+Diana Joseph Feb-25-1956 2.81 I 68
+Alexander Hernandez Mar-1-1956 0.6 D
+Felicia Kim Mar-4-1956 2.849 D
+David Hunter Mar-6-1956 0.09 I 40
+John Meyer Mar-16-1956 3.638 D
+Anthony Henderson Mar-24-1956 0.13 I 97
+Melissa Roberts Apr-16-1956 0.472 D
+Emily Summers Apr-16-1956 3.22 D
+Shelly Briggs Apr-22-1956 3.2 D
+Ronald Stone Apr-25-1956 3.296 I 99
+Joann Aguilar Apr-30-1956 0.9 D
+Karen Johnson May-3-1956 4.179 D
+Kevin Hobbs May-10-1956 1.77 D
+Regina Burgess May-11-1956 1.6 D
+Andrew Martinez May-16-1956 0.021 I 26
+Brenda Parks May-19-1956 1.8 D
+Brian Holder May-25-1956 3.2 I 62
+Nicole Peterson May-29-1956 3.4 D
+Matthew Chavez Jun-7-1956 2.317 D
+Daniel Medina Jun-25-1956 3.974 I 60
+Ronald Johnson Jun-28-1956 0.2 I 27
+Stacy Sampson Jul-3-1956 2.034 I 14
+Diana Rodriguez Jul-4-1956 3.92 D
+Theresa Johnson Jul-11-1956 1.0 I 74
+Linda Hunter Jul-20-1956 1.161 I 120
+George Brown Jul-24-1956 3.63 I 14
+Marissa Clark Jul-27-1956 3.3 I 33
+Cody Herrera Aug-6-1956 0.96 I 0
+Angela Stewart Aug-6-1956 0.579 D
+John Johns Aug-14-1956 1.85 D
+Steven Webb Sep-6-1956 1.43 D
+Michael Ali Sep-8-1956 3.974 I 78
+William Chavez Sep-9-1956 1.36 I 80
+Stacy Reeves Sep-10-1956 1.05 I 99
+Robert Morales Sep-21-1956 0.564 I 48
+Gregory Key Sep-25-1956 1.6 D
+Nicole Harvey Oct-3-1956 0.2 D
+Amy Fernandez Oct-14-1956 1.5 I 49
+Kyle Ellis Oct-18-1956 3.0 I 84
+Courtney Henry Oct-22-1956 3.3 I 22
+Maureen Miranda Nov-3-1956 4.246 D
+James Mendez Nov-6-1956 2.2 D
+Micheal Perez Nov-18-1956 3.908 I 1
+Samuel Bell Nov-20-1956 0.46 D
+Jeremy Webb Nov-24-1956 2.1 D
+Daniel Robinson Nov-28-1956 3.491 D
+Jasmine Guzman Nov-29-1956 3.0 D
+Johnny Stevens Dec-5-1956 0.5 D
+Samuel Steele Dec-6-1956 2.394 D
+Emma Meyer Dec-7-1956 0.9 D
+Daniel Ward Dec-10-1956 0.61 I 42
+Kristina Woods Dec-10-1956 1.593 I 110
+Maxwell Anderson Dec-11-1956 3.39 D
+Julie Garrison Dec-14-1956 2.27 I 108
+Sarah Mcdonald Dec-14-1956 4.079 D
+Drew Ramirez Dec-14-1956 2.786 I 63
+Jacob Gray Dec-23-1956 1.2 D
+Joshua Vargas Dec-24-1956 3.98 I 14
+Alexander Rivas Dec-25-1956 2.55 I 84
+Rodney Green Jan-2-1957 2.283 I 27
+Courtney Gonzalez Jan-5-1957 0.9 I 79
+Kevin Ross Jan-5-1957 4.27 I 106
+Lisa Suarez Jan-16-1957 3.6 D
+Adam Morris Jan-17-1957 4.0 D
+Gary May Jan-24-1957 1.72 I 63
+Victoria Berry Jan-28-1957 0.64 D
+Jeffrey Cisneros Jan-28-1957 1.837 I 100
+Kimberly Martin Jan-28-1957 1.863 D
+Caitlin Gonzalez Jan-29-1957 1.31 D
+April Gutierrez Feb-1-1957 2.5 I 51
+Allison Johnson Feb-1-1957 3.687 I 114
+Curtis Atkinson Feb-5-1957 3.628 D
+Alexis Matthews Feb-5-1957 3.27 I 93
+Rebecca Lopez Feb-17-1957 0.1 I 57
+Juan Walker Feb-27-1957 3.0 D
+Jerry Humphrey Feb-28-1957 4.128 D
+Amanda Palmer Feb-28-1957 1.51 I 22
+Kelly Reese Mar-2-1957 4.0 I 1
+Dorothy Olson Mar-3-1957 3.44 D
+Miguel Nguyen Mar-12-1957 1.9 D
+Michael Cochran Mar-13-1957 1.6 I 96
+Walter Guzman Mar-16-1957 1.232 D
+Regina Nelson Mar-17-1957 0.533 I 27
+Natasha Patterson Mar-28-1957 1.4 D
+John Vasquez Mar-31-1957 2.37 D
+Darryl Kramer Apr-6-1957 1.92 I 76
+Michael Flores Apr-7-1957 2.39 I 50
+Lisa Bush Apr-9-1957 3.476 D
+Tracey Garcia Apr-10-1957 1.87 D
+Sherry Foster May-3-1957 2.94 D
+Elizabeth Cole May-6-1957 1.59 D
+John Knight May-7-1957 4.0 D
+Bradley Gomez May-10-1957 2.1 I 94
+Deanna Moreno May-11-1957 0.35 I 3
+Jennifer Murphy May-14-1957 2.83 D
+Tristan Gonzales May-20-1957 1.4 I 33
+Paul Ramos May-26-1957 2.6 I 90
+Malik Smith Jun-5-1957 1.68 D
+Rebecca Cruz Jun-9-1957 2.05 D
+Michelle Martinez Jun-14-1957 2.612 D
+Anna Johns Jun-16-1957 0.25 I 14
+Briana Ewing Jun-17-1957 3.5 I 30
+Antonio Gould Jun-17-1957 3.737 I 15
+George Castillo Jun-19-1957 1.879 D
+Ryan Johnson Jun-20-1957 3.05 D
+Jessica Rogers Jun-26-1957 4.1 I 34
+Lacey James Jun-27-1957 3.5 I 14
+Jeffrey Elliott Jul-3-1957 0.77 D
+David Meyer Jul-5-1957 0.5 I 33
+Heather Spence Jul-5-1957 1.191 I 48
+Paul Anderson Jul-10-1957 0.3 I 3
+Edward Bell Jul-12-1957 0.701 D
+John Taylor Jul-15-1957 0.09 I 77
+Marie Johnson Jul-27-1957 3.267 D
+Brian Howard Jul-29-1957 1.9 D
+Megan Miller Aug-5-1957 0.79 I 72
+Justin Smith Aug-6-1957 3.381 I 92
+Edward Owen Aug-8-1957 1.914 I 39
+Tracey Burch Aug-11-1957 2.21 I 93
+Philip Mathews Aug-14-1957 2.8 I 65
+David Montoya Aug-14-1957 3.03 D
+Andrew Floyd Aug-18-1957 3.34 I 28
+Brett Steele Aug-18-1957 3.263 D
+Austin Trevino Aug-24-1957 1.77 D
+Joseph Torres Aug-26-1957 2.0 D
+Michelle Chandler Aug-31-1957 0.626 D
+Gregory Baker Sep-5-1957 0.77 I 5
+Peggy Cook Sep-5-1957 2.575 D
+Heather Clarke Sep-9-1957 0.4 I 48
+Rita Hunter Sep-13-1957 4.1 D
+Marissa Douglas Sep-16-1957 2.1 D
+Larry Taylor Sep-16-1957 1.522 I 110
+Sabrina James Sep-17-1957 2.706 I 118
+Diana Grimes Sep-24-1957 4.107 D
+Catherine Scott Sep-24-1957 0.102 D
+Kimberly Gonzales Sep-25-1957 1.7 I 85
+Joshua Deleon Sep-29-1957 2.836 I 69
+Alexandra Stewart Oct-5-1957 0.14 D
+Kayla Brown Oct-13-1957 0.8 I 71
+Megan Meyer Oct-13-1957 2.929 D
+Rebecca Rice Oct-18-1957 1.85 I 2
+Alan Walker Oct-21-1957 0.895 I 73
+Sarah Barnes Oct-24-1957 3.0 I 117
+Hector Smith Oct-30-1957 0.549 I 13
+Peter Whitehead Nov-3-1957 3.41 D
+Scott Sherman Nov-5-1957 3.1 D
+Curtis Bell Nov-16-1957 0.878 D
+Daniel Walker Nov-16-1957 1.02 I 7
+Amy Gill Nov-25-1957 2.64 D
+Jennifer Hayes Nov-25-1957 2.3 I 101
+Mark Hardin Nov-27-1957 4.1 I 55
+Rachel Garcia Nov-28-1957 3.57 I 59
+Alyssa Davis Dec-4-1957 2.1 I 35
+Maria Harrison Dec-4-1957 2.4 D
+Amy Stone Dec-9-1957 0.8 D
+Marissa Fernandez Dec-16-1957 0.355 D
+Christopher Khan Dec-30-1957 4.12 I 7
+Natalie Barnes Jan-17-1958 1.9 I 28
+Ronald Barrera Jan-28-1958 2.45 I 100
+Amber Watson Jan-31-1958 1.35 D
+Nancy Savage Feb-10-1958 1.731 D
+Barbara Ochoa Feb-22-1958 2.0 D
+Erin Pennington Feb-22-1958 0.75 D
+Alison Perez Feb-23-1958 3.093 I 31
+Omar Herrera Feb-26-1958 3.8 D
+Patrick Davis Feb-27-1958 2.39 D
+Tina Jackson Mar-1-1958 0.8 D
+Ashley Barker Mar-3-1958 2.24 I 39
+Samuel Bauer Mar-8-1958 1.44 I 96
+Megan Smith Mar-17-1958 0.477 I 92
+Elizabeth Kemp Mar-18-1958 3.3 D
+William Lambert Mar-27-1958 1.36 D
+Lance Holmes Mar-29-1958 3.9 D
+Michael Hamilton Apr-7-1958 3.8 D
+Craig Freeman Apr-9-1958 0.8 I 82
+James Parker Apr-10-1958 3.5 I 3
+John Lucas Apr-21-1958 3.2 D
+Jesse Rice Apr-22-1958 4.29 D
+Jacob Jackson Apr-24-1958 1.99 I 98
+Bryan Jackson May-6-1958 1.57 I 111
+Dawn Sharp May-7-1958 2.3 I 47
+Cindy Johnson May-8-1958 3.547 D
+Peter Whitaker May-10-1958 2.08 D
+Derek Morton May-15-1958 3.6 D
+David Haley Jun-3-1958 2.9 I 6
+Matthew Mathis Jun-6-1958 0.43 I 27
+James Thompson Jun-11-1958 0.32 D
+Barbara Farrell Jun-13-1958 4.187 D
+Lisa Graham Jun-20-1958 0.1 D
+Carlos Nguyen Jun-27-1958 3.8 D
+Cameron Wright Jun-28-1958 1.32 D
+Albert Caldwell Jun-30-1958 3.8 I 95
+Sarah Martin Jul-4-1958 0.74 D
+Keith Bush Jul-5-1958 4.212 D
+Ashley Griffith Jul-6-1958 0.71 D
+Yvonne Rodriguez Jul-15-1958 3.059 D
+Mary Hampton Jul-22-1958 0.527 D
+Shelly Price Jul-23-1958 3.61 D
+Larry Solomon Jul-24-1958 3.1 D
+Aaron Murphy Jul-25-1958 3.049 D
+Connor Landry Aug-8-1958 0.1 I 30
+Brandon Hernandez Aug-11-1958 0.29 I 41
+Renee Davis Aug-12-1958 1.8 I 13
+Ryan Cook Sep-3-1958 2.071 I 46
+Tiffany Garza Sep-15-1958 1.6 I 15
+Anthony Ward Sep-19-1958 3.09 D
+Darrell Tapia Sep-24-1958 3.26 D
+Sarah Allen Sep-25-1958 3.116 D
+Timothy Jones Sep-27-1958 1.256 D
+Matthew Harrison Sep-28-1958 2.0 D
+Antonio Perez Sep-28-1958 3.9 D
+Christopher Wong Sep-28-1958 0.23 D
+Ana Bass Oct-16-1958 2.944 I 48
+Justin Thomas Oct-19-1958 0.878 D
+Jeremy Alexander Oct-22-1958 0.48 D
+Benjamin Miller Oct-22-1958 1.5 I 66
+Gary Carter Oct-29-1958 0.3 I 42
+Joseph Stevens Nov-1-1958 4.266 I 115
+Carlos Singleton Nov-3-1958 3.28 D
+Carrie Lewis Nov-9-1958 0.587 D
+Lori Johnson Nov-10-1958 4.2 D
+Jesse Hubbard Nov-14-1958 2.51 D
+Joe Payne Nov-18-1958 3.09 D
+Elizabeth Thornton Nov-18-1958 1.6 D
+Daniel Mason Nov-24-1958 3.44 D
+Shawn Wells Dec-2-1958 0.95 D
+Autumn Giles Dec-7-1958 3.725 D
+Timothy Koch Dec-9-1958 1.7 I 17
+John Meza Dec-10-1958 4.203 I 96
+Anne Perez Dec-10-1958 1.61 D
+William Mann Jan-1-1959 0.98 D
+Frank Coleman Jan-4-1959 1.5 I 35
+Mark Garcia Jan-7-1959 1.32 D
+Sarah Johnson Jan-7-1959 2.5 D
+John Case Jan-10-1959 2.75 D
+Caitlin Garcia Jan-18-1959 0.17 I 25
+Brenda Hernandez Feb-4-1959 1.4 I 91
+Adam Smith Feb-7-1959 0.5 I 82
+Ryan Gillespie Feb-10-1959 0.69 D
+Sarah Adams Feb-11-1959 0.7 I 65
+Mitchell Lopez Feb-14-1959 2.11 I 40
+Robin Ellis Feb-19-1959 1.228 D
+Meredith Wood Feb-20-1959 0.575 I 98
+William Skinner Feb-28-1959 1.7 D
+Phillip Mckenzie Mar-4-1959 0.071 I 23
+Jessica Smith Mar-7-1959 0.57 I 15
+Kimberly Andrews Mar-8-1959 0.51 I 97
+Nicholas Zimmerman Mar-14-1959 3.92 I 105
+Brianna Carter Mar-16-1959 3.9 D
+Keith Ramos Mar-18-1959 2.11 I 113
+Steven Marsh Mar-23-1959 3.94 I 99
+Pamela Stevens Mar-23-1959 0.859 I 19
+Ryan Marshall Mar-24-1959 0.9 D
+Christopher Myers Mar-25-1959 1.3 I 102
+Jose Spencer Mar-26-1959 1.2 I 16
+Dustin Barker Mar-27-1959 2.03 D
+Christina Elliott Mar-29-1959 3.1 I 50
+Jose Moore Apr-19-1959 4.13 D
+Alyssa Cole Apr-20-1959 2.008 I 61
+Karen Harvey Apr-21-1959 3.0 D
+Carolyn Cabrera Apr-29-1959 2.93 I 113
+Charles Watson May-23-1959 3.3 D
+Richard Watson May-29-1959 3.2 D
+Matthew Cooper Jun-2-1959 2.45 D
+Alan Vazquez Jun-6-1959 0.2 I 24
+Sean Stone Jun-10-1959 4.0 I 120
+Julie Powers Jun-15-1959 0.35 D
+Brian Wright Jun-15-1959 0.2 D
+Matthew Robinson Jun-17-1959 0.05 I 109
+Crystal Zhang Jun-19-1959 0.184 I 3
+Justin Baker Jun-20-1959 4.14 I 50
+Colleen Humphrey Jun-21-1959 0.72 D
+Amanda Sullivan Jul-17-1959 2.3 I 24
+Karen Moore Jul-18-1959 0.813 D
+Michael Mendoza Jul-29-1959 2.0 D
+Terry Stewart Jul-29-1959 0.47 I 103
+Billy Chavez Aug-2-1959 1.099 D
+Patricia Castaneda Aug-7-1959 0.28 D
+Michael Hall Aug-9-1959 4.1 D
+Amy Odonnell Aug-9-1959 3.35 I 88
+Kenneth Sanchez Aug-12-1959 3.15 I 12
+Jeremy Atkinson Aug-14-1959 2.04 I 18
+Charles Peterson Sep-5-1959 1.0 D
+Cynthia Anderson Sep-7-1959 1.1 I 49
+David Gilbert Sep-14-1959 1.837 D
+Anthony Tran Sep-14-1959 1.79 I 62
+Michele Cook Sep-20-1959 1.604 D
+Randy Morrow Sep-20-1959 0.96 I 98
+Cassandra Flores Sep-24-1959 2.217 I 33
+Bradley Garcia Sep-29-1959 1.49 I 65
+Daniel Martin Sep-29-1959 2.643 D
+Kelly Mccarthy Sep-30-1959 2.94 D
+James Ayala Oct-11-1959 4.224 D
+Tyler Rivera Oct-16-1959 3.04 I 113
+Jennifer Howell Oct-21-1959 1.6 D
+Mary Miller Oct-25-1959 2.64 I 51
+Tiffany Thomas Oct-28-1959 0.64 I 64
+Cheyenne Hunter Nov-4-1959 3.674 I 25
+Susan Lee Nov-4-1959 2.094 D
+Andrew Hall Nov-5-1959 4.077 D
+George Mitchell Nov-18-1959 3.885 D
+Grace Jenkins Nov-29-1959 3.65 I 65
+Lindsey Smith Dec-13-1959 0.34 I 17
+Rodney Schmidt Dec-23-1959 1.5 D
+Travis Ramsey Jan-4-1960 2.56 I 110
+Donna Scott Jan-4-1960 1.2 D
+Douglas Fernandez Jan-10-1960 3.58 D
+Charles Bush Jan-13-1960 0.5 D
+Diana Bradley Jan-30-1960 0.385 D
+Nancy Brown Jan-30-1960 2.142 D
+Angela Lawson Feb-1-1960 2.3 D
+Daniel Diaz Feb-3-1960 3.43 D
+Danielle White Feb-3-1960 1.67 I 73
+Dawn Goodwin Feb-6-1960 3.264 I 46
+Robert Aguilar Feb-12-1960 1.85 D
+Katrina Gibson Feb-12-1960 0.507 D
+Melissa Carter Feb-15-1960 1.704 D
+Barbara Hooper Feb-21-1960 3.0 I 58
+Paul Maldonado Feb-22-1960 1.93 I 23
+Jennifer Burgess Feb-23-1960 1.266 D
+Helen Smith Feb-23-1960 0.055 D
+Tammy Miles Feb-26-1960 1.433 I 28
+Sharon Johnson Mar-6-1960 3.8 I 47
+Leah Coffey Mar-12-1960 1.5 I 83
+Jill Howard Mar-12-1960 0.9 D
+Alyssa Kelley Mar-17-1960 0.31 D
+Kenneth Miller Mar-17-1960 0.269 I 117
+Tina Thomas Mar-27-1960 0.26 D
+Connor Waters Mar-28-1960 0.976 I 110
+Tiffany Webb Mar-28-1960 2.091 I 25
+Lucas Miranda Apr-3-1960 2.1 I 37
+Jennifer Jackson Apr-14-1960 1.133 D
+Megan Morris Apr-17-1960 3.336 I 13
+Andrew Craig Apr-29-1960 1.2 D
+Sandra Jordan May-3-1960 2.05 D
+Steven Rios May-19-1960 4.3 D
+Joel Garcia May-28-1960 3.4 I 50
+Crystal Morgan May-30-1960 0.65 D
+Christopher Warren May-31-1960 4.0 D
+Brittany Stewart Jun-18-1960 4.14 I 105
+Jeff Ortiz Jun-19-1960 3.1 D
+John Carter Jun-22-1960 1.619 I 104
+Tanya Haney Jun-23-1960 2.1 D
+Richard Ray Jun-26-1960 3.38 D
+Jason Tucker Jun-29-1960 3.1 I 112
+Keith Snyder Jul-4-1960 0.08 D
+Emily Johnson Jul-8-1960 4.2 I 97
+Emily Gilbert Jul-11-1960 3.943 D
+Pamela Hill Jul-11-1960 1.6 I 103
+Matthew Johnson Jul-13-1960 2.7 D
+Scott Mccoy Jul-16-1960 2.23 D
+Ryan Riley Jul-22-1960 1.7 D
+Stephanie Johnson Jul-25-1960 1.66 D
+Steven Vasquez Jul-26-1960 0.113 I 52
+Charles Woods Jul-26-1960 1.138 D
+Christopher Adams Aug-1-1960 3.651 D
+Carolyn White Aug-2-1960 3.146 I 39
+David Richardson Aug-9-1960 2.45 D
+Martin Taylor Aug-10-1960 1.99 D
+Cristian Logan Aug-17-1960 0.547 I 6
+Lindsay Brown Aug-19-1960 0.886 D
+Jonathan Ayala Aug-21-1960 0.7 I 90
+Karen Gomez Aug-23-1960 3.18 I 79
+Christian Wood Aug-28-1960 2.2 D
+Patricia Stewart Sep-6-1960 1.25 D
+Timothy Walton Sep-9-1960 1.7 D
+Virginia Smith Sep-13-1960 0.3 I 75
+Reginald Thompson Sep-17-1960 1.7 I 83
+Robin Hamilton Sep-20-1960 2.0 I 76
+David Morgan Sep-25-1960 1.52 I 12
+Teresa Chapman Sep-26-1960 1.195 I 93
+Allison Davis Oct-8-1960 1.5 D
+Charles Diaz Oct-12-1960 3.65 D
+Christy Evans Oct-14-1960 3.7 D
+Hannah Green Oct-18-1960 1.0 D
+Michael Mason Oct-18-1960 2.466 D
+Kenneth Ortiz Oct-23-1960 3.731 D
+Lauren Alexander Oct-24-1960 0.4 D
+Larry Jackson Nov-3-1960 1.22 D
+John Gilbert Nov-9-1960 0.39 D
+Stephen Williams Nov-9-1960 0.738 I 97
+Renee Knight Nov-10-1960 2.579 I 1
+Sherry Pearson Nov-12-1960 0.26 I 90
+Erin Medina Nov-16-1960 0.2 I 74
+John Fitzpatrick Nov-25-1960 0.2 D
+Tiffany Reyes Dec-14-1960 2.228 I 58
+Jessica Hart Dec-18-1960 3.8 D
+Robert Brown Dec-22-1960 1.5 I 63
+Aimee Gibbs Dec-25-1960 1.71 I 67
+Daniel Huang Dec-29-1960 1.57 I 41
+Tracy Stevens Dec-31-1960 1.54 I 58
+Colleen Moore Jan-14-1961 3.0 I 50
+Hannah Warren Jan-19-1961 2.053 I 2
+James Herring Jan-20-1961 1.44 I 42
+Kim Brown Jan-27-1961 0.974 I 27
+Marilyn Jimenez Feb-2-1961 1.316 I 41
+Gabrielle Phillips Feb-2-1961 2.239 I 70
+Michelle Campbell Feb-6-1961 4.16 D
+Austin Richards Feb-6-1961 0.003 D
+Dana Cox Feb-14-1961 1.13 D
+Victor Brown Feb-19-1961 0.9 I 5
+Emily Lewis Feb-19-1961 0.542 D
+Robert Miller Feb-28-1961 1.4 I 34
+Amy Gilbert Mar-1-1961 2.107 D
+Jay Rodriguez Mar-7-1961 0.5 I 1
+Natalie Jarvis Mar-13-1961 1.708 I 2
+Jeffrey Brooks Mar-15-1961 3.5 I 90
+David Cobb Mar-15-1961 3.183 D
+Melissa Curtis Mar-18-1961 3.032 I 54
+Stephen Frey Mar-18-1961 1.948 I 102
+Samuel Johnson Mar-28-1961 1.74 I 18
+Stanley Brown Apr-2-1961 1.71 I 50
+Laura Wilkinson Apr-6-1961 2.3 D
+Sue Mccullough Apr-8-1961 2.5 I 103
+Deborah Munoz Apr-10-1961 1.38 D
+Eric Powell Apr-10-1961 3.8 I 32
+Brian Velasquez Apr-10-1961 1.3 D
+Christina Smith Apr-12-1961 2.8 D
+Aaron Zuniga Apr-16-1961 3.288 D
+Marc Berg Apr-17-1961 0.4 I 120
+Sean Moore Apr-18-1961 1.8 D
+Patrick Haney Apr-19-1961 2.99 I 98
+Debra Rowe Apr-20-1961 1.0 D
+Ashley Chaney Apr-22-1961 1.0 I 113
+Carol Davis Apr-24-1961 0.02 I 80
+Amanda Wood Apr-25-1961 3.495 I 33
+Brittany Dawson Apr-26-1961 2.6 D
+Michelle Sullivan Apr-28-1961 3.33 D
+Troy Reynolds May-5-1961 3.55 D
+Tiffany Morales May-11-1961 0.7 I 56
+Cheyenne Mcdonald May-15-1961 4.2 I 99
+Kimberly Norton May-15-1961 0.623 I 71
+Steven James May-25-1961 3.719 D
+Clinton Golden Jun-7-1961 0.033 D
+Kristen Gomez Jun-7-1961 1.39 I 72
+Alejandro Hubbard Jun-10-1961 1.073 I 120
+Beth Morales Jun-12-1961 1.343 I 3
+Michael Graham Jun-14-1961 1.61 D
+Joshua Jones Jun-14-1961 0.6 I 31
+Jennifer Martinez Jun-15-1961 1.3 D
+Julia Mcguire Jun-15-1961 4.29 D
+Elizabeth Mckenzie Jun-22-1961 0.7 I 47
+Anne Torres Jun-24-1961 0.466 I 11
+Timothy Hendricks Jul-7-1961 3.2 I 72
+Kevin Norris Jul-9-1961 2.84 I 107
+Kara Turner Jul-20-1961 0.3 I 53
+Shannon Torres Jul-23-1961 1.243 D
+Joseph Morris Jul-24-1961 0.593 I 95
+Shelly Gardner Jul-29-1961 1.23 D
+Max Nichols Aug-4-1961 4.297 D
+Laura Cooper Aug-5-1961 2.9 D
+Lisa Allen Aug-7-1961 2.4 D
+Jennifer Reid Aug-10-1961 2.655 I 11
+Vanessa Hopkins Aug-14-1961 1.43 D
+Billy Cuevas Aug-15-1961 2.822 D
+Lori Bell Aug-21-1961 4.01 D
+Jennifer Gutierrez Aug-21-1961 1.83 D
+Tammy Medina Aug-25-1961 1.61 I 93
+Linda Lambert Sep-1-1961 3.862 I 73
+Christopher Cortez Sep-7-1961 3.77 I 75
+Jesus Jarvis Sep-7-1961 3.8 D
+Jasmine Reed Sep-9-1961 0.3 D
+Carrie Cobb Sep-10-1961 1.396 D
+Brian Weaver Sep-10-1961 2.563 I 106
+Jennifer Patel Sep-13-1961 3.81 I 97
+Amanda Curtis Sep-23-1961 3.41 D
+Amanda Buckley Sep-25-1961 3.742 D
+Paul Wells Sep-26-1961 3.2 I 42
+Tiffany White Sep-26-1961 3.06 D
+John Griffin Oct-8-1961 3.763 D
+Jonathan Miller Oct-8-1961 1.4 I 105
+Jennifer Barnes Oct-13-1961 1.2 I 16
+Jason Harris Oct-16-1961 3.0 I 78
+Sharon Hinton Oct-28-1961 2.7 D
+Steven Morales Oct-28-1961 1.6 D
+Nicole Marquez Oct-30-1961 2.0 I 30
+Andrea Fisher Nov-1-1961 0.3 D
+Anna Ross Nov-3-1961 1.486 I 117
+Larry Sanchez Nov-3-1961 2.83 I 92
+Victoria Morrison Nov-4-1961 2.88 D
+Mary Wise Nov-4-1961 1.12 I 93
+Betty Wilson Nov-9-1961 2.72 D
+Chelsea Owens Nov-16-1961 1.8 D
+Shelby Hill Nov-17-1961 3.001 D
+Taylor Yang Nov-19-1961 3.964 D
+Phyllis Reyes Nov-22-1961 2.463 I 11
+Sean Perry Dec-1-1961 3.8 D
+Andrew Cole Dec-7-1961 3.2 D
+Wyatt Pace Dec-9-1961 2.9 I 25
+Wendy Clark Dec-14-1961 1.3 D
+Eric Conway Dec-24-1961 3.36 D
+Angie Hughes Dec-28-1961 2.77 D
+Ryan Smith Dec-29-1961 0.6 I 27
+Melinda Diaz Jan-6-1962 3.24 I 68
+Sue Nelson Jan-9-1962 1.8 I 112
+Charles Smith Jan-16-1962 0.9 D
+Martin Potter Jan-18-1962 4.1 D
+Bradley Austin Jan-20-1962 4.206 D
+Jonathan Romero Jan-22-1962 1.972 D
+Travis Graham Jan-31-1962 3.1 D
+Brian Lewis Jan-31-1962 1.596 I 11
+Roberto Perry Feb-3-1962 3.7 D
+Nicole Warner Feb-6-1962 3.7 I 25
+Adam Brooks Feb-7-1962 2.0 D
+Steven Diaz Feb-16-1962 0.321 I 33
+Heather Harrison Feb-25-1962 4.03 D
+Devin Hill Feb-25-1962 1.8 I 64
+Lisa Goodman Feb-27-1962 3.5 I 11
+Martha Cobb Mar-2-1962 1.44 I 65
+Timothy Austin Mar-6-1962 3.37 D
+David King Mar-21-1962 1.39 D
+Kevin Hunter Mar-24-1962 1.1 I 83
+Jennifer Wilson Apr-10-1962 1.395 D
+Bobby Hines Apr-24-1962 2.5 D
+Matthew Mitchell Apr-26-1962 1.096 D
+Cory Graves May-9-1962 1.9 D
+William Wagner May-26-1962 3.782 I 63
+Ian Bryant May-30-1962 2.52 I 76
+Matthew Middleton May-31-1962 3.28 I 6
+Juan Blackburn Jun-5-1962 0.27 D
+Juan Schaefer Jun-5-1962 1.1 I 16
+Hector Patel Jun-8-1962 1.659 D
+Victoria Duffy Jun-12-1962 3.63 D
+Erin Davis Jun-15-1962 1.066 I 118
+Lisa Browning Jun-16-1962 1.962 D
+Alexander Cruz Jul-6-1962 3.3 I 103
+Stephanie Newton Jul-6-1962 3.2 I 16
+Lori Mcintosh Jul-15-1962 2.337 I 105
+Jennifer Martin Jul-29-1962 0.852 D
+James Ashley Jul-30-1962 2.0 I 66
+Jimmy Hess Jul-30-1962 1.5 I 74
+Billy Johnson Jul-30-1962 4.171 D
+Chad Hoffman Aug-1-1962 3.3 D
+John Mccoy Aug-1-1962 1.157 D
+Jaime Delgado Aug-3-1962 1.595 I 85
+Edward Cook Aug-6-1962 3.9 D
+Raymond Garrison Aug-8-1962 0.092 I 111
+Ian Myers Aug-8-1962 0.6 I 104
+Matthew Vazquez Aug-13-1962 0.399 I 43
+Melvin Bowman Aug-17-1962 1.64 I 38
+Jason Patton Aug-28-1962 1.0 D
+Michelle Vazquez Sep-1-1962 1.923 I 118
+Kathy Gonzalez Sep-2-1962 2.65 I 90
+Steven Joseph Sep-2-1962 1.1 D
+Sandra Miller Sep-3-1962 0.5 D
+Luis Smith Sep-4-1962 3.06 D
+Heather Roman Sep-17-1962 1.4 D
+Alan Long Sep-26-1962 3.534 I 29
+Jason Baker Sep-29-1962 0.42 I 83
+Michael Cook Oct-5-1962 0.11 D
+Nicole Ballard Oct-8-1962 2.08 D
+Stephanie Mccormick Oct-18-1962 0.98 I 87
+Shane Miller Oct-22-1962 4.2 I 50
+William Blake Nov-10-1962 0.48 D
+Michael Howe Nov-10-1962 1.8 D
+Jacob Singh Nov-24-1962 3.38 I 43
+Brandi Frost Nov-25-1962 0.5 D
+Amy Russell Nov-28-1962 1.748 I 36
+Ashley Smith Nov-29-1962 1.46 D
+Grace Carey Dec-1-1962 0.3 I 34
+Harold Boyle Dec-2-1962 2.855 I 55
+Alexander Thompson Dec-3-1962 1.97 I 41
+Tamara Lara Dec-7-1962 4.13 I 61
+Desiree Figueroa Dec-9-1962 1.7 I 86
+Amy Ortiz Dec-12-1962 3.5 I 17
+Dominique Berry Dec-17-1962 0.288 D
+Matthew Davis Dec-21-1962 0.325 I 56
+Rickey Orr Dec-22-1962 0.425 D
+Mark Meadows Dec-26-1962 2.1 I 77
+Kelly Thomas Dec-28-1962 2.71 D
+Anthony Burns Jan-2-1963 2.637 D
+Robert Martinez Jan-6-1963 1.4 D
+Daniel Miller Jan-10-1963 0.7 I 95
+Anthony Mathews Jan-11-1963 1.872 D
+Shane Massey Jan-13-1963 2.1 D
+Marc Terry Jan-18-1963 0.664 I 108
+Jim Campbell Jan-21-1963 3.6 I 48
+Stephanie Jimenez Jan-21-1963 3.0 I 52
+Rose Cortez Jan-24-1963 3.813 I 115
+Angela Henderson Jan-26-1963 3.173 D
+Richard Williams Jan-26-1963 4.13 D
+Michael Boyd Jan-29-1963 3.128 D
+Laura Campbell Jan-29-1963 0.9 D
+Ashley Carter Feb-3-1963 0.5 I 50
+Lauren Lee Feb-3-1963 2.568 I 29
+James Bass Feb-7-1963 1.72 D
+Kara Brown Feb-7-1963 3.9 D
+James Cox Feb-9-1963 3.2 I 31
+Joseph Chen Feb-11-1963 0.2 D
+Paula Bishop Feb-12-1963 2.0 I 38
+Megan Andrews Feb-13-1963 3.365 I 106
+Heather Bridges Feb-15-1963 0.68 D
+Sean Fuller Feb-23-1963 3.732 I 85
+David Stevens Mar-3-1963 0.56 D
+Melissa Allen Mar-7-1963 0.99 I 8
+Joshua Williams Mar-13-1963 2.2 D
+Hunter Webb Mar-27-1963 0.9 D
+Laura Eaton Mar-31-1963 2.143 I 115
+Eric Hill Apr-3-1963 3.645 I 48
+Heather Myers Apr-4-1963 4.26 I 8
+Brian Jones Apr-6-1963 1.03 I 1
+Wanda Perez Apr-8-1963 0.27 I 36
+Brooke Cameron Apr-17-1963 2.7 I 96
+Nathan Moore Apr-20-1963 1.86 D
+Dana Smith Apr-30-1963 3.87 D
+Hunter Sherman May-1-1963 0.22 I 70
+Jade Moore May-7-1963 1.36 I 15
+Maria Hernandez May-18-1963 1.105 D
+Jennifer Sanders May-19-1963 3.7 I 72
+Connor Marsh May-22-1963 3.3 D
+Carla Buchanan May-24-1963 0.1 I 106
+Michael Golden May-26-1963 3.434 D
+Jonathan Logan Jun-1-1963 4.06 D
+Robert Fitzpatrick Jun-8-1963 2.651 D
+Lindsey Walsh Jun-14-1963 2.6 I 81
+Betty Gardner Jun-16-1963 0.5 I 108
+John Marsh Jun-18-1963 4.2 I 32
+Gregory Curtis Jun-26-1963 3.0 D
+Mary Oliver Jun-28-1963 2.4 I 112
+Cory Miller Jun-30-1963 2.838 I 69
+Matthew Rasmussen Jun-30-1963 3.2 I 20
+Jeffrey Chaney Jul-4-1963 3.6 D
+Andrew Young Jul-5-1963 2.988 I 61
+Jose Schroeder Jul-6-1963 2.8 D
+Gregory Brown Jul-12-1963 1.422 D
+Ashley Chase Jul-14-1963 4.09 D
+Shelley Patrick Jul-17-1963 3.91 D
+Victoria Williams Jul-19-1963 0.94 I 20
+Jane Coffey Jul-27-1963 3.2 I 52
+Cynthia Wilson Jul-31-1963 2.4 D
+James Ward Aug-3-1963 1.125 I 116
+Craig Allen Aug-12-1963 4.11 D
+Arthur Johnson Aug-22-1963 1.139 I 18
+Elizabeth Moyer Aug-27-1963 1.89 I 40
+Rhonda Simon Aug-28-1963 3.519 I 40
+Amy Wells Aug-28-1963 2.067 I 117
+Mary Suarez Aug-30-1963 2.6 I 52
+Joseph Walsh Sep-4-1963 0.394 I 79
+Penny Payne Sep-6-1963 0.065 D
+John Williams Sep-24-1963 2.787 D
+Olivia Tapia Sep-25-1963 3.928 I 77
+Gary Randolph Sep-28-1963 1.09 I 72
+Michael Miller Oct-1-1963 1.133 I 43
+Veronica Brown Oct-6-1963 1.9 I 67
+Jack Bond Oct-13-1963 3.373 I 79
+Deborah Schmidt Oct-15-1963 1.02 I 94
+Jeffrey Obrien Oct-19-1963 2.4 I 29
+Jason Snyder Oct-23-1963 2.11 I 114
+Colin Miller Oct-26-1963 3.6 D
+Renee Hawkins Oct-29-1963 1.0 D
+Crystal Jones Oct-31-1963 2.7 I 101
+Jennifer Haynes Nov-3-1963 2.804 I 65
+Kathryn Ingram Nov-8-1963 1.65 I 111
+Joshua Hendrix Nov-9-1963 3.636 D
+George Riddle Nov-10-1963 1.15 I 20
+Theresa Paul Nov-16-1963 3.025 D
+Pamela Rowland Nov-26-1963 3.971 I 67
+Christopher Walton Nov-28-1963 2.695 I 75
+Ryan Klein Dec-1-1963 1.6 D
+Jessica Thompson Dec-4-1963 2.17 D
+Karina Mcdonald Dec-19-1963 2.8 I 21
+Adam Wells Dec-19-1963 4.098 D
+Mark Peterson Dec-24-1963 1.8 I 114
+Jesus Scott Dec-30-1963 3.85 D
+Shannon Baker Jan-2-1964 1.702 D
+Jeffrey Turner Jan-5-1964 4.203 I 19
+Jeffrey Anderson Jan-13-1964 2.7 I 24
+Marcus Williams Jan-21-1964 1.12 I 67
+Dana Kline Jan-22-1964 1.44 D
+Tracy Stone Jan-23-1964 1.034 I 1
+Joshua Ryan Jan-25-1964 2.4 I 115
+Lisa Cross Jan-29-1964 1.1 I 105
+Amanda Greer Feb-1-1964 0.428 I 13
+Matthew Morton Feb-2-1964 0.951 I 89
+Rachel Griffin Feb-3-1964 0.505 I 115
+Theresa Wright Feb-6-1964 1.508 D
+Amy Martinez Feb-9-1964 3.5 I 102
+Michele Hill Feb-16-1964 2.81 D
+Stephanie Young Feb-26-1964 1.3 I 15
+Alex Fuller Mar-2-1964 1.849 D
+Mary Haney Mar-3-1964 1.1 D
+Jamie Parker Mar-5-1964 3.69 D
+Donna Freeman Mar-18-1964 1.8 I 40
+Haley Gay Mar-22-1964 4.1 I 67
+Erin Barrera Mar-26-1964 2.5 D
+Tiffany Whitaker Mar-27-1964 3.7 I 116
+Angela Macdonald Mar-29-1964 4.297 D
+Jade Thomas Apr-8-1964 0.218 D
+Matthew Wilson Apr-10-1964 1.93 I 10
+Stephanie Rivera Apr-16-1964 3.08 D
+Vincent Walker Apr-23-1964 4.0 I 12
+Susan Chaney Apr-24-1964 2.9 D
+Gary Marshall Apr-25-1964 1.79 D
+Jennifer Walker Apr-29-1964 0.1 D
+Richard Suarez Apr-30-1964 4.0 I 21
+Jose Lawson May-1-1964 2.572 D
+Melissa Mullen May-4-1964 1.6 I 97
+Katrina Velasquez May-7-1964 1.43 D
+Jordan Miller May-9-1964 1.18 D
+Nicole Carter May-11-1964 1.5 I 72
+Mitchell Patterson May-15-1964 0.34 D
+Paul Long May-20-1964 4.14 I 1
+Jessica Williams May-20-1964 3.5 D
+Robert Thomas May-25-1964 1.953 D
+Nathaniel Murray May-26-1964 2.5 I 25
+Meagan Navarro May-26-1964 4.2 I 106
+Aaron King May-28-1964 2.757 D
+Morgan Parrish May-29-1964 2.148 I 41
+Kelly Palmer Jun-2-1964 1.447 I 12
+Brandon Nichols Jun-3-1964 3.497 D
+Samuel Lewis Jun-4-1964 0.4 I 102
+Troy Blanchard Jun-26-1964 2.13 I 113
+Ashley Powers Jun-27-1964 1.221 D
+Cheryl Williams Jul-5-1964 0.3 D
+Timothy Tucker Jul-6-1964 3.559 I 113
+Eric Marks Jul-10-1964 0.76 D
+Patricia Mack Jul-17-1964 3.82 D
+Kimberly Edwards Jul-23-1964 3.3 I 46
+Deborah Garcia Jul-24-1964 1.92 D
+Krista Gibson Jul-24-1964 0.24 D
+Kelsey Nielsen Jul-24-1964 0.141 I 67
+Barry Carrillo Aug-8-1964 0.64 I 114
+Peter Bailey Aug-9-1964 3.9 D
+Jennifer Lang Aug-22-1964 1.44 I 87
+Garrett Smith Aug-24-1964 2.6 D
+Jacob Wallace Aug-25-1964 1.3 D
+Aaron Roberts Aug-27-1964 2.7 I 66
+Mary Chase Sep-5-1964 3.062 D
+Angela Williams Sep-15-1964 1.456 D
+Andrea Wilson Sep-19-1964 0.8 D
+Ryan Stewart Sep-21-1964 2.338 I 89
+Lisa Lewis Sep-25-1964 2.8 I 114
+Amanda Rivera Sep-26-1964 2.956 I 115
+Teresa Parker Sep-27-1964 0.97 I 19
+Brandy Washington Oct-6-1964 1.8 I 81
+Sheila Adams Oct-7-1964 1.2 D
+Patricia Woods Oct-7-1964 0.062 D
+Jessica Garcia Oct-12-1964 0.457 D
+Christopher Phillips Oct-14-1964 3.1 D
+Shannon Butler Oct-20-1964 1.2 D
+Sandra Marshall Oct-21-1964 0.8 D
+Jessica Mullins Oct-27-1964 1.955 D
+Joshua Ortiz Oct-30-1964 1.6 D
+Wesley Blevins Nov-12-1964 1.986 I 103
+Stephen Garcia Nov-12-1964 3.2 I 18
+Luis Green Nov-13-1964 0.316 D
+Derek Ponce Nov-16-1964 2.755 I 20
+Kristin Watts Nov-21-1964 1.43 D
+Tamara Williams Nov-22-1964 1.964 D
+Michael Baker Nov-25-1964 0.289 I 90
+Christina Lewis Nov-27-1964 1.4 I 97
+Angela Miller Nov-29-1964 2.188 I 53
+Dylan Freeman Dec-10-1964 1.27 D
+Keith Fitzgerald Dec-15-1964 3.772 D
+Mark Jenkins Dec-22-1964 3.365 D
+Juan Murphy Jan-3-1965 1.24 I 85
+Megan Washington Jan-4-1965 0.88 D
+Benjamin Walls Jan-7-1965 3.22 I 83
+Dorothy Ballard Jan-12-1965 1.2 D
+Christopher Woodard Jan-14-1965 0.925 D
+Gregory Buchanan Jan-17-1965 4.21 I 17
+Theresa Harvey Jan-20-1965 3.35 D
+Robert Alexander Jan-22-1965 0.2 D
+Regina Hopkins Jan-22-1965 4.01 I 88
+Randy Mcclain Jan-23-1965 3.8 D
+Raymond Wood Jan-23-1965 0.328 I 42
+Phillip Mueller Jan-27-1965 2.897 D
+Gloria Terry Jan-30-1965 1.8 D
+Deborah Roy Jan-31-1965 0.35 I 78
+Wayne Wilcox Feb-6-1965 1.1 D
+Tiffany Edwards Feb-8-1965 3.553 D
+Heather Mitchell Feb-8-1965 3.1 D
+Kari Flynn Feb-10-1965 2.5 I 31
+James Galvan Feb-11-1965 2.7 I 118
+Kelly Gardner Feb-15-1965 4.0 I 84
+Sandy Stewart Feb-16-1965 2.5 I 91
+Travis Webster Feb-17-1965 3.31 D
+Alicia Carroll Feb-18-1965 3.1 D
+Travis Acosta Feb-26-1965 2.17 D
+Melissa Williams Mar-8-1965 2.9 D
+Hannah Kirby Mar-13-1965 2.03 D
+Jason Manning Mar-15-1965 1.74 I 57
+Matthew Burns Mar-21-1965 0.827 I 44
+Brian Chambers Mar-23-1965 2.05 D
+Jeffrey Salinas Mar-27-1965 3.09 I 90
+Nicole Thomas Apr-1-1965 1.4 D
+Brandon Gray Apr-6-1965 2.319 D
+Gina Foster Apr-7-1965 2.07 I 79
+Grant Sims Apr-8-1965 0.883 D
+Dana Wilson Apr-10-1965 3.4 D
+Brandon Smith Apr-15-1965 0.685 D
+Lisa Holmes Apr-20-1965 3.888 D
+Tanya Bailey May-3-1965 0.83 I 66
+Brandon Jones May-5-1965 1.722 D
+Julia Montgomery May-5-1965 0.5 I 42
+Jasmine Gonzalez May-8-1965 0.4 I 93
+Kimberly Riley May-14-1965 3.5 D
+Justin Morgan May-21-1965 0.6 D
+Jimmy Gay Jun-3-1965 3.242 I 32
+Angela Sanchez Jun-3-1965 0.77 I 21
+Maria Bradley Jun-8-1965 3.6 I 6
+Elizabeth Davis Jun-10-1965 1.44 D
+Jessica Thomas Jun-10-1965 0.6 D
+Sara Guerrero Jun-19-1965 1.71 I 32
+Michelle Gibson Jul-7-1965 3.545 D
+Mark Wood Jul-7-1965 3.855 I 70
+Kenneth Hansen Jul-12-1965 1.1 I 107
+Timothy Thompson Jul-15-1965 3.449 D
+Nicholas Brown Jul-19-1965 0.435 I 28
+Justin Wilson Jul-23-1965 1.769 D
+Michael Berry Aug-1-1965 2.12 D
+Timothy Logan Aug-3-1965 2.52 D
+Christian Hamilton Aug-13-1965 0.375 I 99
+Cynthia Watkins Aug-18-1965 0.322 I 83
+Brandon Walker Aug-19-1965 2.9 D
+Sheila Willis Aug-20-1965 0.43 D
+Donna Burton Aug-22-1965 0.933 D
+Chelsea Peterson Aug-28-1965 2.01 I 64
+David Larson Aug-30-1965 4.1 I 113
+Lindsay Lewis Aug-31-1965 4.157 I 69
+Lisa Conner Sep-2-1965 0.9 D
+Sarah Harvey Sep-8-1965 1.565 I 18
+Heather Adams Sep-10-1965 1.327 D
+Robert Stone Sep-11-1965 0.37 D
+Stephanie Baker Sep-16-1965 3.7 I 92
+Sabrina Navarro Sep-16-1965 3.35 I 80
+James Webster Sep-23-1965 2.93 I 54
+Anthony Lee Sep-24-1965 1.76 D
+William Chan Sep-26-1965 3.5 D
+Cassidy Hawkins Sep-30-1965 1.5 D
+Tiffany Horn Sep-30-1965 1.5 D
+Scott Andrade Oct-1-1965 2.4 D
+Rachel Oliver Oct-1-1965 1.15 I 62
+Kristen Good Oct-4-1965 1.77 I 32
+Teresa Hogan Oct-4-1965 1.982 D
+Kristina Stone Oct-13-1965 3.0 D
+Duane Scott Oct-14-1965 4.07 D
+Elizabeth Myers Oct-29-1965 2.26 D
+Don Garza Nov-9-1965 2.43 I 21
+Alex Joseph Nov-13-1965 0.49 I 71
+Caitlin Wells Nov-13-1965 4.074 D
+Curtis Mccann Nov-15-1965 2.796 D
+Gabriel Bradford Nov-21-1965 4.199 I 75
+Mark Henderson Dec-12-1965 1.7 D
+Ruben Gonzalez Dec-15-1965 3.12 D
+Daniel Cameron Dec-21-1965 2.503 D
+Briana Blackwell Jan-5-1966 1.7 D
+Cory Fischer Jan-6-1966 1.0 I 5
+John Cunningham Jan-9-1966 2.49 I 63
+Susan Henry Jan-10-1966 0.666 I 29
+Elizabeth Dodson Jan-18-1966 4.2 D
+Daniel Hudson Jan-19-1966 1.45 D
+Melissa Graves Jan-20-1966 2.2 I 1
+Raymond Freeman Jan-23-1966 2.5 D
+Jim Barnes Feb-10-1966 4.03 D
+Nathan Larson Feb-14-1966 2.45 D
+Nicole Fuentes Feb-19-1966 1.252 D
+Nathaniel Mccullough Feb-21-1966 3.7 I 54
+Wayne Garcia Feb-23-1966 1.08 I 39
+Dwayne Jones Feb-25-1966 1.1 D
+Patrick Quinn Mar-2-1966 2.2 I 25
+George Pena Mar-12-1966 2.46 D
+Jodi Johnson Mar-14-1966 0.624 I 87
+Joyce Martin Mar-14-1966 1.4 D
+Sarah Hernandez Mar-17-1966 2.04 I 29
+Kathryn Wells Mar-30-1966 1.2 I 12
+Alexis Williams Mar-31-1966 3.1 D
+Michele Brown Apr-3-1966 0.04 D
+Brandy Lester Apr-6-1966 0.58 I 110
+Jose Garrison Apr-7-1966 3.65 D
+Marie Smith Apr-10-1966 4.28 I 91
+Angela Duncan Apr-11-1966 0.9 D
+Rebecca Frank Apr-19-1966 3.439 I 4
+Melissa Gonzalez Apr-22-1966 2.84 I 29
+Nancy Alexander Apr-30-1966 1.8 D
+Andrew Snyder May-2-1966 0.5 I 22
+Kimberly Ray May-12-1966 1.101 I 116
+Paul Washington May-14-1966 0.05 I 18
+Raymond Vincent Jun-10-1966 2.43 I 77
+Amy Curtis Jun-12-1966 0.502 D
+Arthur Le Jun-13-1966 3.9 I 42
+Jean Stanton Jun-14-1966 3.1 D
+William Walters Jun-14-1966 1.0 I 114
+Russell Crawford Jun-27-1966 1.3 I 94
+Cody Dickerson Jun-28-1966 0.11 I 65
+David Smith Jul-6-1966 3.6 D
+David Brooks Jul-11-1966 2.58 I 3
+Christine Buchanan Jul-30-1966 3.772 I 66
+Stephanie Parsons Aug-4-1966 1.62 D
+Kelly Peters Aug-15-1966 1.03 D
+Cassandra Anderson Aug-21-1966 1.721 D
+Kristopher Bond Aug-24-1966 1.97 D
+Jeffrey Smith Aug-27-1966 0.9 I 20
+Chelsea Flores Aug-28-1966 0.813 D
+Amy Freeman Aug-29-1966 1.521 D
+Connor Dennis Sep-6-1966 3.931 D
+Oscar Jones Sep-11-1966 2.383 D
+Whitney Johnson Sep-13-1966 2.223 D
+Jonathan Alvarez Sep-14-1966 2.19 I 109
+Paul Payne Sep-25-1966 2.752 D
+Juan Barry Oct-1-1966 2.3 I 35
+Andrea Franco Oct-5-1966 0.256 I 94
+Melissa Phillips Oct-7-1966 1.97 D
+Christopher Fox Oct-20-1966 3.2 D
+Kelsey Ward Oct-20-1966 2.9 D
+Theresa Brown Oct-30-1966 3.84 D
+Charles Thompson Oct-30-1966 2.0 I 96
+Timothy Ramirez Nov-12-1966 0.06 I 16
+Cassandra Newman Nov-14-1966 0.39 I 69
+Brian Williams Nov-21-1966 0.885 D
+Michele Carrillo Dec-3-1966 1.892 I 33
+Zachary Schwartz Dec-10-1966 2.2 I 33
+Bruce Orr Dec-11-1966 3.944 I 118
+John Lopez Dec-12-1966 3.8 I 88
+Kristen Boyd Dec-15-1966 1.624 D
+Samantha Cervantes Dec-16-1966 3.502 I 117
+Jeffery Garrett Dec-20-1966 0.16 D
+Phyllis Meyers Dec-22-1966 3.7 I 65
+Douglas Kirby Jan-8-1967 2.33 I 85
+Christine Hall Jan-12-1967 2.4 I 103
+Darlene Myers Jan-21-1967 2.36 I 7
+Catherine Brown Jan-25-1967 1.4 I 29
+Larry Gomez Jan-28-1967 4.3 D
+Erin Leonard Jan-30-1967 4.3 I 72
+Janet Woods Jan-30-1967 3.25 I 107
+George Ayala Feb-14-1967 0.47 D
+Kristy Chen Feb-20-1967 2.05 I 5
+Keith West Feb-20-1967 0.55 D
+Alexander Roberts Feb-23-1967 0.467 D
+Raymond Terry Feb-25-1967 3.92 I 81
+Melissa Rivas Feb-27-1967 1.6 I 40
+Lisa Barr Mar-4-1967 2.81 D
+Bruce Brown Mar-7-1967 1.706 D
+Rita Ray Mar-9-1967 4.1 D
+Rebecca Kaiser Mar-28-1967 3.1 I 9
+Michelle Burnett Apr-4-1967 2.913 I 120
+Philip Turner Apr-6-1967 2.7 I 5
+Patricia Terrell Apr-9-1967 1.43 I 69
+Jennifer Marquez Apr-15-1967 2.63 I 50
+Christine Smith Apr-25-1967 3.8 D
+Justin Freeman May-1-1967 4.169 I 86
+Scott King May-2-1967 4.006 D
+Raymond Allen May-5-1967 0.597 D
+Jason Wagner May-12-1967 2.8 D
+Carol Kelly May-13-1967 4.135 D
+Lauren Woodard May-13-1967 0.1 D
+Jeff Reilly May-20-1967 2.64 I 34
+Jodi Orr May-22-1967 1.52 I 114
+Andrew Castillo May-23-1967 0.85 D
+Erik Diaz May-23-1967 3.74 D
+Michaela Yang May-23-1967 0.191 I 27
+Eric Potts May-27-1967 0.457 I 49
+Annette Wolf Jun-5-1967 3.15 D
+Alexander Dean Jun-14-1967 0.583 I 117
+Cory Diaz Jun-23-1967 1.5 I 90
+Joseph Lucas Jun-26-1967 0.31 D
+Robert Green Jul-3-1967 0.29 I 17
+Elizabeth Thomas Jul-4-1967 0.1 I 1
+Mike Henry Jul-14-1967 3.35 I 91
+Eric Romero Jul-22-1967 1.7 I 87
+Sarah Erickson Jul-24-1967 3.06 D
+Kelsey Hill Jul-24-1967 1.759 I 120
+Carmen Peters Jul-26-1967 2.63 I 9
+Ryan Hunt Aug-9-1967 0.3 I 6
+Julie Johnson Aug-17-1967 0.3 D
+Kenneth Lopez Aug-21-1967 3.792 I 11
+Tanya Williams Aug-22-1967 3.279 I 78
+Douglas Rodriguez Aug-23-1967 1.2 I 83
+Leslie Ward Aug-24-1967 0.232 I 46
+Jennifer Young Aug-30-1967 0.37 D
+Jeffery Beltran Sep-3-1967 3.1 I 74
+Maria Jones Sep-11-1967 3.72 I 93
+Mark Price Sep-11-1967 0.492 D
+Patty Klein Sep-12-1967 2.88 D
+Michelle Paul Sep-12-1967 0.6 D
+Michael Austin Sep-15-1967 0.7 D
+Ann Howell Sep-17-1967 3.9 I 83
+Bobby Smith Sep-22-1967 1.691 D
+Tina Colon Sep-26-1967 2.0 I 41
+Brenda Barrera Sep-29-1967 3.424 I 67
+Jacqueline Price Sep-29-1967 4.033 D
+Alexander Booker Oct-9-1967 3.0 D
+Jesse Davila Oct-13-1967 0.4 D
+Nathan Melendez Oct-17-1967 4.15 I 45
+Amy Clark Oct-20-1967 3.6 I 93
+Marie Bauer Oct-23-1967 0.7 D
+Samantha Jacobs Oct-23-1967 3.15 I 16
+Dana Sanchez Nov-2-1967 2.491 I 23
+Leonard Hoffman Nov-6-1967 2.963 D
+Michael Greene Nov-10-1967 0.59 D
+Sarah Arnold Nov-12-1967 0.711 D
+Anthony Jones Nov-17-1967 0.3 I 95
+Melissa Wilson Nov-17-1967 2.4 D
+Charles Mclean Nov-22-1967 0.1 I 31
+Sarah Salas Nov-24-1967 4.11 I 107
+Michael Palmer Nov-26-1967 1.8 D
+Natalie Smith Nov-27-1967 1.1 I 25
+Kerri Reese Nov-28-1967 1.81 D
+Alexandra Townsend Nov-28-1967 1.81 D
+Frederick Henry Nov-30-1967 3.179 I 116
+Anthony Robinson Nov-30-1967 0.9 D
+David Phillips Dec-5-1967 2.6 I 51
+Sergio Rodriguez Dec-5-1967 0.591 D
+Courtney Ortega Dec-24-1967 2.254 I 76
+Cory Weber Jan-2-1968 2.123 D
+Eric Hall Jan-5-1968 1.899 D
+Shannon Pittman Jan-5-1968 1.481 I 2
+Stephen Stephens Jan-16-1968 3.51 D
+Stephen Johnson Jan-18-1968 1.15 D
+Shawn Nguyen Jan-31-1968 0.42 I 47
+Kenneth Patton Feb-2-1968 2.9 I 54
+Melissa Guerrero Feb-5-1968 1.01 I 45
+Sarah Adams Feb-8-1968 3.2 I 107
+Bryan Gonzales Feb-14-1968 0.05 I 99
+Robert Smith Feb-23-1968 2.05 D
+Joseph Sanchez Feb-24-1968 2.3 D
+Rachael Gallagher Feb-26-1968 0.43 I 81
+Nicholas Jones Feb-28-1968 0.3 D
+Patrick Brady Mar-4-1968 1.518 D
+Kelly Austin Mar-7-1968 2.09 I 84
+Emily Porter Mar-10-1968 0.4 I 111
+James Collins Mar-13-1968 2.3 D
+Robert Norris Mar-13-1968 1.93 D
+Teresa Proctor Mar-31-1968 0.11 I 69
+Susan Mooney Apr-3-1968 2.88 I 41
+Doris Castro Apr-4-1968 0.131 D
+Ruth Walker Apr-9-1968 3.05 I 108
+Jennifer Guerrero Apr-16-1968 3.75 I 78
+Jeremiah Morris Apr-21-1968 2.118 D
+Deborah Drake Apr-24-1968 0.677 I 16
+Hunter Santiago Apr-24-1968 0.811 I 5
+Gabriela Baxter May-2-1968 1.4 D
+Ashley Ramirez May-4-1968 0.5 D
+Jeremy White May-4-1968 2.1 D
+Justin Sims May-5-1968 2.15 I 63
+Tiffany Schmidt May-8-1968 0.8 I 20
+Michael Cobb May-9-1968 2.38 I 104
+William Contreras May-9-1968 0.46 D
+Sean Alvarez May-13-1968 1.72 I 24
+Kara Barker May-17-1968 0.3 D
+Patrick Erickson May-17-1968 4.0 I 63
+Andrew Lowe May-17-1968 0.5 I 61
+Timothy Miles May-18-1968 2.756 I 45
+Tammy Henry May-20-1968 1.2 I 61
+Jason Burns May-28-1968 2.4 D
+Donald Montgomery May-29-1968 3.3 D
+Bill Wolf Jun-2-1968 3.068 D
+Carmen Heath Jun-9-1968 3.75 D
+Spencer Rodriguez Jun-12-1968 3.051 D
+Brenda Steele Jun-12-1968 1.953 D
+Michelle Nelson Jun-13-1968 1.3 D
+Anita Smith Jun-13-1968 4.2 D
+Melissa Mckay Jun-16-1968 0.282 D
+Bruce Miller Jun-16-1968 4.243 I 62
+Christopher Rodriguez Jun-17-1968 1.35 I 50
+Scott Bell Jun-21-1968 3.6 D
+Anthony Fox Jun-22-1968 1.4 D
+Jennifer Meyer Jul-2-1968 4.28 I 60
+Scott Chen Jul-6-1968 1.94 I 56
+Charles Flowers Jul-6-1968 3.355 D
+Steven Hernandez Jul-8-1968 2.07 D
+Emily Obrien Jul-14-1968 3.7 I 35
+Shawn Obrien Jul-20-1968 4.02 D
+John Brown Jul-23-1968 4.2 I 36
+Christopher Moore Jul-27-1968 0.944 I 88
+Brittany Fox Jul-31-1968 2.962 I 26
+Jennifer Boyle Aug-9-1968 1.2 I 100
+Emily Martinez Aug-11-1968 2.8 I 76
+Jennifer Ross Aug-12-1968 3.25 I 16
+Samuel Washington Aug-20-1968 3.8 I 13
+Scott Williams Aug-20-1968 0.68 D
+Shawn Park Aug-21-1968 1.808 D
+Susan Baker Aug-25-1968 3.75 I 110
+Aaron Flores Sep-8-1968 2.95 I 35
+Erika Lane Sep-9-1968 2.44 I 15
+Nancy Brown Sep-14-1968 2.601 I 100
+Eddie Davis Sep-17-1968 4.05 I 16
+Lisa Lopez Sep-17-1968 1.031 D
+Maria Kennedy Sep-24-1968 1.2 D
+Wayne Sanchez Sep-26-1968 1.903 D
+Jacob Mcgee Oct-1-1968 3.483 D
+Natalie Bell Oct-2-1968 3.3 D
+Leonard Perez Oct-6-1968 0.94 D
+Lynn Thomas Oct-6-1968 3.6 I 71
+Joseph Warner Oct-13-1968 1.373 D
+Christopher Reynolds Oct-18-1968 2.0 I 78
+Rebecca Zavala Oct-23-1968 2.513 D
+Virginia Kirby Oct-25-1968 2.7 D
+Timothy Thomas Oct-30-1968 3.5 I 62
+Robert Ruiz Nov-5-1968 3.595 I 30
+Thomas Long Nov-9-1968 0.971 D
+Theresa Parsons Nov-11-1968 3.171 I 40
+Damon Wheeler Nov-24-1968 0.0 I 79
+Austin Meyer Nov-29-1968 1.944 D
+Virginia Neal Dec-4-1968 0.141 D
+Jeremy Ramirez Dec-6-1968 2.95 I 41
+Christine Terrell Dec-6-1968 0.14 I 21
+Emily Johnson Dec-11-1968 0.473 D
+Danielle Brown Dec-15-1968 0.99 I 114
+Adam Morse Dec-16-1968 0.54 D
+George Johnson Dec-17-1968 2.337 D
+Christopher Wood Dec-17-1968 2.8 D
+Lorraine Rivera Dec-21-1968 1.64 D
+Brian Willis Dec-23-1968 2.7 I 59
+Seth Andrade Jan-1-1969 3.6 D
+Steven Howell Jan-10-1969 1.52 D
+Lisa Hines Jan-18-1969 3.5 I 24
+Thomas Mata Jan-22-1969 4.2 D
+Robert Downs Jan-23-1969 1.62 I 11
+Michael Miller Jan-28-1969 4.2 D
+Alison Chandler Jan-31-1969 3.7 I 32
+Benjamin Castillo Feb-6-1969 1.45 D
+Dan Coleman Feb-11-1969 3.18 D
+Shannon Cordova Feb-14-1969 4.1 D
+Jennifer Lee Feb-19-1969 0.6 D
+Emma White Feb-23-1969 1.809 D
+Steven Patel Feb-24-1969 0.1 D
+Brian Valdez Feb-24-1969 3.65 D
+Lawrence Garza Feb-27-1969 2.0 I 97
+Carol Aguilar Feb-28-1969 0.204 D
+Jaclyn Knapp Mar-1-1969 3.5 I 63
+Catherine Owens Mar-2-1969 3.9 D
+Destiny Rodriguez Mar-5-1969 2.407 D
+Joseph Phillips Mar-10-1969 3.8 D
+Monica Reese Mar-16-1969 3.9 D
+Katherine Thompson Mar-21-1969 3.53 D
+Brandon Simpson Apr-6-1969 2.47 D
+Johnny Shields Apr-11-1969 3.63 I 106
+Jennifer Green Apr-16-1969 1.1 I 27
+Vicki Hogan Apr-16-1969 1.5 I 117
+Robin Ellis Apr-17-1969 2.2 D
+Ronnie Kaiser Apr-17-1969 1.29 D
+Francisco Graves Apr-27-1969 3.63 D
+April Jones Apr-27-1969 0.19 D
+Matthew Jones Apr-27-1969 3.695 D
+Heather Williams Apr-27-1969 1.5 I 87
+Michael Stephens Apr-30-1969 0.1 D
+Natasha Thompson May-1-1969 0.55 D
+Deanna Decker May-2-1969 3.61 D
+Joseph Price May-9-1969 4.1 D
+Gregory Humphrey May-10-1969 1.0 I 11
+Brian Patterson May-10-1969 0.73 I 21
+Sarah Johnson May-11-1969 1.2 D
+Jerry Sullivan May-13-1969 1.38 D
+Brenda Jackson Jun-1-1969 0.495 I 97
+Emily Logan Jun-6-1969 0.648 D
+Jennifer Green Jun-12-1969 2.784 I 43
+Clayton Burgess Jun-16-1969 1.8 D
+Andrew Jensen Jun-17-1969 2.09 D
+Natasha Cox Jun-19-1969 2.1 I 64
+Alicia Knight Jun-30-1969 2.623 I 51
+Lee Mathews Jul-2-1969 0.08 I 26
+Jennifer Simmons Jul-7-1969 0.423 I 100
+Kimberly Young Jul-9-1969 2.85 D
+Brent Smith Jul-15-1969 0.6 D
+Thomas Hudson Jul-20-1969 0.3 I 75
+Laura Allen Jul-22-1969 2.6 I 36
+Matthew Day Jul-23-1969 2.495 I 30
+Colton Rice Jul-24-1969 1.891 D
+Michael Pineda Aug-5-1969 2.29 D
+Doris Rivera Aug-12-1969 2.729 I 77
+Derek Wallace Aug-19-1969 3.6 I 52
+Christopher Jimenez Aug-26-1969 3.89 D
+Christine Rivera Sep-6-1969 1.036 D
+Robert Turner Sep-11-1969 3.59 D
+James Davis Sep-12-1969 3.132 D
+Richard Davis Sep-14-1969 3.56 D
+Anthony Black Sep-15-1969 3.1 D
+Fernando Gonzalez Sep-17-1969 3.926 D
+Nicholas Moon Sep-25-1969 4.27 I 8
+Elizabeth Roberts Oct-3-1969 1.8 D
+Barbara Williams Oct-9-1969 3.4 I 109
+Amber Le Oct-10-1969 0.2 D
+Wanda Moreno Oct-13-1969 2.49 D
+Rebecca Dawson Oct-15-1969 0.6 I 90
+Mike Hayes Oct-22-1969 1.293 D
+Eric Miller Oct-22-1969 3.57 D
+Kenneth Wolfe Oct-24-1969 0.7 D
+David Harrington Oct-25-1969 2.815 D
+Adam Hernandez Nov-15-1969 3.015 D
+Kelly Gonzales Nov-22-1969 1.8 D
+Danielle Peterson Dec-5-1969 2.06 D
+Richard Robinson Dec-6-1969 2.102 I 16
+Robert Barnett Dec-11-1969 0.6 I 38
+Theresa Johnson Dec-19-1969 2.36 I 94
+Lisa Smith Dec-22-1969 1.246 D
+Donald Wilkinson Dec-22-1969 1.25 I 43
+Tracy Williams Jan-3-1970 2.7 D
+Kathleen Ortega Jan-6-1970 1.415 I 52
+Michael Skinner Jan-9-1970 2.15 D
+Cody Lynn Jan-10-1970 2.8 D
+Jon Vazquez Jan-13-1970 2.61 D
+Jeffrey Walton Jan-17-1970 1.931 D
+Joel Rodriguez Jan-18-1970 1.5 I 64
+Dawn Williams Jan-19-1970 0.36 D
+Jason Lopez Jan-21-1970 2.2 D
+April Richards Jan-21-1970 0.399 I 22
+Amanda Cooper Jan-27-1970 0.27 D
+Justin Mcmillan Jan-29-1970 0.186 D
+Wendy Stewart Jan-31-1970 2.7 I 120
+Michaela Young Feb-1-1970 3.29 D
+Nicole Lopez Feb-10-1970 2.05 D
+Garrett Moore Feb-27-1970 4.087 D
+Jacqueline White Feb-28-1970 3.04 D
+Shawn Leach Mar-2-1970 3.2 I 93
+Jeremy Shepherd Mar-3-1970 1.514 I 30
+Lance Cochran Mar-10-1970 0.9 D
+Christopher Ponce Mar-10-1970 0.9 I 80
+Heather Martinez Mar-12-1970 4.15 I 89
+Nancy Jackson Mar-15-1970 2.6 I 42
+Roberto Garcia Mar-20-1970 3.263 I 101
+Travis Luna Mar-20-1970 3.2 D
+Elizabeth Shelton Mar-20-1970 2.1 I 54
+Jeffery Bell Mar-23-1970 4.02 I 26
+Kevin Goodwin Mar-31-1970 0.2 D
+Brooke Hernandez Apr-7-1970 3.16 I 89
+Amanda Carpenter Apr-9-1970 0.407 D
+Dominique Davis Apr-10-1970 1.3 D
+Kimberly Smith Apr-12-1970 2.11 D
+Brian Gonzalez Apr-13-1970 0.32 I 44
+Anthony Jordan Apr-14-1970 0.33 D
+Gary Velazquez Apr-16-1970 4.0 I 15
+Cory Brown Apr-22-1970 3.12 D
+Sean Hicks Apr-22-1970 2.349 I 21
+Jeffrey Garcia Apr-24-1970 3.4 I 68
+Crystal Crawford Apr-26-1970 3.6 D
+Jessica Barnett May-6-1970 4.26 D
+Sara Bryant May-9-1970 0.5 I 76
+Barbara Johnson May-9-1970 1.94 I 32
+Lisa Allen May-10-1970 0.772 I 111
+Justin Peterson May-10-1970 1.08 D
+Angela Robinson May-10-1970 0.93 D
+Daniel Smith May-11-1970 3.93 I 85
+Amy Pacheco May-17-1970 1.9 I 18
+Andrew Wilson May-25-1970 2.82 I 68
+Virginia Harris Jun-5-1970 2.2 I 39
+Nicole Wade Jun-5-1970 0.9 I 8
+Robert Maldonado Jun-8-1970 2.57 D
+Carol Peterson Jun-10-1970 2.392 I 83
+Pamela Moore Jul-4-1970 1.87 D
+Christopher Phillips Jul-14-1970 4.255 D
+Austin Archer Jul-15-1970 0.008 D
+Samantha Shannon Aug-19-1970 1.86 I 18
+Joseph Adams Aug-21-1970 1.222 I 74
+Hayley Wright Aug-30-1970 3.9 D
+Robert Foster Sep-1-1970 2.04 I 22
+Jorge Brown Sep-2-1970 1.8 I 44
+Amanda Robinson Sep-2-1970 2.8 D
+Laura Brown Sep-3-1970 1.045 I 70
+Amy Kaufman Sep-5-1970 3.0 D
+Randy Richardson Sep-13-1970 4.0 D
+Keith Rivera Sep-16-1970 1.02 D
+Cody White Sep-17-1970 4.1 I 30
+Lauren Scott Sep-19-1970 0.1 I 78
+Matthew Ramirez Sep-20-1970 2.0 D
+Matthew Hansen Sep-23-1970 0.9 I 10
+Aaron Chase Sep-26-1970 1.861 D
+Heather Morton Sep-28-1970 1.9 D
+Sara Salas Sep-30-1970 2.48 I 22
+Gregory Walker Oct-6-1970 1.5 I 10
+Christina Palmer Oct-11-1970 3.1 D
+Erin Owen Oct-12-1970 3.4 D
+Wesley Haney Oct-14-1970 3.089 I 33
+Rachel Pierce Oct-14-1970 0.652 I 72
+Jason Carey Oct-15-1970 3.044 D
+Colleen Hall Oct-18-1970 1.77 D
+Megan Gutierrez Oct-28-1970 0.68 D
+Mariah Hunter Oct-31-1970 2.482 D
+Casey King Nov-5-1970 3.981 D
+Jason Smith Nov-16-1970 3.955 D
+Michael Castillo Nov-20-1970 3.399 D
+Nathaniel Rodriguez Nov-23-1970 0.7 D
+Terri Ross Nov-25-1970 2.0 I 65
+Shannon Davis Nov-26-1970 3.87 I 71
+Kevin Johnson Nov-27-1970 3.5 D
+Daniel Ingram Nov-29-1970 0.572 D
+Richard Valencia Dec-1-1970 0.4 D
+Julia Boyd Dec-3-1970 3.185 I 17
+Paul Hall Dec-5-1970 1.578 D
+Philip Perry Dec-5-1970 0.1 I 0
+Ashley Smith Dec-8-1970 2.75 D
+Larry Morse Dec-10-1970 1.33 D
+Kelly Mckee Dec-19-1970 4.0 I 25
+Carla Callahan Dec-21-1970 0.7 I 101
+Timothy Williams Dec-24-1970 1.7 D
+Lisa Walker Dec-27-1970 3.51 D
+Megan Smith Dec-28-1970 2.0 D
+Jennifer Fields Jan-19-1971 4.151 I 106
+Adam Kelly Jan-21-1971 4.21 I 48
+Sarah Gallagher Jan-23-1971 2.38 D
+Robert Sherman Jan-27-1971 2.664 D
+Claudia Garcia Feb-1-1971 0.16 D
+Pamela Austin Feb-4-1971 2.0 D
+Kathy Boyer Feb-9-1971 1.347 I 22
+Laura Pham Feb-9-1971 0.955 D
+Jennifer Christian Feb-18-1971 1.0 D
+Robin Diaz Feb-18-1971 0.3 I 4
+Paul Neal Feb-19-1971 3.7 I 7
+Ellen Williams Mar-2-1971 1.9 I 119
+Ryan Lewis Mar-4-1971 1.8 I 30
+Howard Knight Mar-9-1971 0.954 D
+Jill Roy Mar-12-1971 2.6 I 105
+Amy Simpson Mar-14-1971 0.214 I 4
+Michael Nguyen Mar-17-1971 2.6 I 77
+Samantha Williams Mar-18-1971 2.29 D
+Audrey Davis Mar-25-1971 4.17 D
+Michael Sanchez Mar-25-1971 3.0 D
+Carolyn Williams Apr-6-1971 4.2 D
+Allen Russell Apr-8-1971 0.247 D
+Danny Ford Apr-10-1971 2.5 D
+Leah Fowler Apr-12-1971 2.13 D
+Dawn Roberts Apr-12-1971 1.6 I 82
+Krista Miller Apr-14-1971 3.55 I 47
+David Price Apr-23-1971 2.607 D
+John Anderson Apr-24-1971 0.97 I 21
+Patricia Conner May-3-1971 3.48 I 73
+Raven Dalton May-6-1971 2.317 D
+Megan Leach May-9-1971 0.54 I 1
+Keith Payne May-14-1971 2.0 D
+Meghan Green May-19-1971 2.214 D
+Kathleen Cooper May-20-1971 1.54 D
+Laurie Jones Jun-28-1971 3.3 D
+James Walters Jul-9-1971 2.15 D
+Brian Day Jul-10-1971 3.8 I 55
+Amber Robinson Jul-15-1971 4.27 I 67
+William Sweeney Jul-16-1971 0.13 D
+Emma Castillo Aug-1-1971 4.2 I 42
+Michelle Elliott Aug-8-1971 4.0 D
+Rachel Owens Sep-2-1971 2.47 D
+Beth Banks Sep-7-1971 1.27 I 26
+Hailey Jones Sep-10-1971 4.07 D
+Damon Christensen Sep-11-1971 3.79 I 112
+Kimberly Washington Sep-26-1971 1.8 D
+Elizabeth Nguyen Sep-30-1971 0.149 I 40
+Debra Weber Oct-1-1971 0.299 D
+Kimberly Roberts Oct-18-1971 2.85 D
+Cynthia Schneider Oct-18-1971 3.09 D
+Faith Norman Oct-25-1971 2.5 I 9
+Zachary Lewis Oct-26-1971 3.9 I 88
+Daniel Deleon Nov-1-1971 0.42 I 108
+Charles Franco Nov-1-1971 1.48 I 20
+Caroline Gray Nov-7-1971 2.851 I 99
+Chris Hernandez Nov-10-1971 2.63 D
+Eric Nelson Nov-10-1971 4.105 D
+Mallory Ward Nov-26-1971 1.0 D
+Benjamin Hudson Nov-28-1971 0.12 I 26
+Chelsea Schultz Nov-28-1971 2.442 I 4
+Steven Ortiz Nov-29-1971 0.9 D
+Jamie Paul Dec-3-1971 1.3 D
+Michael Nichols Dec-8-1971 2.14 D
+Curtis Payne Dec-19-1971 2.03 I 119
+Kevin Haynes Dec-24-1971 0.84 I 72
+Austin Wiggins Dec-24-1971 1.914 D
+Christine Bell Dec-27-1971 2.2 D
+Jennifer Smith Dec-31-1971 0.36 I 72
+Nicole Reynolds Jan-2-1972 4.3 D
+Denise Daniels Jan-3-1972 0.3 I 51
+Robert Aguirre Jan-8-1972 1.9 I 1
+Ronnie Parks Jan-13-1972 2.4 I 80
+Connie Martinez Jan-17-1972 1.934 D
+Patricia Velez Jan-24-1972 3.1 I 77
+Eileen Harrington Jan-26-1972 0.5 D
+Amanda Mata Jan-26-1972 3.61 I 35
+Roger Miller Jan-26-1972 0.3 I 28
+Bruce Vincent Feb-11-1972 0.789 I 8
+Robyn Mora Feb-12-1972 2.292 I 74
+Edward Nicholson Feb-22-1972 3.67 D
+Ryan Page Feb-24-1972 1.2 D
+Bradley Tran Feb-25-1972 1.48 I 88
+Amanda Henry Feb-28-1972 3.2 I 88
+Angela Whitney Mar-8-1972 3.62 D
+Luke Smith Mar-9-1972 2.75 D
+Sydney Benitez Mar-13-1972 1.205 I 10
+Jonathan Elliott Mar-15-1972 3.0 D
+Michael Sullivan Mar-17-1972 3.141 I 16
+Kristen Adams Mar-26-1972 2.465 D
+Zachary Porter Apr-4-1972 3.55 D
+Nicole Mcclure Apr-8-1972 1.418 D
+Mario Martin Apr-13-1972 4.09 I 87
+Daniel Davis Apr-14-1972 1.9 I 79
+Kimberly Bennett Apr-25-1972 3.514 I 16
+Jesse Torres Apr-25-1972 0.823 D
+Brittany Cortez Apr-29-1972 0.79 I 74
+Debra Fuentes May-8-1972 2.6 I 43
+Cassandra Fischer May-17-1972 1.16 D
+Karen Thompson May-18-1972 3.8 D
+Tyler Wyatt Jun-5-1972 0.393 I 38
+Justin Wood Jun-6-1972 1.77 I 97
+Susan Coleman Jun-17-1972 2.5 D
+Toni Daniels Jun-17-1972 2.29 D
+Charles Shaw Jun-23-1972 3.65 D
+Janet May Jun-29-1972 0.84 I 32
+Teresa Pierce Jul-3-1972 3.5 D
+William Reynolds Jul-5-1972 2.88 I 119
+Gene Parsons Jul-14-1972 4.0 D
+Joseph Hickman Jul-15-1972 0.236 D
+Kelly Watson Jul-19-1972 2.62 D
+Jay Macias Jul-26-1972 3.19 I 3
+William Hart Aug-11-1972 3.679 I 100
+Daniel Lewis Aug-12-1972 0.666 I 99
+Nicholas Mora Aug-13-1972 0.1 I 86
+Abigail Campbell Aug-19-1972 2.638 D
+Hannah Mayer Aug-19-1972 2.134 D
+Donna Woodard Aug-20-1972 3.482 I 107
+Brent James Aug-22-1972 0.769 D
+Carlos Johnson Aug-23-1972 2.01 D
+Christopher Wolfe Aug-26-1972 4.207 I 84
+Jose Black Sep-1-1972 1.7 I 110
+Adam Gentry Sep-6-1972 1.87 D
+Marie Rodriguez Sep-17-1972 1.7 I 94
+Nicole Hall Sep-20-1972 3.649 I 4
+Daniel Fleming Sep-28-1972 0.27 D
+Jennifer Stewart Sep-30-1972 0.6 D
+Katelyn Cunningham Oct-9-1972 1.1 I 45
+Teresa Jones Oct-9-1972 2.1 D
+Juan Cook Oct-10-1972 3.85 D
+Ronald Johnson Oct-13-1972 1.0 I 32
+Stacey Williams Oct-15-1972 2.924 I 26
+Ricardo Smith Oct-18-1972 4.3 D
+Julie Wallace Nov-4-1972 3.3 D
+Catherine Green Nov-6-1972 0.5 I 96
+Paula Brown Nov-13-1972 1.87 I 57
+Michelle Mitchell Nov-19-1972 0.836 I 22
+Ashley George Nov-27-1972 0.0 D
+Victor Manning Dec-1-1972 1.05 I 53
+Justin Johnson Dec-3-1972 0.75 I 35
+Michael Scott Dec-15-1972 2.2 I 109
+Matthew Lawson Dec-23-1972 3.4 D
+Brittany Contreras Dec-25-1972 2.72 D
+William Sparks Jan-4-1973 0.5 I 73
+Joseph Ortega Jan-6-1973 0.87 I 62
+Cynthia Miller Jan-13-1973 2.8 I 100
+Michael Oneal Jan-14-1973 2.3 I 119
+Melanie Mitchell Jan-21-1973 1.3 D
+Kimberly Morrison Jan-22-1973 2.7 I 83
+Brianna Parker Jan-25-1973 2.7 D
+Jessica Duran Feb-1-1973 1.55 D
+Rachel Simmons Feb-8-1973 3.0 I 27
+Christopher Kramer Feb-12-1973 2.957 D
+Brian Taylor Feb-13-1973 1.623 D
+Richard Hurst Feb-14-1973 0.9 I 96
+Gregory Lopez Feb-17-1973 3.01 I 72
+Nicole Price Feb-28-1973 4.197 I 4
+Stacy Lopez Mar-4-1973 2.0 D
+David Horn Mar-5-1973 4.11 D
+Walter Lawrence Mar-11-1973 4.16 D
+Angela Stevens Mar-14-1973 3.13 I 34
+Christina Navarro Mar-19-1973 4.21 I 17
+Deborah Flores Mar-25-1973 1.3 I 58
+Tiffany Nelson Mar-29-1973 0.01 D
+Heather Blair Mar-30-1973 0.053 I 83
+Christopher Anderson Apr-2-1973 0.769 I 19
+Christopher Hunter Apr-3-1973 1.5 I 98
+Carolyn Parker Apr-13-1973 4.08 D
+Heather Ryan Apr-18-1973 3.29 D
+Mercedes Herring Apr-20-1973 3.6 I 102
+Angela Welch Apr-21-1973 3.64 D
+Christina Barnes Apr-29-1973 1.3 I 50
+Julie Carson May-9-1973 2.68 D
+Tracy Chavez May-11-1973 4.3 I 108
+Karen Hayes May-16-1973 2.2 D
+Marvin Olson May-16-1973 3.494 I 88
+Jason Anderson May-17-1973 0.45 D
+Joseph Johnson May-18-1973 0.646 I 95
+Aaron Evans May-22-1973 2.321 D
+Amy Brown May-31-1973 0.8 D
+Jeffrey Lopez Jun-3-1973 1.64 D
+Renee Hahn Jun-7-1973 2.33 D
+Matthew Curtis Jun-12-1973 2.61 D
+Cynthia Brown Jun-19-1973 1.468 I 108
+Brandi Deleon Jun-22-1973 0.039 I 110
+Nathan Arias Jul-7-1973 3.2 D
+William Burke Jul-9-1973 1.0 I 88
+Matthew Williams Jul-9-1973 3.2 D
+Matthew Cruz Jul-18-1973 2.36 I 87
+Maureen Reed Jul-19-1973 3.457 D
+Travis Boyer Jul-20-1973 1.86 I 76
+Ricardo Jones Jul-23-1973 3.4 D
+Kenneth Powers Jul-29-1973 4.158 I 71
+Lisa Ross Aug-2-1973 2.2 D
+Eric Rowland Aug-5-1973 2.908 I 15
+Benjamin Gillespie Aug-13-1973 0.16 D
+Matthew Burke Aug-17-1973 1.45 I 92
+Carol Davis Aug-21-1973 3.63 D
+Tyler Johnson Aug-27-1973 2.98 D
+Sean Floyd Sep-5-1973 0.171 D
+Andrew Pugh Sep-11-1973 2.8 I 87
+Virginia Morrow Sep-16-1973 0.7 D
+Justin Reynolds Sep-17-1973 4.0 D
+Kenneth Mullins Sep-20-1973 3.7 I 24
+Marie Payne Sep-20-1973 0.645 D
+Mikayla Wright Sep-21-1973 0.814 I 98
+Andrew Gonzales Oct-1-1973 1.3 I 69
+Scott Gray Oct-3-1973 3.3 I 119
+Christina Flores Oct-18-1973 2.6 I 117
+Teresa Lowery Oct-20-1973 2.2 D
+Wesley Aguilar Oct-22-1973 2.57 I 59
+Heather Hart Oct-26-1973 1.816 I 30
+Joseph Lawrence Oct-30-1973 1.547 D
+Dustin Romero Oct-31-1973 0.12 D
+Jorge Norris Nov-1-1973 3.2 D
+Ashley Stephens Nov-1-1973 3.964 D
+Todd Taylor Nov-4-1973 2.7 D
+Mary Simmons Nov-5-1973 1.27 D
+David Parks Nov-17-1973 0.704 D
+Bryan Vasquez Nov-22-1973 1.59 D
+Robert Butler Nov-25-1973 0.3 D
+Matthew Hill Dec-7-1973 3.9 D
+Wendy Parker Dec-9-1973 1.85 I 84
+Cassandra Fox Dec-10-1973 0.8 I 52
+Sara Perez Dec-27-1973 0.365 I 105
+Cynthia Cruz Dec-30-1973 3.7 I 25
+Matthew Martinez Jan-1-1974 3.07 D
+Curtis Rivera Jan-11-1974 2.499 D
+Mary Williams Jan-11-1974 3.508 D
+Michelle Rivera Jan-19-1974 3.9 I 10
+Charles Glenn Jan-21-1974 2.54 I 70
+Latoya Newman Jan-24-1974 3.36 D
+Tiffany Carr Jan-25-1974 4.1 I 13
+Alexandra Taylor Jan-28-1974 3.44 I 38
+Carl Alvarez Feb-1-1974 2.794 D
+Katelyn Crawford Feb-1-1974 4.13 I 56
+Karl Jones Feb-6-1974 1.2 D
+Sheryl Ochoa Feb-8-1974 1.71 I 13
+Tristan Hartman Feb-13-1974 2.462 I 119
+Randy Rodriguez Feb-17-1974 3.25 I 54
+Kayla Short Feb-19-1974 2.6 I 26
+Katelyn Dunn Feb-21-1974 1.227 D
+Paul Sutton Feb-23-1974 3.256 D
+Stephanie Sanchez Feb-28-1974 3.1 D
+Theodore Smith Feb-28-1974 3.8 I 32
+Christina Mueller Mar-3-1974 2.874 D
+Stephanie Wong Mar-7-1974 2.118 I 88
+Robert Anderson Mar-8-1974 1.0 I 28
+Robert Mullins Mar-8-1974 0.415 D
+Bryan Griffin Mar-14-1974 0.8 D
+Barbara Noble Mar-19-1974 2.4 D
+Reginald Potter Mar-21-1974 2.7 D
+Tasha Jarvis Mar-29-1974 1.5 D
+Ashley Beard Apr-5-1974 2.396 D
+Brandon Carpenter Apr-14-1974 3.7 D
+Richard Smith Apr-16-1974 3.328 I 118
+Brent Leon Apr-17-1974 3.38 I 70
+Patricia Johns Apr-19-1974 2.08 D
+Walter Pineda Apr-19-1974 3.94 D
+Christopher Murphy Apr-20-1974 0.1 I 102
+Matthew Carrillo Apr-27-1974 3.9 D
+Lisa Hernandez Apr-27-1974 0.8 I 96
+Timothy Goodman Apr-29-1974 1.68 D
+Michael Bryant May-1-1974 1.718 D
+Jaime Smith May-6-1974 0.108 I 80
+Wendy Buck May-7-1974 0.444 D
+Brittany Cooper May-11-1974 2.5 D
+Julie Brooks May-14-1974 1.8 I 98
+Katherine Oconnor May-14-1974 4.283 I 94
+Anna Berg May-18-1974 2.396 D
+Glen Andrade May-27-1974 2.162 D
+James Rich May-28-1974 2.1 I 72
+Terri Raymond Jun-1-1974 3.182 D
+Phillip Saunders Jun-3-1974 0.724 D
+Shannon Sexton Jun-7-1974 1.334 I 114
+Eric Jones Jun-9-1974 2.1 I 57
+Joel Jordan Jun-9-1974 2.07 D
+Stacey Gonzales Jun-14-1974 1.546 I 79
+Joshua Russo Jun-16-1974 3.046 D
+Alexander Barnes Jun-19-1974 1.944 I 14
+Hailey Davis Jun-23-1974 2.424 I 86
+Steven Green Jul-1-1974 0.317 D
+Karen Taylor Jul-11-1974 1.8 I 31
+David Vazquez Jul-23-1974 3.34 D
+Oscar King Jul-28-1974 0.79 I 89
+Kelly Taylor Aug-1-1974 4.158 D
+Dana Velasquez Aug-1-1974 0.98 I 81
+Tina House Aug-23-1974 0.469 I 32
+Johnathan Ponce Aug-28-1974 1.4 D
+Samantha Roach Aug-28-1974 0.2 D
+Taylor Malone Aug-29-1974 3.978 D
+Jean Ramos Aug-31-1974 1.232 D
+Robin Davis Sep-8-1974 2.6 I 37
+Kristina Jacobs Sep-18-1974 2.1 D
+Lisa Lucero Sep-18-1974 1.33 D
+Gabriela Hamilton Sep-27-1974 3.62 D
+Amanda Walker Sep-29-1974 1.3 I 120
+Todd Gregory Sep-30-1974 3.3 D
+Paula Elliott Oct-2-1974 0.962 D
+Matthew Williams Oct-5-1974 3.98 I 67
+Brian Simpson Oct-11-1974 3.97 I 110
+Ann Kelly Oct-13-1974 3.52 I 7
+Ethan Morgan Oct-13-1974 3.71 I 64
+Ashley Wolfe Oct-14-1974 0.0 I 11
+Dawn Dean Oct-16-1974 0.7 I 49
+Bradley Cunningham Oct-28-1974 2.0 I 111
+Maria Frost Nov-8-1974 2.03 D
+Kevin Pearson Nov-10-1974 4.154 D
+April White Nov-10-1974 1.3 I 107
+Kristina Brown Nov-13-1974 0.16 I 81
+Glenn Spencer Nov-14-1974 0.36 I 50
+Ana Crawford Nov-16-1974 1.86 I 90
+Kevin Jackson Nov-16-1974 0.57 I 84
+Sarah Vazquez Nov-16-1974 2.1 I 12
+Kristie Castillo Nov-19-1974 3.246 I 24
+Patrick Young Nov-23-1974 1.0 I 59
+Jodi Jordan Nov-24-1974 1.016 I 9
+Corey Murphy Nov-24-1974 2.97 I 80
+Stephen Wright Dec-3-1974 2.59 D
+Holly Farley Dec-13-1974 2.5 I 8
+Corey Romero Dec-22-1974 3.2 I 56
+Derrick Simpson Dec-22-1974 1.958 D
+Robin Simon Dec-23-1974 3.27 I 11
+Becky Smith Dec-24-1974 3.1 I 102
+Kathy Kirk Jan-13-1975 3.4 D
+Emily Mcbride Jan-13-1975 3.8 D
+Christopher Fleming Jan-14-1975 1.77 D
+Brandi Rollins Jan-17-1975 2.5 I 68
+Jeffrey Ortiz Feb-9-1975 1.426 D
+John King Feb-10-1975 1.221 I 7
+Alan Cross Feb-17-1975 2.834 I 54
+Sarah Christian Feb-18-1975 0.02 I 80
+Gabriella Baker Feb-21-1975 3.501 I 92
+Mary Peck Feb-26-1975 0.05 D
+Brandi Wilcox Mar-2-1975 2.559 D
+Lisa Morrison Mar-6-1975 3.7 I 91
+Debra Best Mar-7-1975 3.4 I 28
+Carrie Patton Mar-10-1975 0.567 D
+Johnny Maldonado Mar-13-1975 2.962 D
+Daniel Nichols Mar-16-1975 0.596 I 38
+Lisa English Mar-19-1975 2.5 D
+Julia King Mar-26-1975 1.3 D
+Wanda Flores Apr-1-1975 2.57 I 83
+Neil Cooper Apr-2-1975 2.145 D
+Cheryl Lowery Apr-2-1975 3.4 I 39
+Daniel Brock Apr-5-1975 1.5 I 40
+Brandy Buchanan Apr-11-1975 1.44 I 96
+Alison Perez Apr-11-1975 1.05 D
+Michelle Fritz Apr-20-1975 3.29 D
+William Jackson Apr-20-1975 1.48 D
+Dustin Sullivan Apr-24-1975 2.62 D
+Rebecca Perez Apr-25-1975 3.7 I 37
+Regina Nguyen Apr-28-1975 1.151 D
+Maxwell Cisneros May-10-1975 3.3 I 20
+Maria Russo May-12-1975 2.18 D
+Jennifer Williams May-13-1975 0.47 D
+Sean Phillips May-15-1975 2.076 D
+Mike Smith May-20-1975 2.021 I 17
+Melissa Duarte May-21-1975 1.611 D
+Jonathan Allen Jun-6-1975 3.98 D
+Patrick Nguyen Jun-14-1975 0.502 D
+Daniel Brown Jun-19-1975 2.0 D
+Brett Williams Jun-20-1975 0.66 D
+Jasmine Wang Jun-22-1975 1.815 D
+Sherri Shields Jun-24-1975 3.493 I 57
+Jerry Farley Jun-26-1975 3.63 I 18
+Angela Crawford Jun-29-1975 3.03 I 4
+Lisa Davis Jul-3-1975 1.35 I 26
+Pamela Sexton Jul-5-1975 0.59 D
+Jessica Castillo Jul-10-1975 4.1 I 16
+Charles Oconnell Jul-10-1975 4.143 D
+Dylan Johnson Jul-14-1975 0.625 D
+Vincent Norman Jul-20-1975 3.229 I 15
+Nicole Phillips Jul-24-1975 1.12 D
+Aaron Roberts Jul-24-1975 2.12 I 33
+Allison Smith Jul-28-1975 1.203 I 21
+Derek Martinez Aug-5-1975 2.44 D
+David Patterson Aug-8-1975 3.7 I 25
+Jason White Aug-9-1975 0.17 D
+Jessica Bell Aug-12-1975 3.05 I 46
+Kristin Graham Aug-12-1975 0.57 D
+Robyn Jones Aug-13-1975 1.9 I 5
+Alisha Fields Aug-19-1975 0.34 I 33
+David Lopez Aug-19-1975 1.49 D
+Omar Edwards Sep-3-1975 1.5 I 115
+John Schroeder Sep-3-1975 0.67 I 1
+Morgan Montgomery Sep-7-1975 2.5 I 4
+James Keller Sep-10-1975 1.8 I 7
+Kristina Brown Sep-23-1975 3.3 I 30
+Shirley Moore Sep-29-1975 2.5 I 53
+Brittany Richmond Oct-5-1975 2.35 I 19
+Michelle Willis Oct-7-1975 0.58 D
+Gregory Smith Oct-9-1975 4.2 I 46
+Nathan Brennan Oct-12-1975 1.4 D
+Michael Bennett Oct-21-1975 1.162 I 65
+Karen Matthews Oct-24-1975 2.132 D
+Martin Edwards Nov-3-1975 0.388 I 81
+Evan Cooper Nov-4-1975 2.841 D
+Kimberly Jones Nov-4-1975 1.5 D
+Jennifer Robinson Nov-11-1975 3.5 I 24
+James Hunter Nov-17-1975 2.7 D
+James Scott Nov-19-1975 3.2 I 27
+Richard Houston Nov-28-1975 3.51 I 99
+Eric Smith Nov-29-1975 0.9 D
+Ryan Santos Dec-10-1975 2.38 I 19
+Jessica Rice Dec-12-1975 2.072 D
+Alfred Sullivan Dec-15-1975 0.248 I 1
+Lisa Jordan Dec-16-1975 3.3 D
+Dana Malone Dec-17-1975 0.14 I 87
+Kyle Miller Jan-7-1976 0.409 D
+Ashley James Jan-8-1976 3.59 I 89
+Amanda Wheeler Jan-10-1976 2.28 D
+Terri Grant Jan-13-1976 2.52 D
+Mitchell Brown Jan-19-1976 3.1 D
+Paula Jackson Jan-19-1976 0.4 D
+Benjamin Leonard Jan-20-1976 0.865 D
+Ronald Dean Jan-31-1976 0.8 I 22
+Catherine Barker Feb-9-1976 2.85 I 18
+David Johnson Feb-20-1976 1.95 D
+Virginia Huffman Feb-21-1976 2.037 D
+Juan Johnson Feb-21-1976 1.1 I 91
+Scott Cowan Feb-24-1976 1.666 D
+Francisco Wilkerson Feb-24-1976 3.44 I 48
+Anthony Cannon Feb-25-1976 0.42 I 109
+Scott Harrell Mar-13-1976 0.306 D
+Elizabeth Newton Mar-16-1976 0.3 I 105
+Summer Andrews Mar-21-1976 0.361 D
+Courtney Yu Mar-21-1976 1.553 I 40
+Travis Sharp Mar-31-1976 3.93 D
+Angelica Wells Apr-1-1976 1.8 I 2
+Daniel Diaz Apr-14-1976 1.0 I 44
+Edward Flores Apr-17-1976 3.168 D
+Aimee Hogan Apr-22-1976 2.266 I 11
+Shawn Moore Apr-24-1976 0.5 I 84
+Aaron Smith May-5-1976 4.19 I 17
+Derrick Bautista May-12-1976 2.693 D
+Michael Evans May-14-1976 1.15 D
+Noah Freeman May-14-1976 0.97 D
+Daniel Hunt May-15-1976 0.36 D
+Gregg Good May-22-1976 4.126 I 74
+Jacqueline Steele Jun-1-1976 3.574 D
+Rita Hartman Jun-4-1976 3.44 I 58
+Michael Stephens Jun-4-1976 4.2 D
+Robert Graves Jun-6-1976 2.7 I 102
+Richard Rice Jun-10-1976 2.89 D
+Joel Moore Jun-17-1976 2.05 D
+Nathaniel Braun Jun-18-1976 2.0 I 110
+Keith Clay Jul-2-1976 1.95 D
+Megan Johnson Jul-4-1976 2.96 I 112
+Jeremy Blair Jul-9-1976 4.1 D
+Angela Ross Jul-16-1976 1.1 D
+George Ramirez Jul-20-1976 0.52 I 45
+Elizabeth Thomas Jul-21-1976 1.71 D
+Catherine Cordova Jul-30-1976 1.99 D
+Kristi Martin Aug-1-1976 2.564 I 28
+Todd Armstrong Aug-3-1976 3.697 D
+Patrick Torres Aug-5-1976 2.0 I 36
+Edward Singleton Aug-14-1976 1.79 I 63
+Ashley Deleon Aug-18-1976 0.89 I 29
+Angela Jimenez Aug-27-1976 1.4 D
+Robert Taylor Sep-6-1976 0.6 I 29
+Stephanie Graves Sep-10-1976 0.2 D
+Sherri Russell Sep-11-1976 3.324 I 97
+Lori Davis Sep-14-1976 1.45 D
+Jessica King Sep-16-1976 0.6 D
+Amanda Ware Sep-19-1976 0.5 I 19
+Katie Clark Sep-21-1976 0.517 I 88
+Joseph York Sep-30-1976 0.718 I 112
+Jacob Sullivan Oct-5-1976 2.41 D
+Christine Smith Oct-10-1976 0.74 D
+Lauren Harris Oct-16-1976 0.08 D
+Melinda Burke Oct-17-1976 3.1 I 111
+Timothy Hood Oct-17-1976 1.99 D
+Ariel Summers Oct-23-1976 2.216 D
+Michael Montgomery Nov-1-1976 3.694 D
+Jeffery Bauer Nov-5-1976 0.541 D
+Shawn Stewart Nov-6-1976 2.389 D
+Benjamin Kelley Nov-7-1976 3.984 I 106
+James Garcia Nov-12-1976 2.28 I 66
+Paul Parker Nov-19-1976 3.206 D
+Melissa Duffy Dec-1-1976 1.493 D
+Steven Riley Dec-19-1976 3.68 D
+Cynthia Evans Dec-29-1976 1.5 I 60
+Michelle Park Jan-8-1977 3.1 I 19
+Gary Murphy Jan-9-1977 3.02 D
+Erica Wagner Jan-9-1977 2.786 D
+Kelly Gibson Jan-10-1977 0.439 I 27
+Samantha Russell Jan-14-1977 2.304 D
+Jeffrey Lewis Jan-17-1977 0.332 I 46
+Kelli Christian Jan-20-1977 2.93 I 95
+Raymond Gonzales Feb-11-1977 0.604 D
+Misty Hamilton Mar-2-1977 3.4 I 36
+Thomas Rollins Mar-2-1977 0.95 D
+Dalton Ortiz Mar-4-1977 4.181 D
+Monique Jones Mar-11-1977 0.384 D
+Kevin Fuller Mar-14-1977 2.69 I 22
+Brian Baker Mar-15-1977 3.6 I 83
+Veronica Suarez Mar-31-1977 1.3 D
+John Sellers Apr-1-1977 3.62 D
+Madison Burch Apr-2-1977 1.7 D
+Joel Christensen Apr-11-1977 1.767 D
+Rachel Wiley Apr-17-1977 3.779 D
+Molly Harper Apr-22-1977 3.88 D
+Desiree Baird Apr-23-1977 4.17 I 16
+Maurice Mendoza Apr-28-1977 0.936 I 62
+Clarence Baldwin May-3-1977 1.855 D
+Joshua West May-3-1977 3.998 D
+William Price May-6-1977 0.67 I 33
+Gail Taylor May-9-1977 1.923 I 69
+Michael Stevens May-13-1977 0.79 D
+Joshua Logan May-14-1977 2.3 D
+Susan Romero Jun-1-1977 1.627 D
+Heather Mendoza Jun-14-1977 1.5 D
+Adam Waller Jun-16-1977 2.813 I 65
+Charles Melton Jun-20-1977 2.507 D
+Elizabeth Ashley Jun-25-1977 0.094 D
+Wendy Mann Jun-27-1977 0.1 D
+Jennifer Collins Jul-9-1977 0.61 D
+Jason Gilbert Jul-12-1977 0.71 I 7
+Aaron Williams Jul-16-1977 1.521 D
+Selena Brandt Jul-17-1977 2.509 D
+Juan Frederick Jul-19-1977 1.9 I 89
+Adam Hayes Jul-19-1977 1.66 I 95
+Jessica Mcgrath Jul-21-1977 1.61 D
+Gabrielle Duncan Jul-24-1977 1.06 D
+Jessica Grant Jul-28-1977 2.0 I 83
+Joseph Williams Jul-28-1977 2.2 I 77
+Elizabeth Harper Jul-29-1977 2.668 D
+Michael Molina Jul-30-1977 2.1 D
+Anna Ball Aug-1-1977 3.09 D
+Bryan Sandoval Aug-21-1977 3.739 I 95
+Christopher Nelson Sep-14-1977 1.705 I 48
+Marvin Rogers Sep-19-1977 0.9 D
+Roger Fox Sep-30-1977 0.333 D
+Kristina Stewart Oct-5-1977 0.936 D
+Carlos Ramsey Oct-10-1977 2.7 D
+David Christensen Nov-2-1977 2.32 I 1
+Martin Winters Nov-11-1977 1.4 I 37
+Benjamin Sims Nov-12-1977 2.35 D
+James Mitchell Nov-23-1977 2.94 I 50
+Thomas Ramirez Nov-25-1977 0.98 D
+Sarah Pennington Nov-26-1977 1.2 D
+Christy Boyle Nov-27-1977 3.846 I 15
+Chad Fowler Nov-29-1977 2.0 I 5
+Mackenzie Lawson Nov-29-1977 3.18 D
+Jacob Fisher Dec-2-1977 3.31 I 54
+Valerie Lindsey Dec-8-1977 3.4 D
+James Stewart Dec-8-1977 1.14 I 88
+Andrew Castillo Dec-11-1977 0.2 D
+Theodore Doyle Dec-11-1977 2.791 D
+Lisa Hardy Dec-13-1977 1.6 I 96
+Emily Weeks Dec-13-1977 3.888 I 89
+Christopher Olsen Dec-21-1977 0.1 D
+Cynthia Collins Jan-1-1978 3.5 D
+Jose Harvey Jan-1-1978 3.75 D
+Kimberly Moore Jan-8-1978 3.678 I 20
+Martha Nelson Jan-15-1978 4.19 D
+Teresa Jackson Jan-19-1978 0.013 D
+Garrett Christensen Jan-23-1978 1.615 D
+Erika Bell Jan-24-1978 1.66 I 118
+Gregory Monroe Jan-28-1978 4.0 I 5
+Jeffrey Miller Feb-3-1978 3.32 I 0
+Mia Lee Feb-6-1978 3.816 I 99
+Wesley Boyd Feb-7-1978 1.7 I 88
+Joshua Crawford Feb-10-1978 2.77 I 77
+John Fisher Feb-11-1978 3.6 I 61
+Alexandra Riddle Feb-11-1978 0.7 I 44
+Frank White Feb-14-1978 3.852 I 81
+Shannon Pittman Feb-20-1978 1.057 I 17
+Joshua Miles Feb-22-1978 3.07 I 58
+Deborah Dixon Feb-23-1978 2.4 D
+Gina Townsend Feb-24-1978 4.2 D
+Eric Stewart Feb-25-1978 4.1 I 69
+Angela Griffith Feb-28-1978 2.7 D
+Desiree Sawyer Feb-28-1978 0.918 I 25
+Ashley Paul Mar-1-1978 3.18 I 5
+Sarah Fowler Mar-2-1978 3.941 I 0
+Kevin Hancock Mar-3-1978 3.697 D
+Christopher Gardner Mar-5-1978 0.6 I 71
+Deborah Reyes Mar-7-1978 3.8 I 77
+Bradley Flores Mar-14-1978 2.7 D
+Alexandria Solis Mar-17-1978 3.053 I 111
+Kenneth Cummings Mar-22-1978 0.632 D
+Jessica Cox Mar-24-1978 0.9 D
+Jessica Tran Mar-29-1978 0.29 I 90
+Eric Crawford Mar-31-1978 0.8 I 8
+Jim Mack Apr-7-1978 0.8 I 87
+Kelsey Griffin Apr-15-1978 2.23 I 94
+Margaret Miranda Apr-20-1978 2.8 D
+Rebecca Murphy Apr-27-1978 3.44 D
+Joanna Wilson Apr-30-1978 2.46 D
+Kenneth Brandt May-1-1978 1.8 D
+Jose Ramos May-2-1978 1.8 I 108
+Mary Weiss May-3-1978 2.74 I 15
+Linda Wagner May-22-1978 1.05 I 33
+Levi Estrada May-24-1978 1.9 I 98
+Matthew Freeman May-24-1978 1.9 I 76
+Tara Church May-25-1978 1.41 D
+Amanda Miles May-29-1978 1.9 D
+Brady Anderson Jun-3-1978 2.997 D
+Patricia Perez Jun-17-1978 1.09 I 105
+Anna Smith Jun-23-1978 2.532 D
+Dawn Hale Jun-28-1978 1.52 I 42
+Jose Mcgee Jul-4-1978 2.8 I 120
+William Smith Jul-5-1978 4.0 D
+Nathaniel Williams Jul-9-1978 1.5 I 23
+Michael Haynes Jul-10-1978 0.1 D
+Christopher Roberts Jul-13-1978 2.255 D
+Bethany George Jul-19-1978 4.21 D
+Kathleen Montgomery Jul-22-1978 3.8 I 58
+Andrea Reynolds Jul-28-1978 0.9 I 60
+Ernest Salazar Aug-10-1978 1.331 I 48
+Carrie Potter Aug-13-1978 2.0 D
+Ryan Moore Aug-14-1978 4.2 D
+Anthony Wang Aug-15-1978 3.25 I 48
+Gregory Rodgers Aug-19-1978 3.5 D
+Jonathan Brown Aug-21-1978 2.0 D
+David Lewis Aug-23-1978 2.8 I 9
+Charles Mitchell Aug-24-1978 0.46 D
+Susan Bryant Aug-31-1978 2.0 I 35
+Brent Tapia Sep-16-1978 3.5 D
+Matthew Castillo Sep-20-1978 1.4 D
+Amanda Collier Sep-21-1978 2.4 D
+Regina Cross Sep-23-1978 3.5 D
+Jaime Peters Oct-2-1978 1.8 I 34
+Dylan Kent Oct-5-1978 3.11 I 32
+Tonya Morris Oct-22-1978 2.41 I 36
+Anne Russell Oct-24-1978 3.983 D
+April West Oct-29-1978 3.4 D
+Sarah Martinez Nov-6-1978 0.42 D
+George Young Nov-14-1978 4.2 I 101
+David Fowler Nov-17-1978 0.95 I 6
+Anthony Sanchez Nov-19-1978 3.24 D
+Philip Horton Dec-1-1978 3.672 I 81
+Melody Carter Dec-2-1978 2.7 D
+Dale Santiago Dec-7-1978 4.082 I 112
+Brandon Smith Dec-9-1978 1.019 D
+Craig Sanchez Dec-12-1978 2.76 D
+Matthew Walker Dec-17-1978 0.189 D
+Christopher Mathis Dec-20-1978 3.455 D
+Anthony Farley Dec-28-1978 2.45 I 50
+Jennifer Maxwell Jan-3-1979 1.8 I 32
+Steven Hernandez Jan-4-1979 0.4 D
+Keith Holmes Jan-6-1979 2.1 D
+Anthony Peters Jan-7-1979 1.965 I 115
+Jeremy Hansen Jan-11-1979 2.58 I 68
+Anita Hernandez Jan-11-1979 3.5 I 39
+Todd Oconnor Jan-15-1979 2.5 D
+Paul Aguilar Jan-16-1979 1.8 D
+Marc Simpson Jan-19-1979 2.334 D
+Kelly Gonzalez Jan-22-1979 1.9 D
+Robert Young Jan-23-1979 1.9 D
+Brandi Winters Jan-28-1979 1.2 I 87
+Tracy Stephenson Feb-3-1979 2.415 D
+Amanda Phillips Feb-4-1979 2.729 I 14
+Alexis Collins Feb-6-1979 3.922 D
+Donald Robinson Feb-8-1979 3.95 D
+Christopher Jefferson Feb-12-1979 2.147 I 64
+Lori Nelson Feb-19-1979 0.1 I 37
+Brandi Gomez Feb-21-1979 2.4 I 89
+Kimberly Barrett Mar-1-1979 3.2 D
+Catherine Guerrero Mar-4-1979 2.39 I 32
+Jennifer Davis Mar-6-1979 1.587 I 34
+Jacob Hansen Mar-16-1979 2.86 I 28
+Katelyn Ruiz Mar-21-1979 2.3 I 3
+Ann Wallace Mar-25-1979 3.914 I 16
+Charles Johnson Mar-30-1979 0.73 D
+Adam Johnson Apr-9-1979 0.071 I 68
+Kayla Johns Apr-10-1979 3.24 D
+Miranda Little Apr-19-1979 4.005 I 24
+Jeremy Curry Apr-30-1979 3.2 D
+Gary Jones Apr-30-1979 0.07 D
+Dana Craig May-2-1979 2.1 D
+Philip Garcia May-4-1979 0.79 D
+Tiffany Hatfield May-4-1979 2.5 I 5
+Mary Booth May-5-1979 2.791 I 67
+Michele Ross May-6-1979 0.602 I 41
+Michael Thompson May-15-1979 1.829 I 43
+Brandi Fisher May-31-1979 0.3 I 26
+Sean Davis Jun-14-1979 4.2 D
+Jeffrey Davis Jun-15-1979 3.58 D
+Janet Davis Jun-26-1979 3.8 D
+Scott Lutz Jun-30-1979 0.9 I 106
+Lauren Medina Jun-30-1979 3.3 D
+Crystal Gonzales Jul-11-1979 2.1 D
+Allison Navarro Jul-13-1979 1.3 D
+Melissa Martin Jul-17-1979 0.86 D
+Leonard Hawkins Jul-19-1979 1.81 I 52
+Billy Campbell Jul-20-1979 1.8 I 6
+Roberto Sellers Jul-24-1979 4.3 I 114
+Kathy Molina Jul-31-1979 3.453 I 84
+Ann Bond Aug-14-1979 1.9 D
+Robert Hubbard Aug-16-1979 2.412 I 83
+David Dawson Aug-19-1979 4.241 D
+William Johnson Aug-31-1979 2.74 I 30
+Eduardo Rocha Sep-14-1979 0.2 D
+Joe Barker Sep-19-1979 1.5 D
+Matthew Villarreal Sep-20-1979 1.8 D
+Kelly Ball Oct-3-1979 3.3 D
+Leslie Robinson Oct-10-1979 3.115 D
+Shawn Anderson Oct-11-1979 2.6 I 106
+Katrina Nelson Oct-22-1979 2.458 I 103
+Sean Malone Oct-23-1979 3.8 D
+Angela Duke Oct-31-1979 3.21 I 36
+Mario Barajas Nov-1-1979 1.96 I 30
+Christy Gonzalez Nov-1-1979 0.86 D
+Robert Moore Nov-9-1979 1.8 D
+Jennifer Gonzalez Nov-16-1979 3.0 D
+Steven Young Nov-16-1979 0.79 I 22
+Sharon Brown Nov-17-1979 2.72 D
+Joseph Stephens Nov-23-1979 3.208 D
+Kristen Stone Nov-26-1979 0.07 I 95
+Sarah Bell Nov-28-1979 2.82 D
+Patrick Dougherty Dec-4-1979 0.39 D
+Robert Rodriguez Dec-7-1979 0.825 I 115
+Christina Cisneros Dec-8-1979 2.34 D
+John Lopez Dec-15-1979 1.0 I 80
+Robert Ho Dec-20-1979 3.9 D
+Nathan Rogers Dec-22-1979 3.792 D
+Amanda Morris Dec-28-1979 1.718 I 3
+David Jennings Jan-7-1980 2.52 I 101
+Catherine Hill Jan-8-1980 1.5 D
+Shelley Lopez Jan-9-1980 3.171 I 89
+Karen Bridges Jan-15-1980 1.2 I 8
+Jason Callahan Jan-15-1980 2.8 I 64
+Amanda Young Jan-15-1980 1.0 D
+Michael Oliver Jan-16-1980 0.37 I 119
+Christine Fitzpatrick Jan-20-1980 1.97 I 5
+Tony Reed Jan-20-1980 2.21 D
+Sean Anderson Jan-22-1980 2.59 I 58
+Kimberly Howard Jan-26-1980 3.8 D
+Dillon Hunter Jan-28-1980 2.001 D
+Stephen Morgan Jan-29-1980 1.17 D
+Michele Brooks Feb-1-1980 3.25 D
+Erin Salas Feb-13-1980 2.82 I 44
+Wendy Maynard Feb-21-1980 1.48 I 17
+Annette Archer Mar-10-1980 1.964 D
+Lauren Nelson Mar-16-1980 1.5 D
+Steven Taylor Mar-18-1980 2.88 D
+Anthony Mcguire Mar-21-1980 3.375 I 22
+Christine Reynolds Mar-23-1980 1.3 I 7
+Jeffery Underwood Mar-30-1980 1.172 D
+Jacob Montoya Apr-6-1980 0.778 D
+Melissa Raymond Apr-7-1980 3.85 I 27
+Tara Yang Apr-20-1980 2.23 D
+Pamela Hayden May-21-1980 0.3 I 21
+Nicole Hicks May-21-1980 1.43 D
+Mark Rodriguez May-22-1980 1.77 I 82
+John Trevino May-24-1980 3.017 D
+Bryan Hodge May-28-1980 0.3 I 55
+Michelle Elliott May-31-1980 3.25 D
+Sandra Hawkins Jun-14-1980 2.4 I 75
+Dawn Rice Jun-20-1980 4.14 I 100
+John Brown Jun-21-1980 3.541 D
+James Hoffman Jun-29-1980 1.207 D
+Ronald Pineda Jul-2-1980 4.1 D
+Raymond Harris Jul-3-1980 4.12 D
+Larry Lambert Jul-3-1980 4.23 D
+Joshua Turner Jul-8-1980 0.717 I 89
+Haley Martin Jul-13-1980 0.9 I 5
+Heather Morales Jul-16-1980 4.159 D
+Connie Fisher Jul-17-1980 3.45 I 22
+Teresa Lopez Jul-17-1980 1.2 D
+David Martin Jul-17-1980 0.21 D
+Anita Berry Jul-20-1980 1.2 I 10
+Katherine Sanders Jul-30-1980 3.954 D
+Kristi Dawson Jul-31-1980 3.1 D
+Krystal Hopkins Aug-9-1980 1.94 I 59
+Christine Smith Aug-12-1980 2.82 D
+Jimmy Smith Aug-17-1980 0.7 D
+Marissa Escobar Aug-25-1980 3.1 I 72
+Richard Powers Aug-28-1980 0.6 I 49
+Caleb Gallagher Aug-30-1980 1.23 I 39
+Donald Patel Sep-2-1980 1.2 D
+Misty Kim Sep-4-1980 4.26 D
+David Stewart Sep-4-1980 2.1 I 56
+Richard Walsh Sep-6-1980 2.74 D
+Gerald Jones Sep-9-1980 0.7 D
+Jeffrey Cook Sep-10-1980 1.68 D
+Steve Morris Sep-20-1980 0.2 I 85
+Anthony Phillips Sep-21-1980 0.893 I 87
+Susan Saunders Sep-23-1980 1.681 D
+Christopher Taylor Sep-23-1980 3.6 D
+Sandra Rodriguez Sep-27-1980 3.332 D
+Terry Lawrence Oct-1-1980 1.76 D
+Antonio Henry Oct-3-1980 0.36 I 108
+Nicole Garcia Oct-21-1980 1.16 D
+Valerie Smith Oct-29-1980 1.79 I 105
+Catherine Valencia Oct-29-1980 2.33 I 46
+Darlene Williams Oct-31-1980 0.5 I 80
+Richard Jones Nov-5-1980 3.9 I 41
+Shannon Love Nov-8-1980 2.2 D
+Billy Meyer Nov-12-1980 0.39 I 118
+Scott Glass Nov-14-1980 3.508 I 108
+Amanda Miller Nov-17-1980 1.0 I 13
+Brenda Knight Nov-18-1980 4.1 I 31
+Susan Wilkinson Nov-24-1980 1.72 D
+Tina Leonard Dec-20-1980 0.711 D
+Faith Thompson Dec-27-1980 1.48 D
+Jeremiah Watson Dec-29-1980 2.872 D
+Leslie Perez Jan-11-1981 1.463 I 92
+Rodney Walker Jan-22-1981 1.627 D
+Lisa Simmons Jan-24-1981 1.755 D
+Juan Ellis Feb-6-1981 0.57 I 117
+Joseph Shelton Feb-6-1981 2.82 I 0
+Richard Reed Feb-14-1981 2.253 I 11
+Brooke Rogers Feb-17-1981 1.335 I 45
+James Lopez Feb-23-1981 1.0 I 112
+Brian Terry Mar-6-1981 3.111 D
+David Buckley Mar-8-1981 3.64 D
+Denise Howard Mar-11-1981 1.37 D
+Benjamin Cox Mar-14-1981 1.99 I 0
+Kristen Perez Mar-26-1981 2.22 D
+Gloria Miller Mar-29-1981 0.891 D
+Susan Anderson Apr-1-1981 2.2 D
+Jennifer Meza Apr-4-1981 2.57 I 3
+Steven Johnson Apr-11-1981 0.296 I 10
+Angelica Wilson Apr-12-1981 1.2 I 114
+Sandra Harris Apr-16-1981 3.38 I 64
+Kevin Whitaker Apr-23-1981 4.0 I 9
+Jonathan Warren Apr-26-1981 1.2 D
+Barbara Pollard May-2-1981 3.6 D
+Danny Gay May-3-1981 0.594 I 8
+Keith Robinson May-4-1981 3.461 D
+Shannon Lewis May-8-1981 2.56 D
+Christine Howell May-10-1981 1.929 I 73
+Maria Blanchard May-17-1981 0.4 I 95
+Steven Johnson May-18-1981 2.37 I 29
+Elizabeth Jennings May-23-1981 1.9 I 120
+Edward Brown Jun-8-1981 0.121 I 30
+Nicole Smith Jun-12-1981 2.209 D
+Amanda Davis Jun-13-1981 0.53 D
+Brianna Gutierrez Jun-17-1981 0.361 I 47
+Kelly Barnes Jun-19-1981 2.491 D
+Valerie Fisher Jun-28-1981 2.5 D
+Tracy Madden Jun-28-1981 2.91 I 97
+Gloria Oneal Jul-3-1981 0.7 I 93
+Gina Cruz Jul-6-1981 2.7 I 104
+Christina Kline Jul-6-1981 0.4 D
+Alicia Chen Jul-7-1981 4.1 D
+Lori Allen Jul-14-1981 3.6 D
+Mark Beck Jul-16-1981 2.93 I 8
+Tyler Oconnor Jul-17-1981 0.76 I 34
+Chris Scott Jul-20-1981 3.92 D
+Helen Williams Jul-25-1981 2.748 I 75
+Laura Brown Jul-28-1981 4.03 D
+Christopher Valdez Jul-30-1981 1.197 D
+James Davis Jul-31-1981 3.6 I 21
+Veronica Phillips Aug-2-1981 2.6 D
+Steve Duke Aug-8-1981 3.67 I 44
+Hannah Huffman Aug-8-1981 1.12 I 60
+Robert Jimenez Aug-9-1981 2.7 I 27
+Sharon Singh Aug-9-1981 3.28 D
+Kevin French Aug-15-1981 1.4 I 45
+Nancy Smith Aug-18-1981 3.3 D
+Tim Larson Aug-21-1981 1.036 D
+Daniel Riddle Aug-21-1981 1.8 D
+Anna Torres Aug-23-1981 2.66 D
+Ryan Nichols Sep-7-1981 2.396 I 21
+Bryan Alexander Sep-8-1981 3.3 I 12
+Eric Walters Sep-13-1981 4.197 I 57
+Tamara Banks Sep-16-1981 2.7 D
+Regina Hayes Sep-17-1981 1.2 I 101
+Heather Torres Sep-18-1981 1.5 I 46
+Paul Eaton Oct-2-1981 4.1 D
+Cindy Nichols Oct-3-1981 1.5 I 17
+William Banks Oct-6-1981 2.511 D
+David Ramirez Oct-6-1981 3.281 D
+Ryan Ritter Oct-7-1981 2.5 I 64
+Jonathan Romero Oct-15-1981 1.4 I 23
+Christopher Middleton Oct-18-1981 2.9 I 86
+Rhonda French Oct-20-1981 2.88 D
+Natalie Cohen Oct-30-1981 3.917 D
+Jacqueline Doyle Oct-30-1981 1.81 I 105
+Sharon Davis Nov-2-1981 2.78 D
+Cindy Edwards Nov-2-1981 4.2 I 9
+Michelle Bell Nov-3-1981 0.45 D
+Melissa Rich Nov-3-1981 2.31 I 114
+Christopher Smith Nov-6-1981 1.62 D
+Rhonda Pace Nov-9-1981 0.311 I 30
+Abigail Garner Nov-14-1981 0.855 I 4
+Morgan Kim Nov-19-1981 3.3 D
+Megan Andrews Nov-24-1981 3.296 D
+Jessica Frye Nov-24-1981 1.883 I 58
+Pamela Rodgers Nov-26-1981 2.6 D
+Jenna Miranda Dec-2-1981 1.38 D
+Christy Hughes Dec-6-1981 2.04 I 55
+Vanessa George Dec-7-1981 2.5 D
+Gary Berry Dec-19-1981 1.847 I 37
+Tiffany Brown Dec-22-1981 2.58 I 86
+Spencer Mitchell Dec-29-1981 2.8 I 12
+Tammy Steele Jan-2-1982 3.7 I 108
+Pamela Ross Jan-8-1982 2.6 D
+Donald Taylor Jan-8-1982 3.541 I 86
+Nicholas Smith Jan-13-1982 3.276 I 41
+Katrina Lopez Jan-15-1982 4.06 D
+Keith Cox Feb-14-1982 1.34 D
+Joe Scott Mar-10-1982 1.7 D
+John Perez Mar-12-1982 0.8 I 119
+Michael Weaver Mar-13-1982 2.298 I 56
+Sean Gill Mar-14-1982 3.7 D
+Brandi Kim Mar-23-1982 2.6 I 15
+Caitlin Elliott Mar-24-1982 2.269 I 64
+Robert Mckay Mar-24-1982 0.81 D
+Eric Hogan Mar-26-1982 2.5 D
+Taylor Haas Mar-29-1982 0.78 D
+Matthew Davis Apr-4-1982 0.97 D
+Tyler Stuart Apr-7-1982 1.466 I 60
+Sandra Patterson Apr-9-1982 0.654 I 4
+Jennifer Castillo Apr-10-1982 3.84 I 28
+Madison Trevino Apr-11-1982 3.71 I 8
+Scott Bell Apr-18-1982 2.924 I 44
+James Ramirez Apr-18-1982 2.747 I 72
+Melissa Zuniga Apr-26-1982 2.576 D
+Joshua Carroll May-2-1982 2.2 I 6
+Amanda James May-5-1982 1.9 I 113
+James Davis May-6-1982 3.39 I 52
+Brenda Flowers May-12-1982 2.1 I 50
+Jennifer Lester May-13-1982 2.277 D
+James Schneider May-14-1982 0.379 I 90
+Mary Johnson May-15-1982 1.3 I 94
+James Pham May-15-1982 2.12 D
+Suzanne Martin May-17-1982 2.9 I 31
+Craig May May-21-1982 2.399 D
+Rick Davis May-29-1982 3.76 I 118
+Rachel May Jun-12-1982 0.59 I 35
+Lawrence Baldwin Jun-14-1982 2.5 I 35
+Jessica Andrade Jun-15-1982 0.668 D
+Jill Schmidt Jun-17-1982 1.78 I 30
+Christina Moran Jun-19-1982 1.9 I 57
+Rachel Simmons Jun-22-1982 2.2 D
+Nicole Burke Jun-23-1982 4.19 D
+James Brown Jun-25-1982 2.6 D
+Jeffery Carter Jun-25-1982 0.2 D
+Mary Small Jun-30-1982 3.24 I 26
+Sherri Mcintyre Jul-2-1982 0.883 D
+Julie Wolf Jul-3-1982 3.326 D
+Miranda Hubbard Jul-5-1982 0.608 I 6
+Gabriela Payne Jul-5-1982 2.8 I 21
+Lauren Drake Jul-8-1982 2.7 I 101
+Shelly Davis Jul-9-1982 0.2 I 79
+Jennifer Reyes Jul-16-1982 0.7 D
+Steven Carlson Jul-23-1982 4.28 I 5
+David Ferguson Jul-27-1982 0.105 I 51
+Amanda Washington Aug-7-1982 3.8 I 27
+Erin Jackson Aug-8-1982 3.61 D
+Antonio Allison Aug-10-1982 0.941 I 57
+John Rush Aug-21-1982 3.222 I 30
+James Jones Aug-25-1982 4.2 I 73
+Daisy Myers Aug-28-1982 0.98 I 66
+Vernon Norris Aug-30-1982 3.023 D
+Robert Little Sep-12-1982 1.204 D
+James Brady Sep-14-1982 2.1 D
+Heather Porter Sep-17-1982 0.95 I 17
+Nathan Richards Sep-20-1982 3.09 I 112
+Pam Harvey Sep-24-1982 4.295 D
+Brandon Montgomery Sep-28-1982 3.6 D
+Michelle Bell Oct-1-1982 0.373 D
+Allison Williams Oct-1-1982 0.997 I 50
+Ronald Morrison Oct-7-1982 3.5 I 15
+Virginia Cooper Oct-8-1982 1.697 D
+Joshua Hawkins Oct-8-1982 1.2 I 103
+Tracy Rivera Oct-23-1982 0.68 I 0
+Alicia Perkins Oct-26-1982 0.211 D
+John Flores Oct-30-1982 1.49 I 49
+Kaitlin Williams Nov-16-1982 3.3 D
+Katherine Mendoza Nov-20-1982 2.03 I 13
+James Schmidt Nov-22-1982 3.9 D
+Kenneth Sanchez Nov-25-1982 1.441 I 51
+Calvin Williams Nov-27-1982 2.66 D
+Christine Miller Nov-30-1982 1.2 D
+Susan Pacheco Dec-6-1982 3.27 D
+Caitlin Huber Dec-26-1982 0.9 I 89
+Pamela Fletcher Dec-28-1982 1.8 I 107
+Andre Smith Dec-28-1982 3.61 I 38
+Keith Camacho Jan-6-1983 3.51 I 91
+Stacy Hayes Jan-8-1983 0.102 D
+Brooke White Jan-9-1983 3.84 D
+Roger King Jan-13-1983 1.939 D
+Michael Bell Jan-17-1983 1.515 D
+Kendra Lee Jan-27-1983 3.979 I 98
+William Guerrero Jan-29-1983 2.689 I 100
+Randy Jackson Jan-31-1983 3.836 D
+Luke Foster Feb-1-1983 1.2 I 28
+Evan Brown Feb-4-1983 3.92 I 64
+Ronald Fisher Feb-6-1983 1.07 D
+Laurie Young Feb-11-1983 1.842 I 38
+Warren Pugh Feb-18-1983 2.6 I 93
+Sarah Contreras Feb-22-1983 2.16 D
+Francis Campbell Mar-7-1983 3.7 D
+Johnathan Gomez Mar-7-1983 1.3 D
+Christine Sherman Mar-10-1983 1.55 D
+Laura Gill Mar-15-1983 4.0 I 119
+Amanda Hill Mar-19-1983 2.4 D
+Aaron Anderson Mar-20-1983 0.8 I 59
+Jacob Wood Mar-23-1983 1.05 D
+Charles Lee Mar-25-1983 1.15 D
+Bianca Henderson Mar-30-1983 2.37 I 8
+Brian Merritt Apr-4-1983 2.584 I 119
+Andrew Maxwell Apr-18-1983 0.876 I 78
+David Cole Apr-20-1983 3.3 D
+Nicholas Dunn Apr-20-1983 0.966 D
+Oscar Carson Apr-25-1983 3.508 I 105
+Nicole Adams Apr-27-1983 3.62 I 70
+Christopher Rogers May-13-1983 1.329 I 28
+Gwendolyn Carroll May-18-1983 3.6 D
+Michael Diaz May-21-1983 2.89 I 47
+Ryan Ortega May-24-1983 3.2 I 10
+Adam Richards May-31-1983 2.739 D
+Joseph Rodriguez Jun-3-1983 3.18 D
+Jeffrey Hill Jun-4-1983 0.519 D
+Colton Morris Jun-4-1983 0.8 D
+James Turner Jun-4-1983 3.4 I 75
+Sandra Allen Jun-8-1983 3.83 D
+Alexis Smith Jun-14-1983 3.1 D
+Carla Williams Jun-15-1983 2.6 I 85
+Andrew Smith Jun-24-1983 0.308 D
+Robert Taylor Jun-24-1983 0.5 I 83
+Adrienne Thompson Jul-10-1983 0.22 I 71
+Angel Rivera Jul-18-1983 1.8 I 2
+Matthew Blake Jul-21-1983 1.123 I 92
+Zoe Rogers Jul-27-1983 3.1 D
+Adam Anderson Aug-7-1983 3.8 I 77
+Jennifer Walton Aug-14-1983 1.387 D
+Stephanie Hunt Aug-20-1983 3.4 D
+Lawrence Burns Aug-21-1983 0.83 I 7
+Frank Hill Aug-22-1983 0.766 I 73
+David James Aug-22-1983 0.142 D
+Jacqueline Williamson Aug-30-1983 1.0 D
+David Ibarra Sep-4-1983 2.7 I 106
+Joshua Jones Sep-14-1983 0.57 I 72
+William Lopez Sep-17-1983 2.1 D
+Jasmine Conner Sep-21-1983 3.7 D
+Mary Avery Sep-28-1983 3.59 D
+Ernest Meyers Sep-29-1983 2.717 I 1
+Joshua Hardy Oct-10-1983 3.3 D
+Monica Wilkerson Oct-11-1983 3.771 I 99
+Ashley Morris Oct-15-1983 3.565 I 93
+Melissa Barton Oct-25-1983 4.19 I 36
+James Oliver Oct-27-1983 3.5 I 102
+Nicole Smith Oct-28-1983 0.4 D
+Brandon Mitchell Nov-2-1983 2.8 I 98
+Michelle Tucker Nov-3-1983 1.32 D
+Michelle Scott Nov-8-1983 0.5 I 22
+Sharon Wood Nov-10-1983 1.3 I 8
+Todd Barnett Nov-14-1983 3.74 I 85
+Caitlyn Larsen Dec-8-1983 3.0 D
+Sean Kramer Dec-11-1983 1.8 I 50
+Austin Lewis Dec-23-1983 1.401 I 17
+Lisa Davis Dec-26-1983 3.82 D
+Alicia Ellis Jan-3-1984 2.49 I 52
+Sean Wilkinson Jan-4-1984 1.514 I 118
+Katie Shaffer Jan-12-1984 3.4 I 87
+Nicolas Smith Jan-14-1984 1.392 I 2
+William Lynch Jan-21-1984 1.703 D
+Timothy Lynch Jan-23-1984 2.59 I 8
+Jean Brooks Feb-2-1984 2.941 D
+Mary Clay Feb-7-1984 1.99 D
+Larry Aguilar Feb-14-1984 4.025 D
+Samuel Marquez Feb-24-1984 1.68 I 13
+Joshua Baker Feb-25-1984 1.074 I 22
+Joshua Lewis Feb-27-1984 0.285 D
+Larry Bowman Feb-29-1984 4.037 D
+Laurie Pierce Mar-6-1984 2.8 D
+Melissa Adams Mar-7-1984 2.76 I 120
+Stephanie Whitehead Mar-7-1984 1.282 I 103
+Mark Solis Mar-10-1984 0.144 D
+Javier Johnson Mar-11-1984 3.122 D
+Cynthia White Mar-13-1984 3.24 D
+Valerie Rodriguez Mar-17-1984 0.2 I 98
+Richard Lee Mar-19-1984 0.619 D
+Henry Martinez Mar-26-1984 2.51 I 11
+Justin Johnston Mar-30-1984 1.055 I 78
+Yvette Thomas Apr-3-1984 1.514 D
+Sara Thompson Apr-5-1984 1.9 I 73
+Susan Irwin Apr-8-1984 3.45 I 43
+Lori Goodwin Apr-9-1984 3.35 D
+Catherine Floyd Apr-13-1984 0.632 D
+Robert Hale Apr-15-1984 0.76 D
+Cassandra Johnston Apr-20-1984 0.313 D
+Vincent Kim Apr-23-1984 0.67 I 51
+William Johnson Apr-27-1984 0.356 D
+Rebecca English May-8-1984 1.778 D
+Michael Garcia May-23-1984 2.234 I 24
+Gerald Tate May-26-1984 2.099 D
+Bonnie Terrell May-26-1984 0.6 I 98
+Barry Schroeder Jun-1-1984 2.974 D
+Roger Blevins Jun-14-1984 3.84 D
+Claudia Wood Jun-26-1984 2.27 I 63
+Juan Hall Jun-27-1984 2.244 D
+Erik Baker Jun-29-1984 1.92 D
+Stephanie Crawford Jul-3-1984 3.11 D
+Kelly Doyle Jul-4-1984 0.971 I 115
+Keith Ortiz Jul-4-1984 0.575 I 73
+Christine Dixon Jul-12-1984 0.461 D
+Jack Harrison Jul-12-1984 0.426 I 31
+Angela Tucker Jul-13-1984 4.1 I 55
+Patrick Smith Jul-14-1984 1.23 D
+Dawn Harmon Jul-16-1984 4.1 I 62
+Gregory Benitez Jul-21-1984 0.3 I 9
+Carl Miller Jul-27-1984 2.8 D
+Lisa Padilla Jul-28-1984 0.27 I 111
+David Jenkins Jul-30-1984 3.4 I 82
+Juan Andrade Aug-8-1984 3.1 I 21
+Anne Mccormick Aug-8-1984 4.3 I 97
+Laura Moore Aug-17-1984 1.59 I 37
+Kenneth Roberts Aug-25-1984 3.27 D
+Jonathan Hall Aug-29-1984 1.28 D
+John Gonzales Sep-7-1984 3.0 D
+Wayne Whitney Sep-8-1984 0.8 D
+Thomas Griffith Sep-16-1984 0.8 I 74
+Shawn Pittman Sep-19-1984 3.964 D
+Adrienne Haney Sep-20-1984 1.9 I 40
+Angelica Martin Sep-21-1984 1.59 I 1
+Brandon Lopez Oct-5-1984 2.7 D
+Madison Spencer Oct-8-1984 3.2 D
+Martin Roberts Oct-10-1984 2.62 I 50
+Jennifer Evans Oct-12-1984 0.2 D
+Zachary Bryan Oct-17-1984 0.1 D
+Vanessa Petty Oct-22-1984 2.889 I 120
+Jane Richard Oct-22-1984 1.5 D
+Ashley Caldwell Oct-26-1984 2.4 D
+Katherine Mckinney Oct-30-1984 2.31 I 115
+Michael Ward Nov-14-1984 1.3 I 40
+Eric Black Nov-16-1984 2.112 D
+Rebecca Ellison Nov-16-1984 0.5 D
+Mary White Nov-16-1984 0.621 D
+Sarah Burns Nov-19-1984 3.8 I 44
+Alexandra Garrett Nov-20-1984 1.4 I 16
+Dana Cunningham Nov-22-1984 0.217 D
+Brianna Avery Nov-26-1984 2.997 D
+Sara Tate Nov-27-1984 0.06 I 25
+Sergio Montoya Dec-2-1984 3.093 I 65
+Deanna Gray Dec-3-1984 2.37 I 77
+Crystal Barr Dec-21-1984 0.04 I 57
+Juan Fisher Dec-27-1984 1.51 D
+Sarah Gutierrez Jan-1-1985 2.3 I 65
+Marissa Johnson Jan-1-1985 0.7 D
+John Russell Jan-5-1985 3.31 I 61
+Lori Schneider Jan-29-1985 1.07 I 17
+Alan Garrett Jan-30-1985 1.8 I 117
+Lisa Flores Jan-31-1985 1.7 D
+Heather West Feb-1-1985 1.925 D
+Kenneth Frazier Feb-5-1985 0.1 I 115
+John Becker Feb-9-1985 3.63 I 56
+Lisa Herrera Feb-12-1985 2.681 I 102
+Nicole Valencia Feb-12-1985 2.363 I 92
+Cameron Hanson Feb-20-1985 0.197 D
+Russell Waters Feb-22-1985 0.05 D
+Shawn Munoz Feb-25-1985 4.06 D
+Anita Singh Mar-1-1985 3.0 I 74
+Troy Leonard Mar-10-1985 3.74 I 45
+Tina Taylor Mar-11-1985 3.5 I 78
+Carrie Stewart Mar-15-1985 2.41 D
+Sarah Howard Mar-17-1985 3.46 I 113
+Anthony Walker Mar-18-1985 3.87 D
+Marc Welch Mar-20-1985 0.495 D
+Cameron Caldwell Mar-21-1985 4.1 D
+Tina Watson Mar-23-1985 4.208 D
+Lori Ross Apr-10-1985 1.0 D
+Andrew Hayes Apr-11-1985 0.1 I 52
+Adam Brown Apr-29-1985 1.4 D
+Luis Johnson Apr-29-1985 1.1 I 105
+Heidi Byrd May-1-1985 1.944 D
+Latoya Spears May-5-1985 2.35 I 98
+Patrick Cruz May-6-1985 2.567 I 1
+Roberto Carroll May-7-1985 3.286 D
+Eric Murphy May-12-1985 0.2 I 69
+Amanda Alvarez May-14-1985 1.148 I 94
+Michelle Ramirez May-14-1985 0.046 D
+Brittany Sosa May-15-1985 2.87 I 104
+Felicia Delacruz May-17-1985 4.2 I 77
+Jared Martinez May-17-1985 3.045 D
+Kathy Mcgee May-26-1985 0.8 D
+Jennifer Nguyen Jun-17-1985 3.44 D
+Mackenzie Cole Jun-22-1985 1.873 D
+Christopher Allen Jun-24-1985 1.7 I 24
+Dylan Knight Jun-24-1985 0.1 D
+Timothy Martinez Jun-24-1985 0.48 D
+Michelle Castaneda Jun-27-1985 1.8 D
+Thomas Nelson Jun-27-1985 2.3 D
+Katherine Figueroa Jul-3-1985 0.2 D
+Kayla Cross Jul-4-1985 0.82 D
+Timothy House Jul-9-1985 3.154 I 13
+Jeremy Branch Jul-15-1985 1.7 I 71
+Alicia Wallace Jul-17-1985 3.9 I 52
+Ricky Robinson Jul-18-1985 1.6 I 25
+Amy Simmons Jul-22-1985 1.813 I 23
+Kelsey Murray Jul-26-1985 0.123 D
+Stephanie Hudson Jul-31-1985 1.938 D
+Danielle Huber Aug-15-1985 3.14 D
+Marcia Green Aug-17-1985 1.0 D
+Kim Thompson Aug-26-1985 2.808 I 22
+Kristy Anderson Aug-30-1985 4.1 D
+Nicholas Baldwin Aug-30-1985 1.615 I 50
+Jillian Allen Sep-4-1985 1.25 I 26
+Caitlin Jackson Sep-5-1985 1.19 I 43
+Tara Leonard Sep-6-1985 3.514 D
+Ashley Booth Sep-7-1985 1.5 I 9
+Lisa Palmer Sep-15-1985 0.327 I 24
+David Lane Sep-19-1985 4.193 I 92
+Edgar Robinson Sep-23-1985 3.0 I 112
+Andrew Williams Sep-23-1985 1.35 D
+Carolyn Howard Oct-3-1985 2.9 I 117
+Joseph Perry Oct-6-1985 0.236 D
+Kelly Christensen Oct-7-1985 1.69 D
+Karen Taylor Oct-10-1985 1.01 I 49
+Dominic Gallegos Oct-11-1985 0.4 D
+Cameron Mcdonald Oct-13-1985 2.93 I 17
+Brittany Elliott Oct-16-1985 3.0 D
+Taylor Welch Oct-19-1985 1.7 I 65
+Alexa Jackson Oct-24-1985 2.6 D
+Jason Farley Nov-8-1985 1.865 I 58
+Jacqueline Vega Nov-8-1985 1.461 I 88
+James Levine Nov-11-1985 0.6 D
+James Saunders Nov-15-1985 3.453 I 69
+Robert Serrano Nov-15-1985 4.28 I 79
+Natalie Malone Nov-17-1985 0.6 I 66
+Katrina Collins Nov-22-1985 2.9 D
+James Yates Nov-25-1985 3.91 I 58
+Brian Thompson Nov-28-1985 3.45 I 53
+John Carey Nov-30-1985 3.7 D
+Michael Avila Dec-3-1985 0.798 I 59
+Christine Hunter Dec-4-1985 1.27 D
+Robin Sullivan Dec-7-1985 2.23 I 51
+Dustin Gray Dec-11-1985 3.69 D
+Rebecca Shepherd Dec-20-1985 2.6 D
+John Lowery Dec-23-1985 0.25 I 38
+Charles Blair Jan-3-1986 2.177 I 108
+Brian Garcia Jan-5-1986 3.9 D
+Cheyenne Lopez Jan-5-1986 0.6 I 69
+Gail Davis Jan-8-1986 2.0 D
+Michael Gibson Jan-9-1986 0.1 D
+Natasha Morgan Jan-9-1986 0.91 I 4
+Daniel Anderson Jan-14-1986 0.9 I 43
+Amy Vang Jan-16-1986 2.745 D
+Henry Jenkins Jan-25-1986 3.292 D
+Rebecca Graves Jan-28-1986 3.17 D
+Kathy Jones Feb-3-1986 0.9 I 79
+Ralph Reyes Feb-13-1986 0.827 I 71
+Timothy Arnold Feb-22-1986 0.5 D
+Andrew Tapia Feb-26-1986 3.2 D
+Selena Walsh Feb-27-1986 2.8 I 18
+Barbara Kline Mar-6-1986 0.2 D
+Wesley Wilson Mar-6-1986 3.054 I 67
+Julie Brennan Mar-8-1986 1.4 D
+Kelly Pittman Mar-14-1986 2.163 D
+Jennifer Lowe Mar-18-1986 1.48 I 27
+William Howard Mar-25-1986 1.95 I 47
+Donna Foster Apr-11-1986 2.594 D
+Stephen Love Apr-11-1986 2.9 I 65
+Andrew Ramirez Apr-11-1986 0.86 I 73
+Ann Robinson Apr-12-1986 3.404 D
+Amanda Anderson Apr-15-1986 0.794 I 79
+Rebekah Richards Apr-21-1986 3.7 I 103
+Jodi Newman Apr-24-1986 0.548 D
+Shelly Freeman May-8-1986 2.509 D
+Katelyn Villarreal May-8-1986 4.07 D
+Robin Smith May-13-1986 3.6 D
+Vincent Garcia May-21-1986 3.4 I 95
+Douglas Mercado May-26-1986 2.319 I 9
+Michelle White Jun-2-1986 1.44 I 77
+Brandon Gallegos Jun-14-1986 1.7 D
+Daniel Scott Jun-17-1986 3.68 I 63
+James Faulkner Jun-19-1986 0.8 I 66
+Daniel Blackwell Jun-20-1986 0.4 I 38
+Joseph Bates Jun-28-1986 0.681 I 112
+Abigail Cook Jun-29-1986 1.12 D
+Robin Cooper Jul-1-1986 1.87 I 87
+Carlos Franklin Jul-1-1986 2.5 I 88
+Michael Vazquez Jul-1-1986 2.836 D
+Randall Smith Jul-2-1986 0.14 I 74
+Michael Diaz Jul-4-1986 1.618 D
+Luis Williams Jul-7-1986 0.938 D
+Kimberly Gonzalez Jul-10-1986 0.52 I 72
+Sonya Neal Jul-10-1986 3.153 D
+Michaela Miller Jul-11-1986 3.665 D
+Matthew Thomas Jul-14-1986 2.855 D
+Jerry Wallace Jul-20-1986 3.044 I 66
+Michael Oliver Jul-25-1986 1.0 I 15
+George Gray Jul-27-1986 0.15 D
+Angela Rogers Aug-10-1986 3.774 I 11
+Barbara Lynn Aug-17-1986 3.71 D
+Madeline Garrison Aug-23-1986 2.7 D
+Jessica Velasquez Sep-1-1986 1.792 I 46
+Felicia Wilson Sep-1-1986 2.109 I 47
+Kendra Parker Sep-2-1986 3.11 D
+Peter Hernandez Sep-5-1986 3.5 D
+Connor Wilson Sep-12-1986 4.3 I 97
+William Villarreal Sep-16-1986 0.208 D
+Eric Vargas Sep-25-1986 1.0 D
+Lisa Hansen Oct-3-1986 1.19 D
+Erica Cortez Oct-5-1986 4.285 D
+Amy Rowland Oct-6-1986 1.718 I 8
+Brandy Mccoy Oct-7-1986 4.22 I 27
+Mark Davis Oct-14-1986 1.856 D
+Christopher Wilson Oct-15-1986 1.077 D
+Kylie Sanchez Oct-28-1986 0.965 I 6
+Rebecca Lawson Oct-30-1986 2.44 D
+Jessica Sanchez Oct-30-1986 2.44 I 115
+Allison Jordan Nov-6-1986 0.48 D
+Nathaniel Miller Nov-6-1986 4.16 I 29
+Bernard Cooper Nov-7-1986 3.5 D
+Sheri Evans Nov-8-1986 2.268 I 75
+Danielle Stevens Nov-14-1986 2.4 D
+Jeffrey Hill Nov-22-1986 0.03 D
+Elizabeth Duran Dec-2-1986 1.459 I 107
+Beth Jackson Dec-3-1986 3.106 I 86
+Pamela Cooper Dec-12-1986 4.006 I 24
+Kevin Thompson Dec-12-1986 3.3 D
+Amanda Maynard Dec-18-1986 4.3 D
+Daniel Mata Dec-22-1986 4.0 D
+Jessica Rose Dec-22-1986 1.06 I 10
+Carlos Liu Dec-26-1986 2.57 D
+David Stevenson Jan-4-1987 0.1 D
+Mackenzie Jones Jan-7-1987 1.5 I 2
+Amanda Salas Jan-9-1987 1.0 D
+Victor Schmidt Jan-14-1987 0.82 I 105
+Chelsea Miller Jan-16-1987 2.0 I 37
+Tyler James Jan-19-1987 4.1 D
+Linda Miller Jan-24-1987 1.77 D
+Elizabeth Reilly Jan-24-1987 3.52 I 104
+Jacqueline White Jan-29-1987 3.2 I 81
+Ronald Williams Jan-31-1987 0.721 I 116
+Anna Cooke Feb-2-1987 0.079 D
+Shawn Walker Feb-2-1987 4.3 D
+Douglas Harper Feb-9-1987 2.057 D
+Hannah Johnson Feb-12-1987 4.0 D
+Benjamin Stephenson Feb-15-1987 0.1 D
+Robert Evans Feb-17-1987 4.08 D
+Angel Morgan Feb-20-1987 2.855 D
+Steven Ward Feb-20-1987 0.752 I 98
+David Shaw Mar-6-1987 2.84 D
+Brandon Mann Mar-11-1987 1.0 D
+Brianna Ho Mar-16-1987 0.49 D
+Jason Moreno Mar-21-1987 2.169 D
+Sara Proctor Mar-21-1987 1.75 D
+Victoria Smith Mar-21-1987 2.636 I 24
+Jonathan Greene Mar-28-1987 0.4 I 85
+Penny Jordan Apr-1-1987 0.4 I 67
+Catherine Hawkins Apr-6-1987 1.1 I 17
+Vanessa Harris Apr-10-1987 1.458 I 83
+Emily Stevens Apr-10-1987 4.2 I 98
+Michael Carpenter Apr-30-1987 1.7 I 39
+Heidi Ward May-1-1987 3.179 I 18
+Thomas Whitaker May-3-1987 3.2 D
+Jennifer Rodriguez May-9-1987 3.97 D
+Felicia Smith May-12-1987 4.1 D
+Melissa Gross May-13-1987 1.77 I 32
+Bradley Gregory May-17-1987 2.69 D
+Brandon Rush May-19-1987 3.1 D
+Madeline Ellis May-21-1987 2.09 I 4
+Heidi Reid May-26-1987 0.44 D
+Sherry Young Jun-5-1987 1.965 D
+Tracy Solis Jun-7-1987 1.5 D
+Jennifer Lee Jun-16-1987 3.6 I 92
+Adam Williams Jun-16-1987 0.65 D
+William Gonzalez Jun-19-1987 1.4 D
+Jim Joyce Jun-27-1987 0.315 D
+Joseph Stone Jun-28-1987 3.6 D
+Ashley Mendez Jul-2-1987 3.79 D
+Laura Schwartz Jul-7-1987 2.9 D
+Bobby Sparks Jul-9-1987 3.789 I 61
+Monica Mcknight Jul-19-1987 1.637 I 76
+Ashley Jordan Jul-29-1987 2.2 D
+Jessica Sandoval Jul-31-1987 1.84 D
+Bobby Jones Aug-2-1987 4.22 I 105
+Brenda Humphrey Aug-5-1987 0.196 D
+Mathew Williams Aug-5-1987 1.04 I 62
+Maureen Macdonald Aug-14-1987 1.9 D
+Heather Hernandez Aug-15-1987 0.733 I 101
+Ellen Williams Aug-20-1987 2.29 I 90
+Brandon Maldonado Sep-15-1987 3.278 D
+Jennifer Pineda Sep-19-1987 1.2 I 112
+Michele Ball Sep-24-1987 4.0 I 17
+Alexis Martinez Sep-29-1987 0.0 I 10
+Abigail Velazquez Oct-2-1987 1.97 I 54
+Elaine Vaughn Oct-12-1987 3.16 D
+Wesley Torres Oct-22-1987 2.9 D
+Shawn Scott Oct-25-1987 1.43 D
+Pamela Jimenez Oct-29-1987 3.06 I 31
+Elizabeth Howell Nov-2-1987 0.62 I 9
+Eric Macdonald Nov-7-1987 2.2 D
+Steven Taylor Nov-8-1987 1.438 D
+Judith Stokes Nov-11-1987 2.03 D
+Erika Hoffman Nov-13-1987 2.1 I 36
+Mitchell Harris Nov-19-1987 1.78 D
+Elizabeth King Nov-20-1987 1.5 D
+Elizabeth Diaz Nov-24-1987 3.618 D
+Joseph Bentley Nov-25-1987 0.2 D
+Rachel Lowery Nov-25-1987 4.1 D
+Keith Hall Nov-30-1987 3.4 I 26
+Daniel Martinez Dec-8-1987 0.05 I 14
+Jodi Wood Dec-13-1987 4.0 D
+Mark Barr Dec-15-1987 0.777 I 89
+Angela Miller Dec-19-1987 2.046 D
+Brian Olson Dec-19-1987 2.9 I 65
+Diana Romero Dec-24-1987 3.9 I 96
+John Smith Dec-24-1987 0.41 I 88
+David Simmons Dec-30-1987 3.58 I 93
+Jeanette Lewis Jan-3-1988 2.8 D
+Joshua Peterson Jan-15-1988 2.765 D
+Elizabeth Skinner Jan-16-1988 1.32 I 2
+Carrie Hart Jan-17-1988 0.65 I 33
+Nicholas Morris Jan-21-1988 2.86 D
+Janet Rivas Jan-25-1988 4.19 I 118
+Dana Mendez Jan-29-1988 2.012 I 12
+Micheal Chapman Feb-2-1988 2.8 I 59
+Robert Johnson Feb-2-1988 3.5 D
+Phillip Garcia Feb-6-1988 0.8 I 34
+Brooke Contreras Feb-9-1988 3.9 I 120
+Brenda Chen Feb-10-1988 1.135 D
+Alyssa Hansen Feb-14-1988 1.3 I 92
+Amanda Lopez Feb-14-1988 3.62 I 104
+Antonio Jenkins Feb-16-1988 1.95 D
+Cynthia Bell Feb-18-1988 3.2 D
+Jennifer Beasley Feb-26-1988 3.1 I 67
+Jimmy Walker Mar-2-1988 0.6 D
+Emily Davis Mar-3-1988 3.4 D
+Jenna Robertson Mar-6-1988 3.15 D
+Chris Wallace Mar-6-1988 3.4 D
+Oscar Chandler Mar-13-1988 3.83 I 23
+Kelly Holt Mar-15-1988 3.56 D
+Mark Hughes Mar-31-1988 2.913 I 66
+Jason Hart Apr-7-1988 1.8 D
+Jeffrey Armstrong Apr-12-1988 1.695 I 45
+Amanda Martin Apr-19-1988 2.394 D
+Justin Chavez Apr-20-1988 3.006 D
+Michelle Williamson Apr-23-1988 2.723 I 105
+Trevor Glenn Apr-29-1988 0.7 D
+Michelle Vasquez May-1-1988 0.9 I 85
+Andrew Kelley May-4-1988 1.2 I 74
+Gary Bartlett May-8-1988 3.32 D
+Michelle Garcia May-15-1988 2.8 I 27
+Yvonne Cooper May-18-1988 3.09 I 66
+Joshua Dorsey May-20-1988 0.49 I 93
+Gwendolyn Scott May-28-1988 3.6 I 40
+Jenna Williams Jun-5-1988 2.3 I 49
+Brandi Gallagher Jun-6-1988 0.78 D
+Benjamin Kent Jun-17-1988 1.455 I 73
+Noah Johnston Jun-19-1988 3.2 I 11
+Lori Ortiz Jun-22-1988 1.59 D
+Thomas Goodwin Jun-23-1988 0.73 I 28
+Bradley Thomas Jun-23-1988 3.467 I 44
+Susan Davis Jun-30-1988 3.54 D
+Nichole Campbell Jul-2-1988 2.213 D
+Sabrina Gregory Jul-5-1988 0.64 D
+Judy Carroll Jul-13-1988 0.225 I 91
+Bonnie Callahan Aug-15-1988 2.7 I 94
+Alexander Clark Aug-15-1988 0.8 I 46
+Lauren Richards Aug-15-1988 0.09 D
+Timothy Moody Aug-18-1988 2.547 D
+Timothy Fuller Aug-20-1988 3.6 D
+Nathan Reed Aug-21-1988 3.41 D
+Christopher Serrano Aug-25-1988 0.15 I 27
+Adriana Diaz Aug-27-1988 1.489 I 63
+Tina Ramos Aug-28-1988 3.8 D
+Bryan Perry Aug-30-1988 1.1 I 90
+James Rodriguez Aug-31-1988 0.1 D
+David Young Sep-1-1988 0.357 D
+Alexander Hernandez Sep-5-1988 0.78 I 50
+Danielle Pacheco Sep-9-1988 2.7 I 88
+Gary Estrada Sep-13-1988 4.1 D
+Katie Turner Sep-17-1988 3.79 I 73
+James Black Sep-20-1988 1.37 I 21
+Jillian Long Sep-21-1988 3.435 D
+Ronald Ramos Sep-23-1988 0.8 D
+Kristy Johnson Sep-30-1988 1.537 D
+Kimberly Greene Oct-1-1988 4.0 I 84
+Marcus Smith Oct-5-1988 1.5 I 8
+Hannah Anderson Oct-10-1988 2.82 I 46
+Scott Goodman Oct-13-1988 0.076 D
+Bradley Carpenter Oct-23-1988 2.286 I 45
+James Stewart Oct-24-1988 3.4 I 18
+Lindsey Walker Oct-24-1988 3.918 D
+Katelyn Sanders Oct-26-1988 2.0 I 18
+Mary Miller Oct-29-1988 0.7 D
+Hannah Saunders Oct-29-1988 2.6 D
+Jeffery Anderson Nov-3-1988 2.5 I 20
+Angela Lewis Nov-4-1988 0.84 D
+Jessica Rogers Nov-4-1988 2.0 I 95
+Michael Pham Nov-9-1988 3.58 D
+Jeffrey Davila Nov-11-1988 0.145 I 81
+Elizabeth Johnson Nov-12-1988 1.946 I 3
+Ashley Willis Nov-12-1988 2.2 I 6
+Vanessa Williams Nov-14-1988 1.8 D
+Mary Romero Nov-15-1988 3.6 I 120
+Jeremiah Gibson Nov-19-1988 1.94 D
+Cody Strickland Nov-28-1988 2.4 D
+April Knight Dec-6-1988 1.46 D
+John Bryan Dec-10-1988 4.1 I 43
+Chase Burke Dec-12-1988 0.55 D
+Troy Hodges Dec-15-1988 2.5 D
+Karen Rodriguez Dec-17-1988 2.2 I 117
+Michelle Higgins Dec-20-1988 0.6 D
+Stephanie Nguyen Dec-26-1988 0.567 I 50
+Douglas Rhodes Jan-5-1989 2.928 I 19
+Gregory Martin Jan-10-1989 2.36 D
+Ethan Ortiz Jan-10-1989 2.39 D
+Casey Weaver Jan-11-1989 0.276 I 3
+Amanda Hammond Jan-12-1989 2.44 I 15
+Makayla Robinson Jan-22-1989 0.563 D
+Paul Duke Feb-4-1989 0.45 I 80
+Jamie Hernandez Feb-6-1989 3.98 D
+William Hernandez Feb-10-1989 1.139 D
+Gregory Perez Feb-11-1989 0.3 D
+John Alexander Feb-12-1989 3.4 D
+Michael Flores Feb-15-1989 2.5 D
+Ryan Mathews Feb-15-1989 0.7 I 94
+Megan Williams Feb-19-1989 3.756 D
+Lisa Rogers Mar-2-1989 4.0 I 24
+Patrick Hawkins Mar-3-1989 0.26 D
+Douglas Becker Mar-6-1989 3.841 I 5
+Holly Perez Mar-10-1989 1.678 D
+Brian Bowen Mar-11-1989 1.3 I 96
+Kimberly Sanchez Mar-18-1989 3.7 D
+Dustin Prince Mar-20-1989 2.6 D
+James Stephens Mar-27-1989 4.3 I 51
+Dennis Vincent Mar-27-1989 4.1 I 104
+Kevin Cantu Apr-3-1989 3.764 I 45
+Angela Kirby Apr-4-1989 1.6 D
+Mary Gonzales Apr-9-1989 2.0 D
+Victoria Davis Apr-10-1989 0.57 I 73
+Darrell Hampton Apr-11-1989 0.788 D
+Mary Murphy Apr-11-1989 1.0 D
+Joseph Keller Apr-16-1989 2.23 I 3
+Kimberly Booker Apr-17-1989 3.857 I 56
+Jillian Tucker Apr-20-1989 1.2 D
+Stacey Church May-11-1989 2.888 D
+Veronica Murphy May-11-1989 3.35 I 34
+Joy Calhoun May-15-1989 4.1 D
+Bonnie Whitehead May-15-1989 3.7 D
+David Zamora May-26-1989 1.77 D
+Casey Jones Jun-11-1989 3.476 D
+Joseph Moreno Jun-14-1989 1.4 I 81
+John Robinson Jun-14-1989 0.7 D
+Jessica Ellis Jun-30-1989 1.99 I 48
+Ian Poole Jul-1-1989 4.232 D
+Nancy Mcdonald Jul-4-1989 0.23 I 0
+Carrie Avila Jul-11-1989 3.9 D
+Matthew Nichols Jul-11-1989 3.574 I 28
+William Park Jul-12-1989 1.91 I 101
+Robert Yang Jul-18-1989 0.94 I 91
+David Kelley Jul-23-1989 3.78 D
+Jason Elliott Jul-24-1989 2.0 D
+Meagan Schwartz Jul-25-1989 2.48 D
+Alejandro Rodriguez Jul-28-1989 4.1 I 74
+Sandra Jennings Aug-1-1989 1.7 D
+Brian Hudson Aug-2-1989 1.5 I 25
+Jeff Vance Aug-8-1989 3.14 D
+Mark Brown Aug-9-1989 3.44 D
+Kara Cameron Aug-11-1989 0.7 D
+Christopher Carlson Aug-18-1989 0.2 I 38
+Keith Frazier Aug-25-1989 0.6 D
+Michael Moore Aug-27-1989 2.51 D
+Jeffrey Williams Sep-3-1989 1.87 I 120
+Oscar Mack Sep-5-1989 1.2 D
+Dominique Gilbert Sep-10-1989 0.537 I 1
+Devon Hernandez Sep-16-1989 0.2 I 92
+Matthew Roy Sep-18-1989 4.24 D
+Angela Barton Sep-29-1989 2.476 D
+Colin Lam Oct-2-1989 1.25 D
+Donald Hamilton Oct-5-1989 2.6 D
+Kimberly Moore Oct-7-1989 0.86 I 46
+Robin Ramos Oct-7-1989 0.488 I 49
+Michele Figueroa Oct-9-1989 0.96 D
+Olivia Winters Oct-14-1989 0.0 I 109
+Rebecca Dean Oct-17-1989 3.704 I 44
+Elizabeth Tapia Oct-23-1989 2.21 I 56
+Cheryl Sawyer Oct-24-1989 3.75 I 114
+Vickie Page Oct-31-1989 1.18 D
+Tammy Johnson Nov-7-1989 0.1 I 90
+Elizabeth Cole Nov-9-1989 3.923 D
+Ronald Vega Nov-13-1989 3.183 I 55
+Judy Le Nov-14-1989 3.1 D
+Martin Porter Nov-20-1989 1.831 D
+Amy Foster Nov-28-1989 1.2 D
+Krystal Durham Dec-1-1989 2.09 I 34
+Michael Williams Dec-2-1989 1.7 D
+Jesus Schultz Dec-7-1989 4.014 D
+John Tyler Dec-8-1989 0.4 I 89
+Vernon Gomez Dec-12-1989 2.28 D
+Kayla Hughes Dec-14-1989 0.706 D
+Shirley Andrews Dec-16-1989 2.36 D
+Rachel Giles Dec-19-1989 3.027 D
+Stephanie Brown Jan-4-1990 4.0 I 6
+Shannon Delgado Jan-14-1990 3.4 D
+Vanessa Scott Jan-20-1990 4.1 D
+David Crane Jan-21-1990 2.231 D
+Reginald Gomez Jan-22-1990 0.78 D
+Jason Garcia Jan-26-1990 1.5 D
+Antonio Austin Jan-27-1990 2.177 I 72
+Cynthia Rios Jan-29-1990 1.308 D
+Michele Miranda Feb-1-1990 1.16 I 6
+Kimberly King Feb-5-1990 2.131 D
+Christina Ruiz Feb-6-1990 3.072 I 5
+Amber Chavez Feb-14-1990 1.0 D
+Ross Bush Feb-15-1990 2.189 I 86
+Mary Collier Feb-19-1990 0.727 I 83
+Roberta Jenkins Mar-12-1990 0.8 I 46
+Mary Mullins Mar-18-1990 4.2 D
+Melinda Schultz Mar-20-1990 1.033 D
+Cindy King Mar-21-1990 1.4 I 51
+Patrick Christian Mar-23-1990 0.257 D
+Daniel Singh Mar-23-1990 1.321 I 38
+Jared Alvarez Mar-30-1990 3.06 D
+Kevin Kelley Mar-30-1990 0.9 I 14
+Aaron Smith Apr-2-1990 0.32 D
+Nicole Scott Apr-16-1990 4.0 I 118
+Randy Hernandez Apr-17-1990 0.323 I 76
+Samantha Christensen Apr-19-1990 0.03 D
+Michael Black Apr-21-1990 3.1 D
+Alexander Johnson May-5-1990 2.1 I 102
+Rickey Harvey May-17-1990 1.24 I 114
+Sheryl Hurley May-19-1990 0.98 D
+Elizabeth Carr May-24-1990 3.2 I 37
+Michael Duncan Jun-1-1990 3.735 D
+Kimberly Shelton Jun-12-1990 2.42 D
+Jessica Rodriguez Jun-13-1990 0.5 D
+John Baker Jun-16-1990 0.7 I 15
+Robin Johnson Jun-26-1990 0.8 I 107
+Julie Potts Jul-7-1990 0.768 D
+Jill Ramos Jul-9-1990 0.02 I 39
+Devon Austin Jul-24-1990 0.97 D
+Robert Page Jul-30-1990 2.5 D
+Sandra Ellis Aug-2-1990 1.84 I 102
+Taylor Mosley Aug-2-1990 1.1 I 120
+Casey Meyer Aug-5-1990 2.86 D
+Regina Rich Aug-5-1990 3.9 D
+Michael Sullivan Aug-6-1990 4.1 I 88
+Jonathan Mcpherson Aug-14-1990 2.0 D
+Brenda Long Aug-17-1990 0.686 I 104
+Kyle Gross Aug-22-1990 1.886 D
+Laura Newton Sep-4-1990 3.3 D
+Breanna Smith Sep-5-1990 1.65 I 19
+Robin Turner Sep-5-1990 3.179 D
+Michael Hardin Sep-8-1990 4.11 D
+Elizabeth Nguyen Sep-8-1990 3.26 D
+Misty Wright Sep-14-1990 2.2 I 11
+Daniel Allen Sep-15-1990 3.971 I 25
+Patricia George Sep-18-1990 1.804 D
+Aaron Blackwell Sep-26-1990 0.6 I 33
+Jennifer Hayden Sep-26-1990 1.4 I 27
+Gregory Brooks Sep-27-1990 0.604 I 71
+Nancy Sullivan Oct-12-1990 1.3 I 109
+Stephen Rhodes Oct-14-1990 4.3 I 82
+Frederick Shelton Oct-15-1990 0.0 D
+Phillip Turner Oct-19-1990 3.899 D
+Diana Aguilar Oct-25-1990 4.174 D
+Michelle Manning Oct-27-1990 0.9 D
+Megan Woodard Oct-29-1990 3.7 I 82
+Danny Davis Oct-30-1990 0.39 D
+Ashley Riggs Nov-4-1990 1.15 I 51
+Monica Lee Nov-6-1990 1.7 I 17
+Andrew Martin Nov-10-1990 0.7 I 98
+Allison Reynolds Nov-10-1990 3.5 D
+Brenda Ball Nov-11-1990 3.215 I 30
+Crystal Simmons Nov-11-1990 2.6 I 91
+Joan George Nov-13-1990 2.57 D
+Carol Stephens Nov-17-1990 3.809 D
+Susan Hunt Nov-29-1990 3.7 D
+Richard Jones Dec-1-1990 2.13 I 40
+Suzanne Munoz Dec-9-1990 3.5 D
+Kayla Cole Dec-11-1990 1.8 I 81
+Stephanie Cortez Dec-20-1990 2.02 I 52
+Kimberly Gray Dec-22-1990 0.09 I 31
+Nichole Bowers Dec-24-1990 3.808 I 7
+Jonathan Mccormick Dec-26-1990 2.11 D
+Marcus White Jan-9-1991 0.76 I 18
+Heather Torres Jan-13-1991 0.6 D
+Kevin Martin Jan-14-1991 1.8 D
+Joshua Oliver Jan-18-1991 2.879 D
+Ronald Collins Jan-24-1991 0.61 D
+Margaret Lowe Jan-30-1991 2.34 D
+Chad Norris Feb-12-1991 3.903 I 77
+Kelsey Thomas Feb-15-1991 1.4 I 9
+Daniel Jimenez Feb-17-1991 2.182 D
+Kimberly Ford Feb-18-1991 3.667 D
+Shirley Webb Feb-26-1991 0.406 I 117
+Charles Anderson Feb-28-1991 2.244 D
+Robert Lewis Mar-6-1991 2.6 I 80
+Hunter Fisher Mar-7-1991 1.33 I 61
+Holly Jackson Mar-8-1991 2.133 D
+James Phelps Mar-14-1991 1.47 I 36
+Lucas Gilbert Mar-16-1991 3.21 D
+Samuel Warren Mar-16-1991 0.551 I 105
+Ian Mcconnell Mar-22-1991 0.0 D
+Lisa Nelson Mar-22-1991 0.25 D
+Rachel Cruz Mar-24-1991 2.407 I 15
+Joshua Hernandez Mar-24-1991 0.632 D
+Michele Parker Mar-24-1991 1.16 D
+Stephen Smith Apr-11-1991 2.985 I 66
+Deborah Walker Apr-14-1991 3.68 D
+Jeremy Smith Apr-16-1991 0.9 D
+Christian Boyd Apr-18-1991 0.4 D
+Jimmy Tanner Apr-29-1991 1.0 I 115
+Daniel Gates May-2-1991 3.81 I 103
+Sandra West May-5-1991 4.04 I 43
+Jeffrey Gross May-6-1991 0.943 D
+Stephanie Newton May-7-1991 1.8 I 99
+Kimberly Rodriguez May-7-1991 2.176 D
+Christopher Hancock May-10-1991 0.58 D
+Stacy Weaver May-14-1991 1.3 D
+Lisa Hall May-19-1991 1.29 I 59
+Chelsea Munoz Jun-2-1991 0.139 D
+Kurt Ramirez Jun-6-1991 2.8 I 23
+Tammy Fry Jun-7-1991 0.473 I 100
+Amy Thomas Jun-8-1991 0.3 D
+Sara Walker Jun-8-1991 3.09 D
+Ronald Vega Jun-9-1991 2.48 D
+Colleen Dixon Jun-10-1991 2.72 I 8
+Melissa Barrera Jun-20-1991 2.8 D
+Jessica Thompson Jun-23-1991 1.92 I 45
+Kenneth Hall Jun-26-1991 0.8 I 25
+Larry Allen Jun-29-1991 0.034 I 74
+John Rice Jun-29-1991 3.627 I 96
+Kathleen Baker Jul-7-1991 4.104 D
+April Norris Jul-7-1991 3.19 I 58
+Jacob Cunningham Jul-12-1991 4.26 I 65
+Frances Edwards Jul-17-1991 0.163 D
+Kayla Morris Jul-21-1991 0.2 I 19
+Austin Bowers Aug-3-1991 3.0 I 36
+Justin Levine Aug-19-1991 1.957 D
+Crystal Martinez Aug-23-1991 2.189 D
+Tyrone Young Sep-4-1991 2.293 I 42
+Ashley Sampson Sep-5-1991 3.73 D
+Ashley Owen Sep-18-1991 0.3 D
+Stacy Cummings Sep-21-1991 2.16 D
+Jesus Evans Sep-24-1991 1.685 D
+Sherri Torres Sep-24-1991 3.37 D
+David Holt Sep-26-1991 1.87 I 89
+Danielle Jackson Sep-26-1991 2.8 I 104
+Joanne Rose Sep-29-1991 2.7 D
+Tiffany Scott Oct-7-1991 1.3 I 9
+Paula Thomas Oct-12-1991 2.894 D
+Jose Martinez Oct-14-1991 1.126 D
+Lisa Walton Oct-15-1991 2.7 D
+Catherine Mcdonald Oct-20-1991 2.05 I 15
+Richard Chang Oct-24-1991 0.504 D
+Ryan Carlson Oct-25-1991 3.1 D
+Kristine Huff Oct-25-1991 2.0 I 51
+Travis Young Oct-31-1991 2.36 D
+Amber Cooper Nov-1-1991 0.7 D
+Gabriela Richard Nov-21-1991 0.02 D
+Brittany Jackson Nov-22-1991 3.66 D
+Christopher Duran Nov-26-1991 1.025 D
+Thomas Rodriguez Dec-2-1991 1.8 D
+Joseph Williams Dec-6-1991 4.058 D
+Mark Gordon Dec-8-1991 3.6 I 108
+James Young Dec-9-1991 0.8 I 87
+Alice Robertson Dec-11-1991 0.702 D
+Claudia Haynes Dec-19-1991 3.3 D
+Brittany Newman Dec-20-1991 2.73 I 79
+Jennifer Savage Dec-23-1991 2.7 I 97
+Luke White Dec-29-1991 0.1 I 72
+Sean Francis Dec-30-1991 2.7 D
+Sabrina Kirby Jan-1-1992 1.7 D
+Joshua Gibson Jan-2-1992 1.8 D
+Tommy Thomas Jan-2-1992 2.5 D
+Max Eaton Jan-3-1992 1.202 I 120
+Christine Barry Jan-4-1992 0.5 I 45
+Sean Peterson Jan-6-1992 2.3 D
+Katherine Jackson Jan-21-1992 2.972 I 14
+Teresa Terry Jan-22-1992 3.569 D
+Allen Mcdonald Jan-27-1992 1.1 I 84
+Hayley Solis Jan-27-1992 3.6 I 88
+Stefanie Taylor Jan-30-1992 1.703 D
+Lisa Johnson Feb-1-1992 1.41 D
+Laura Bowen Feb-9-1992 0.224 D
+Anne Orozco Feb-9-1992 0.68 D
+Kim Wong Feb-14-1992 2.96 I 77
+Brandon Chavez Feb-15-1992 3.772 D
+Stephanie Ryan Feb-17-1992 1.386 D
+Laura Harris Feb-23-1992 3.1 I 38
+Lisa Sanchez Feb-25-1992 2.9 I 66
+Ariana Bowers Feb-27-1992 2.76 I 82
+Robert Buckley Mar-5-1992 4.21 I 73
+Nicole Simmons Mar-11-1992 3.68 D
+Aaron Hawkins Mar-15-1992 0.41 I 87
+Amanda Richardson Mar-15-1992 4.243 I 38
+Bryan Perry Mar-17-1992 3.08 D
+Brett Howard Mar-18-1992 0.7 I 72
+Roberto Ayala Mar-19-1992 0.9 I 26
+Michael Ellis Mar-23-1992 1.67 D
+Clayton Chaney Mar-26-1992 2.0 D
+Jacqueline Mcgrath Mar-27-1992 0.8 I 103
+Jasmine Andersen Mar-29-1992 0.67 I 16
+Lisa Cisneros Mar-29-1992 3.42 I 88
+Tonya Ingram Mar-31-1992 1.482 D
+Joseph Escobar Apr-1-1992 1.4 D
+Kathy Knight Apr-1-1992 0.1 D
+Jose Wilson Apr-15-1992 3.17 D
+Robert Walker Apr-19-1992 3.29 I 11
+Dan Ponce Apr-24-1992 2.174 I 19
+Katherine Rogers Apr-25-1992 4.081 D
+David Wood Apr-27-1992 0.9 I 120
+Ashley Singleton Apr-29-1992 2.14 I 39
+Amanda Taylor May-1-1992 0.926 D
+Amy Cobb May-8-1992 2.3 D
+Louis Buckley May-10-1992 4.1 D
+Benjamin Glass May-29-1992 3.68 I 17
+Christie Gonzalez May-31-1992 3.13 I 113
+Melissa Newman May-31-1992 3.93 I 65
+Melanie Smith Jun-11-1992 2.51 I 53
+Sandra Cantrell Jun-13-1992 3.6 I 80
+Emily Scott Jun-29-1992 2.744 D
+William Davis Jun-30-1992 0.44 D
+Tina Holder Jun-30-1992 2.6 I 111
+Brian Jones Jul-6-1992 3.0 D
+Joshua Small Jul-6-1992 1.5 I 99
+Thomas Harrison Jul-9-1992 4.205 I 90
+Danielle King Jul-9-1992 2.6 I 106
+Megan Arnold Jul-10-1992 0.906 I 41
+Alexander Shepard Jul-10-1992 2.39 I 107
+Jordan Saunders Jul-12-1992 3.67 I 32
+Robin Mills Jul-15-1992 1.72 I 18
+Sandra Rivera Jul-15-1992 1.3 I 71
+Peter Stevens Jul-17-1992 1.172 D
+Kent Garcia Jul-19-1992 4.01 D
+Emily Williams Jul-20-1992 1.4 D
+Ann Graham Jul-26-1992 2.551 D
+Matthew Lewis Jul-26-1992 3.0 D
+Sheila Weaver Jul-30-1992 0.91 D
+Cameron Wong Aug-14-1992 3.6 I 48
+Catherine Carter Aug-15-1992 2.5 D
+Lisa Hicks Aug-24-1992 3.3 D
+Sean Brown Aug-26-1992 1.74 I 8
+David Good Aug-26-1992 3.6 D
+Lori Evans Sep-6-1992 0.061 I 83
+Nicole Krause Sep-9-1992 3.862 I 119
+Sabrina Ruiz Sep-10-1992 4.184 I 66
+Gordon Armstrong Sep-11-1992 1.22 D
+Jeffrey King Sep-14-1992 1.9 D
+Kristina Thomas Sep-21-1992 0.22 I 94
+Charles Wise Sep-21-1992 1.8 D
+Richard Campbell Sep-25-1992 1.48 D
+Juan Goodman Oct-6-1992 3.2 D
+Erin Perez Oct-10-1992 4.05 D
+Sarah Sullivan Oct-20-1992 0.1 D
+Tracy Lee Oct-24-1992 3.9 I 65
+Kelly Rangel Oct-24-1992 0.65 D
+Jill Dean Oct-27-1992 2.032 I 95
+Joseph Barber Oct-28-1992 2.9 I 32
+Michael Harris Nov-12-1992 0.6 I 84
+Ricky Proctor Nov-13-1992 2.747 I 59
+Matthew Fox Nov-18-1992 2.158 I 115
+Rodney Chen Nov-20-1992 0.6 D
+Dawn Gallagher Nov-21-1992 2.14 D
+William Carroll Nov-27-1992 1.1 D
+Melissa Hart Dec-12-1992 2.94 D
+James Crawford Dec-16-1992 3.6 I 109
+Chelsea Barton Dec-17-1992 0.2 D
+Stephanie Price Dec-25-1992 0.171 I 16
+Tina Obrien Jan-2-1993 1.22 D
+Robert James Jan-4-1993 0.6 I 91
+Tammy Bowen Jan-9-1993 1.78 D
+Hannah Livingston Jan-12-1993 4.26 I 102
+George Guerrero Jan-16-1993 0.9 I 14
+Jonathan Lopez Jan-19-1993 3.3 I 75
+Tyler Mcclure Jan-30-1993 3.5 D
+Jill Thompson Feb-1-1993 1.36 I 103
+Louis Ramirez Feb-13-1993 1.8 I 63
+Vanessa Woods Feb-27-1993 2.1 I 110
+Andrea Lowe Mar-3-1993 0.093 D
+Kathryn Martin Mar-5-1993 0.1 D
+Kathleen Wood Mar-5-1993 3.398 D
+Rachel Lowe Mar-8-1993 2.34 I 92
+Monica Johnson Mar-10-1993 3.04 D
+Adam Taylor Mar-10-1993 2.8 D
+Catherine Ward Mar-20-1993 3.89 I 22
+Patricia Johnson Mar-22-1993 2.31 D
+Lisa Henderson Mar-29-1993 4.1 I 104
+Carolyn Ward Apr-3-1993 0.72 D
+Angela Taylor Apr-4-1993 3.17 I 113
+Jon Beasley Apr-9-1993 1.39 I 78
+Ariana Harrington Apr-10-1993 0.8 I 54
+Sergio Tran Apr-19-1993 0.1 I 8
+Justin Taylor Apr-21-1993 3.2 D
+William Gilbert Apr-22-1993 1.31 D
+Breanna Miller Apr-24-1993 0.724 D
+Willie Cabrera May-7-1993 0.109 D
+Kevin Martinez May-31-1993 2.3 I 17
+Joshua Conrad Jun-8-1993 0.38 D
+Nicholas Martin Jun-16-1993 0.8 I 112
+Ryan Griffin Jun-27-1993 3.157 D
+Jaclyn Esparza Jun-30-1993 0.4 D
+Wendy Riddle Jul-3-1993 3.53 I 37
+Gina Miller Jul-5-1993 4.2 D
+Katherine Beck Jul-10-1993 1.86 I 69
+Brooke Wright Jul-11-1993 3.549 D
+Michael Rios Jul-12-1993 2.2 D
+Alyssa Miller Jul-27-1993 2.8 I 10
+Shannon Boyer Jul-28-1993 4.0 D
+Sandra Black Jul-30-1993 1.8 I 106
+Elaine Warren Jul-31-1993 0.807 D
+Stephen Young Aug-7-1993 1.52 I 98
+Alicia Frazier Aug-8-1993 0.89 I 103
+Timothy Lewis Aug-10-1993 2.534 D
+Adam Mcdonald Aug-12-1993 2.452 I 100
+Holly Taylor Aug-22-1993 3.16 D
+Karen Francis Aug-30-1993 0.9 I 38
+Patrick Jenkins Sep-13-1993 4.218 I 98
+Nathan Porter Sep-18-1993 1.3 D
+Angela Frederick Sep-21-1993 4.05 I 7
+Isaac Mills Sep-24-1993 0.454 D
+James Wilkerson Sep-28-1993 3.8 D
+Alicia Carpenter Oct-6-1993 1.228 D
+Dennis Porter Oct-7-1993 0.73 D
+Christopher Parsons Oct-14-1993 1.078 D
+Kristen Boyd Oct-15-1993 3.5 D
+Dylan Silva Oct-16-1993 0.8 I 101
+Joshua Owens Oct-21-1993 0.145 D
+Joshua Hayes Oct-27-1993 2.89 D
+Claudia Flores Oct-30-1993 3.1 I 68
+Alan Arroyo Nov-2-1993 3.7 I 106
+Amanda Graham Nov-5-1993 0.56 D
+Jessica Singleton Nov-6-1993 0.2 I 34
+Kimberly Turner Nov-8-1993 3.0 D
+Jason Olsen Nov-9-1993 2.99 I 9
+Brandon Campos Nov-16-1993 0.13 D
+Jonathan Taylor Nov-22-1993 0.42 I 23
+Jessica Contreras Nov-23-1993 2.176 I 49
+Theresa Wells Nov-25-1993 3.745 I 43
+Leah Cooper Dec-8-1993 2.26 I 105
+Megan Charles Dec-10-1993 1.534 D
+Madison Moore Dec-15-1993 1.622 I 62
+Taylor Brown Dec-18-1993 3.821 I 77
+Raymond Young Dec-18-1993 0.42 D
+Daniel Palmer Dec-26-1993 0.754 D
+Jesse Watkins Jan-1-1994 2.064 I 103
+Marcus Steele Jan-3-1994 2.2 D
+Joseph Lee Jan-6-1994 4.241 I 47
+Ralph Villarreal Jan-12-1994 2.293 D
+Felicia Wilkerson Jan-15-1994 4.1 D
+Paul Woods Jan-25-1994 2.541 D
+Leah Rivera Jan-30-1994 2.62 I 119
+Kyle Wong Feb-1-1994 1.722 D
+Ronald Torres Feb-5-1994 0.348 I 74
+Ronald Newton Mar-7-1994 0.26 D
+Jason Blankenship Mar-8-1994 3.194 D
+Kyle Jones Mar-24-1994 3.164 I 33
+Elizabeth Anderson Mar-26-1994 1.77 I 12
+Clinton Gutierrez Apr-3-1994 1.0 I 96
+Richard Mitchell Apr-10-1994 0.69 I 27
+Victoria Wood Apr-14-1994 2.677 I 85
+Michael David Apr-15-1994 0.059 I 43
+Nicole Hogan Apr-16-1994 0.259 D
+Erica Garza Apr-23-1994 0.5 I 68
+Rebecca Hall Apr-27-1994 3.53 D
+Shawn Wilson Apr-27-1994 3.8 D
+Evelyn Davis Apr-30-1994 3.67 D
+Jay Huynh May-10-1994 1.102 I 89
+Keith Schmidt May-11-1994 1.453 I 102
+Donald Avila May-13-1994 0.85 I 90
+Alexandra Lynch May-18-1994 3.7 I 50
+Lisa Castillo May-20-1994 2.432 I 53
+Amber Garcia Jun-4-1994 2.6 D
+Dawn Moore Jun-5-1994 1.288 I 22
+Jason Conner Jun-10-1994 0.4 D
+Tina Rodriguez Jun-15-1994 0.404 I 119
+Katherine Riggs Jun-26-1994 3.07 I 110
+Jared Stewart Jul-3-1994 2.812 D
+Melissa Wilson Jul-21-1994 2.501 D
+Mary Barrett Jul-26-1994 4.04 D
+Diane Hansen Jul-29-1994 1.0 D
+Dennis Rodgers Jul-29-1994 4.221 D
+Matthew Wright Jul-31-1994 2.47 I 53
+Stacy Torres Aug-9-1994 1.379 D
+Joshua Cook Aug-10-1994 3.22 I 59
+Anthony Mccullough Aug-13-1994 1.217 D
+Claudia Vasquez Aug-20-1994 2.643 I 52
+Leah Garrett Aug-24-1994 1.96 I 73
+Brian Rodriguez Aug-27-1994 1.34 D
+Patricia Beasley Sep-1-1994 2.279 D
+Christine Herrera Sep-1-1994 0.119 I 26
+Natalie Johnson Sep-4-1994 2.84 I 95
+Norman Parker Sep-9-1994 3.43 D
+Allison Jenkins Sep-15-1994 2.64 D
+Wesley Douglas Sep-17-1994 1.4 D
+Tammy Walker Sep-18-1994 0.9 D
+Jennifer Sparks Sep-21-1994 4.12 D
+Michael Martinez Sep-22-1994 0.763 I 75
+Kristen Gross Sep-26-1994 0.2 I 105
+Jacob Heath Sep-28-1994 3.13 I 25
+Nicholas Santana Oct-1-1994 0.73 I 34
+Melissa Adams Oct-5-1994 3.35 I 108
+Victoria Zimmerman Oct-19-1994 3.15 I 92
+Matthew Sellers Nov-1-1994 2.4 D
+Madeline Freeman Nov-5-1994 4.1 I 61
+Charles Fisher Nov-16-1994 4.1 D
+William Roy Nov-16-1994 3.35 D
+Peter Schmitt Nov-18-1994 3.948 D
+Lisa Jimenez Nov-19-1994 1.094 D
+Amy Woodard Nov-19-1994 3.51 I 11
+John Morris Nov-22-1994 0.246 I 34
+Danielle Hernandez Nov-27-1994 3.205 D
+Darren Jackson Dec-2-1994 3.3 D
+Eric Massey Dec-3-1994 2.544 D
+Zachary Davis Dec-6-1994 1.93 D
+Martin Oliver Dec-10-1994 1.98 D
+Christine Martinez Dec-11-1994 0.334 D
+William Wells Dec-16-1994 2.942 I 108
+Sarah Green Dec-18-1994 0.8 I 51
+Briana Robinson Jan-6-1995 3.752 I 114
+James Mills Jan-8-1995 1.58 D
+Tanya Smith Jan-11-1995 4.05 I 56
+Jasmine Young Jan-30-1995 2.0 D
+Justin Cunningham Feb-3-1995 4.17 D
+Michele Thomas Feb-5-1995 4.27 D
+Ronald Wallace Feb-6-1995 0.6 D
+Jeremiah Mitchell Feb-10-1995 3.952 I 21
+Jason Jimenez Feb-11-1995 3.539 D
+Hannah Powers Feb-21-1995 3.93 I 53
+Daniel Rodriguez Feb-24-1995 2.3 D
+Laura Holland Feb-27-1995 2.85 I 102
+Steven Rodriguez Mar-2-1995 1.58 I 20
+Elizabeth Strong Mar-3-1995 3.6 D
+Joshua Cox Mar-4-1995 2.24 I 73
+William Taylor Mar-5-1995 1.9 I 58
+Ruben Mcgee Mar-6-1995 2.1 D
+Catherine Brown Mar-8-1995 0.923 D
+Blake Whitaker Mar-10-1995 3.97 I 111
+Ryan Gomez Mar-16-1995 0.4 D
+Joshua Weiss Mar-16-1995 1.78 I 36
+Amy Jenkins Mar-17-1995 1.7 D
+Thomas Norris Mar-17-1995 1.5 D
+Billy Garcia Mar-23-1995 1.65 I 46
+Gabriela Summers Mar-24-1995 1.7 I 1
+Judith Medina Mar-25-1995 2.3 I 110
+Aaron Hancock Mar-28-1995 3.0 D
+Luke Hernandez Mar-28-1995 3.802 D
+Angela Duncan Mar-31-1995 3.9 D
+Thomas Foley Apr-2-1995 2.877 D
+Shawn Miller Apr-4-1995 3.08 I 27
+Michael Brown Apr-6-1995 1.97 D
+Stephanie Hamilton Apr-8-1995 2.99 D
+Sarah Torres Apr-22-1995 3.6 I 27
+Laura Rubio Apr-25-1995 3.234 I 48
+Kara Maxwell May-7-1995 1.1 I 73
+Robert Porter May-22-1995 1.571 I 85
+Steven Medina May-24-1995 1.9 I 110
+Lisa Rodriguez May-26-1995 1.95 D
+Emily Williams May-30-1995 1.4 D
+John Hale Jun-2-1995 3.3 D
+Todd Smith Jun-2-1995 1.0 D
+Christopher Andrews Jun-3-1995 3.04 D
+Jessica Torres Jun-3-1995 1.82 D
+Richard Pratt Jun-12-1995 2.82 D
+Jason Lopez Jun-16-1995 3.042 D
+Donald Harris Jun-18-1995 1.03 I 39
+Debra Greene Jun-21-1995 0.6 D
+Kristin Marks Jun-25-1995 1.494 I 54
+Catherine Walsh Jun-26-1995 3.8 I 103
+Joshua Evans Jun-29-1995 1.702 I 47
+Amy Brooks Jul-3-1995 4.1 I 98
+Yolanda Young Jul-6-1995 0.33 I 106
+Lori Schaefer Jul-8-1995 3.02 D
+Joshua Byrd Jul-10-1995 2.4 D
+Michael Santos Jul-15-1995 3.811 I 33
+David Hale Jul-21-1995 1.884 I 84
+Nancy Reyes Jul-26-1995 2.58 D
+April Doyle Jul-31-1995 0.32 D
+Walter Skinner Aug-5-1995 3.249 D
+Thomas Sutton Aug-15-1995 1.307 I 49
+Nicholas Jackson Aug-21-1995 2.2 D
+Teresa Vasquez Aug-22-1995 2.2 D
+Elizabeth Beasley Aug-26-1995 1.236 I 109
+Sara Cain Aug-28-1995 0.45 I 100
+Richard Weber Aug-29-1995 3.15 D
+Karen Mathews Aug-31-1995 0.4 I 14
+Angela Adkins Sep-4-1995 0.209 I 24
+Christine Jones Sep-6-1995 1.76 I 12
+Anthony Garcia Sep-13-1995 2.96 D
+Jose Hogan Sep-22-1995 0.019 I 53
+Sean Calderon Sep-23-1995 2.69 D
+Brianna Mays Sep-24-1995 4.298 I 107
+Rachel Brown Sep-30-1995 2.4 I 100
+Patrick Jackson Oct-6-1995 3.6 I 24
+Eric Macdonald Oct-6-1995 0.37 I 8
+Chloe Hernandez Oct-21-1995 4.247 I 63
+Mary Wagner Oct-25-1995 1.74 I 86
+Keith Silva Oct-30-1995 2.3 D
+Priscilla Torres Oct-30-1995 1.3 I 41
+Richard Porter Nov-8-1995 3.2 D
+Evan Walker Nov-10-1995 4.195 I 37
+Elizabeth Garrett Nov-12-1995 0.4 I 55
+James Floyd Nov-19-1995 0.69 D
+Kayla Walker Nov-25-1995 1.104 I 91
+John Wise Nov-26-1995 3.809 I 71
+Sarah Foster Nov-27-1995 1.837 D
+Amanda Mayo Nov-28-1995 1.09 D
+Rebecca Foster Dec-1-1995 3.18 D
+Janet Watts Dec-3-1995 4.0 D
+Christine Holland Dec-11-1995 0.4 I 53
+John Hughes Dec-11-1995 3.29 I 74
+Matthew Cline Dec-22-1995 4.128 D
+Tina Galvan Dec-23-1995 1.1 D
+Brenda Johnson Dec-24-1995 4.1 D
+David Mcmahon Dec-26-1995 2.55 I 94
+Michael Huffman Dec-28-1995 1.621 D
+Wendy Moreno Dec-28-1995 2.95 D
+Valerie Jackson Jan-1-1996 1.29 D
+Anthony Burton Jan-4-1996 1.69 D
+Kimberly Fisher Jan-5-1996 0.466 D
+Gerald Guerrero Jan-18-1996 0.3 I 71
+Taylor Keller Jan-23-1996 0.54 D
+Matthew Weaver Feb-3-1996 3.492 I 26
+Paul Wyatt Feb-5-1996 1.004 D
+Robert Adams Feb-6-1996 4.15 I 63
+Amanda Griffin Feb-8-1996 0.06 I 18
+Bridget Dunn Feb-13-1996 2.66 D
+Megan Jensen Feb-17-1996 3.359 I 114
+Dawn Morgan Feb-21-1996 2.026 I 46
+David Cox Feb-24-1996 1.38 D
+Brenda Nelson Mar-2-1996 4.054 D
+Brian Decker Mar-12-1996 2.1 D
+Christina Barnes Mar-18-1996 3.0 I 101
+Jeremy Brooks Mar-19-1996 0.3 D
+Linda Cox Mar-20-1996 0.935 I 62
+Kathryn Caldwell Mar-23-1996 1.41 I 96
+Timothy Cervantes Mar-31-1996 0.7 I 14
+Mary Martin Mar-31-1996 0.72 D
+Beverly Graves Apr-4-1996 1.13 I 107
+James Taylor Apr-8-1996 4.168 D
+Rachel Taylor Apr-14-1996 0.632 I 18
+Donald Walton Apr-25-1996 2.802 I 86
+Justin Richards Apr-26-1996 4.24 I 107
+Kendra Bradshaw Apr-30-1996 2.7 I 24
+Julie Gentry May-1-1996 3.039 D
+Erin Robinson May-1-1996 1.0 I 46
+Douglas Webb May-1-1996 0.6 D
+Amy Hogan May-10-1996 0.3 I 27
+Heather Perry May-17-1996 1.6 D
+Barbara Winters May-18-1996 4.13 D
+Russell Padilla May-24-1996 0.8 I 12
+Virginia Blanchard May-26-1996 3.29 D
+Tyler Taylor May-26-1996 2.662 D
+Christopher Carroll May-31-1996 2.3 I 12
+Amber Strickland Jun-13-1996 0.3 D
+Denise Hernandez Jun-14-1996 2.44 D
+Melanie Ortiz Jun-16-1996 3.03 I 16
+Anthony Smith Jun-16-1996 2.35 D
+Alexander Chavez Jun-17-1996 3.03 I 47
+Angela Johns Jun-21-1996 3.89 D
+Nancy Wade Jun-24-1996 3.254 D
+David Wagner Jun-29-1996 3.8 D
+Donald Thomas Jul-2-1996 0.27 D
+Melanie Simmons Jul-3-1996 2.35 I 32
+Jennifer Hall Jul-8-1996 0.05 D
+Kristi Rocha Jul-8-1996 0.045 I 35
+Donna Wright Jul-9-1996 2.1 D
+Daniel Young Jul-18-1996 1.605 D
+Gregory Kennedy Jul-20-1996 3.7 I 25
+Susan Wilson Jul-21-1996 2.139 D
+Amy Moore Aug-11-1996 1.141 I 19
+Robin Osborne Aug-18-1996 3.4 I 104
+Gordon Bradley Aug-19-1996 1.8 D
+Tony Evans Aug-19-1996 0.558 I 39
+Brian Martinez Aug-20-1996 0.37 I 54
+Gregory Thompson Aug-23-1996 1.198 D
+John Jones Aug-25-1996 1.21 I 43
+Michelle Chavez Sep-27-1996 2.4 I 56
+Craig Reed Sep-28-1996 3.8 I 109
+Stephanie Day Oct-3-1996 2.658 I 6
+John Cantu Oct-9-1996 4.05 I 55
+Todd Mitchell Oct-15-1996 2.16 D
+Jason Benitez Oct-25-1996 0.656 I 74
+Matthew Berry Oct-27-1996 2.121 D
+Kelly Johnson Oct-30-1996 0.083 I 49
+Justin Weiss Nov-6-1996 1.6 I 113
+Emily Huynh Nov-23-1996 1.5 D
+Curtis Baker Dec-11-1996 3.982 D
+Meghan Watson Dec-17-1996 1.34 D
+Lindsey Delgado Dec-23-1996 1.4 I 72
+Katherine Martin Dec-29-1996 2.99 I 95
+Steven Johnston Jan-2-1997 3.707 I 25
+Dawn Perry Jan-2-1997 2.62 I 5
+Jonathan Bishop Jan-5-1997 1.1 D
+Jack Fleming Jan-16-1997 1.21 D
+Terrence Lopez Jan-16-1997 0.88 D
+Carolyn Pittman Jan-16-1997 3.33 D
+Kevin Montgomery Jan-18-1997 3.4 D
+Danny Becker Jan-23-1997 3.92 I 13
+Kristin Phillips Jan-25-1997 1.418 D
+Douglas Harris Jan-26-1997 4.1 D
+Charles Holder Jan-26-1997 2.27 D
+Aimee Vaughn Jan-31-1997 2.75 I 15
+David Carter Feb-20-1997 2.52 D
+Lori Hansen Feb-23-1997 2.3 I 56
+Joshua Davis Feb-25-1997 2.52 D
+Andrew Snow Feb-26-1997 2.3 I 108
+Wesley Liu Mar-4-1997 1.95 D
+Jonathan Herrera Mar-7-1997 0.914 D
+Gary Morgan Mar-24-1997 3.9 D
+Daniel Davis Mar-29-1997 3.71 D
+Kenneth Leonard Apr-6-1997 2.23 D
+Emily Smith Apr-6-1997 3.02 I 115
+Chad Brandt May-1-1997 0.0 I 112
+Ann White May-2-1997 3.23 I 37
+Vanessa Smith May-9-1997 0.8 D
+Jennifer Campbell May-11-1997 2.3 D
+Charles Jones May-18-1997 3.83 D
+Derrick Dillon May-19-1997 1.992 I 7
+Stephanie Henry May-19-1997 1.6 D
+Ashley Carr May-20-1997 3.24 D
+Karen Clark May-23-1997 1.309 I 48
+Maria Chapman May-27-1997 0.396 I 6
+Sandra Wright Jun-8-1997 3.838 D
+Maria Mooney Jun-13-1997 4.16 I 5
+James Stout Jun-24-1997 0.5 D
+Rachel Gentry Jul-2-1997 3.028 I 51
+Dawn Wagner Jul-10-1997 0.923 D
+Richard Johnson Jul-18-1997 2.2 I 113
+Kristen Stevens Jul-20-1997 1.48 I 0
+Gina Klein Jul-21-1997 2.518 D
+Jeffery Shaw Jul-21-1997 3.674 I 60
+Christopher White Jul-22-1997 2.831 D
+Michael Cantrell Jul-30-1997 3.434 D
+Juan Carr Aug-4-1997 2.89 D
+Sean Rodriguez Aug-11-1997 3.17 I 46
+Kendra Morse Aug-19-1997 2.6 D
+Erin Park Aug-29-1997 2.12 D
+John Wright Aug-31-1997 3.87 I 32
+Matthew Roberts Sep-6-1997 2.933 I 17
+Martha Williams Sep-15-1997 1.111 D
+Brian Cameron Sep-20-1997 4.141 D
+Vincent Matthews Oct-3-1997 4.2 I 1
+Troy Rice Oct-18-1997 0.4 I 25
+Tracy Newton Oct-22-1997 2.979 I 39
+Veronica Cummings Oct-24-1997 0.724 D
+John Wang Oct-28-1997 0.153 I 88
+Sylvia Anderson Oct-30-1997 3.029 I 53
+Amanda Lucas Nov-5-1997 0.572 D
+Catherine Johnson Nov-18-1997 0.16 D
+Emily Perez Dec-6-1997 1.11 I 111
+Eugene Vasquez Dec-9-1997 0.6 D
+Sharon Villegas Dec-12-1997 3.1 D
+Tina Boyle Dec-18-1997 0.92 D
+Ian Mcdonald Dec-23-1997 1.1 D
+Jesse Guerrero Dec-28-1997 2.56 I 44
+Toni Park Dec-28-1997 2.5 D
+Dwayne Andersen Jan-8-1998 0.05 I 14
+Ashley Garcia Jan-9-1998 3.6 I 34
+Andrew Stone Jan-15-1998 3.84 I 88
+Theresa Robinson Jan-16-1998 2.9 D
+Maria Avila Jan-20-1998 2.951 D
+Ariel Dodson Jan-21-1998 0.7 I 60
+Keith Larson Jan-22-1998 3.3 I 31
+Debra Riddle Jan-25-1998 3.871 D
+Amanda Andrews Feb-16-1998 2.9 D
+Joseph Woods Feb-18-1998 0.8 I 28
+Anthony Hill Feb-19-1998 2.9 D
+William Kim Feb-25-1998 2.3 I 48
+Aaron Lee Feb-25-1998 3.178 I 19
+Melissa Larson Mar-7-1998 3.19 D
+Robin Reed Mar-11-1998 1.5 I 81
+Ryan Wong Mar-11-1998 4.1 D
+Alice Meyer Mar-18-1998 3.8 D
+Troy Jackson Mar-22-1998 1.5 I 81
+Christine Smith Mar-30-1998 3.558 D
+Carla Moore Apr-2-1998 1.83 D
+Jill Mueller Apr-3-1998 0.9 I 90
+Connor Marquez Apr-9-1998 1.1 I 79
+Terri Moore Apr-15-1998 4.2 I 106
+Shawn Welch Apr-23-1998 2.98 D
+Marie Nguyen Apr-25-1998 1.64 I 18
+Joseph Larson Apr-28-1998 3.508 I 52
+Sarah Smith Apr-30-1998 3.451 D
+Amy Stone May-2-1998 2.0 I 117
+Joseph Smith May-11-1998 2.495 D
+Stephanie Garcia May-14-1998 1.47 D
+Jonathan Kane May-25-1998 1.7 D
+Ashley Shaw May-25-1998 3.79 I 52
+Ryan Sharp May-29-1998 3.5 D
+Jessica Cooper May-31-1998 0.32 D
+David Murillo Jun-1-1998 0.9 D
+Emily Grant Jun-3-1998 2.3 D
+Edward Hernandez Jun-9-1998 4.1 I 3
+Larry Robles Jun-11-1998 3.7 I 65
+Carly Hill Jun-14-1998 1.9 D
+Joseph Dickerson Jun-20-1998 4.032 D
+Elijah Stewart Jun-20-1998 1.995 D
+Natasha Salazar Jun-22-1998 2.7 I 109
+Dennis Bell Jun-24-1998 1.3 D
+Ronald Murray Jun-25-1998 2.23 D
+Shawn Estes Jun-26-1998 3.9 D
+Danielle Terry Jul-1-1998 2.72 D
+Stephanie Simon Jul-5-1998 3.7 I 13
+Matthew Clayton Jul-8-1998 0.8 I 59
+Scott Watkins Jul-12-1998 2.21 D
+Kimberly Johnson Jul-26-1998 0.2 D
+Harry Mccall Jul-28-1998 4.25 I 20
+Michael Smith Aug-5-1998 1.7 D
+Dana Davis Aug-10-1998 2.63 D
+Victoria Brown Aug-12-1998 1.9 I 16
+Colleen Nelson Aug-14-1998 2.7 I 25
+Paul Stein Aug-20-1998 1.3 D
+Andrew Morris Aug-22-1998 0.481 D
+Michael King Aug-26-1998 4.108 D
+Aaron Downs Sep-1-1998 2.18 I 105
+Jessica Simmons Sep-3-1998 0.52 I 61
+Matthew Murphy Sep-14-1998 4.2 I 115
+Anna Day Sep-16-1998 1.7 I 17
+Jacqueline Reynolds Sep-16-1998 2.6 D
+Patricia Velazquez Sep-23-1998 1.33 D
+Jason Park Sep-24-1998 3.901 I 98
+Megan Taylor Sep-24-1998 2.493 D
+Lori Middleton Sep-27-1998 3.15 I 117
+George Stokes Sep-28-1998 2.071 I 85
+Alan Anderson Sep-29-1998 0.32 I 39
+Caleb Griffith Sep-29-1998 2.8 D
+Samuel Waters Sep-29-1998 1.23 I 75
+Michael Williams Sep-29-1998 4.3 D
+William Braun Sep-30-1998 3.03 I 119
+Caleb Hurley Oct-2-1998 2.047 D
+Kimberly Rodriguez Oct-7-1998 1.4 D
+Michael Lang Oct-10-1998 3.0 I 77
+Amanda Anderson Oct-13-1998 2.8 I 71
+Brian Montoya Oct-14-1998 1.1 I 9
+Matthew Little Oct-16-1998 3.57 I 56
+Nicholas Greene Oct-30-1998 1.3 D
+Duane Randolph Oct-30-1998 2.22 I 8
+Amanda Crosby Nov-1-1998 2.83 I 4
+Alexandra Stephens Nov-3-1998 1.1 I 73
+Jon Campbell Nov-8-1998 4.04 D
+Jose Stevens Nov-8-1998 2.0 D
+Joseph Gould Nov-10-1998 2.919 I 9
+Laura Graham Nov-11-1998 3.291 D
+Carrie Richards Nov-14-1998 3.1 D
+Sarah White Nov-16-1998 2.2 I 47
+Robert Gonzalez Nov-17-1998 0.697 I 46
+David Brandt Nov-26-1998 3.836 I 100
+Tammy Walton Nov-27-1998 2.84 D
+Jacob Harding Dec-1-1998 3.65 I 97
+Mary Allison Dec-6-1998 1.42 I 94
+Nicholas Christensen Dec-8-1998 2.8 I 86
+Alexis Ellison Dec-10-1998 2.1 D
+Jasmine Woods Dec-10-1998 1.1 I 39
+Carlos Garcia Dec-25-1998 3.2 D
+Michael Jones Jan-2-1999 2.7 D
+Judy Mendez Jan-2-1999 3.08 D
+Lisa Walsh Jan-7-1999 0.79 D
+Dan Luna Jan-14-1999 1.903 I 108
+Bill King Jan-18-1999 2.0 D
+Monica Pearson Feb-1-1999 2.4 I 33
+Amy Rice Feb-4-1999 1.707 I 74
+Bruce Serrano Feb-7-1999 0.095 I 37
+Andre Stone Feb-17-1999 2.71 D
+Ashley Mccarthy Feb-20-1999 0.1 I 61
+Richard Serrano Feb-23-1999 0.476 D
+Daniel Murphy Feb-27-1999 3.119 I 3
+Jason Gibson Mar-13-1999 1.1 D
+Teresa Wright Mar-13-1999 3.7 D
+Kenneth Holmes Mar-21-1999 2.0 I 110
+Ricky Gallagher Mar-24-1999 3.07 D
+Briana Martinez Mar-24-1999 0.361 I 12
+Molly Martin Mar-26-1999 0.7 D
+Robert Beltran Apr-12-1999 1.604 I 29
+Alisha Lambert Apr-15-1999 3.56 I 11
+Vicki Gray Apr-30-1999 0.072 D
+Holly Quinn May-8-1999 3.833 I 32
+Dylan Morrison May-11-1999 1.35 I 65
+Ashley Scott Jun-9-1999 1.01 I 80
+Kimberly Cannon Jun-17-1999 0.11 D
+Richard Fox Jun-18-1999 1.716 D
+Dennis Price Jun-20-1999 2.532 D
+Sarah Zimmerman Jun-23-1999 0.8 I 38
+Stephanie Hall Jun-25-1999 0.449 D
+Brittany White Jun-27-1999 0.5 I 98
+Johnny Campbell Jul-4-1999 2.689 D
+Suzanne Garcia Jul-4-1999 0.1 D
+Keith West Jul-8-1999 0.89 I 110
+Sara Nguyen Jul-11-1999 1.3 I 37
+Mariah Henry Jul-12-1999 1.1 D
+Michael Leonard Jul-12-1999 2.989 I 11
+Lisa Wilson Jul-12-1999 0.68 I 17
+Gregory Harris Jul-15-1999 1.5 D
+Kevin Edwards Jul-17-1999 1.4 I 17
+Barbara Henderson Jul-25-1999 1.4 I 94
+Heather Taylor Jul-25-1999 0.686 I 94
+Christopher Yang Jul-27-1999 4.16 D
+Tiffany Cummings Aug-4-1999 0.57 D
+Danny Henderson Aug-10-1999 1.3 D
+Laura Jones Aug-25-1999 1.707 D
+Linda White Sep-4-1999 2.54 D
+Jennifer Evans Sep-6-1999 1.8 D
+Jeffrey Hill Sep-8-1999 3.4 D
+James King Sep-12-1999 2.7 I 47
+Jessica Mitchell Sep-14-1999 1.91 D
+Mark Andersen Sep-24-1999 1.4 I 48
+Jessica Larson Sep-24-1999 2.8 I 80
+Tiffany Holland Oct-8-1999 4.133 I 70
+Jacob Smith Oct-16-1999 0.853 D
+Lindsay Duncan Oct-24-1999 4.1 I 82
+Amanda Reynolds Nov-9-1999 2.143 I 57
+Carrie Morton Nov-12-1999 2.636 D
+Tamara Herrera Nov-30-1999 0.086 D
+Tiffany Roberts Dec-1-1999 4.1 D
+Robert Kent Dec-5-1999 2.4 D
+Angela Ramos Dec-10-1999 4.04 D
+Shaun Scott Dec-10-1999 2.8 D
+James Rogers Dec-11-1999 1.815 I 98
+Robert Mueller Dec-12-1999 1.34 D
+Christine Graham Dec-17-1999 1.7 I 31
+Jose Gonzalez Dec-25-1999 4.3 I 12
+Cynthia Dixon Dec-26-1999 2.914 I 107
+Sandra Ramirez Dec-27-1999 1.197 I 59
+Alexander Rodriguez Dec-31-1999 3.8 I 2
+Alan Walker Jan-7-2000 0.5 I 118
+Monica Phillips Jan-11-2000 1.731 I 19
+Dylan Taylor Jan-11-2000 1.79 D
+Lisa Avila Jan-19-2000 1.25 D
+Janice Arias Jan-29-2000 1.19 I 16
+Steven Peters Feb-6-2000 0.5 I 51
+Marc Farmer Feb-7-2000 2.014 D
+Nicole Ford Feb-11-2000 3.941 I 19
+Frank Nichols Feb-11-2000 4.02 D
+Jason Cook Feb-24-2000 0.1 D
+Katherine Brown Mar-2-2000 0.251 D
+Timothy Williams Mar-3-2000 2.897 D
+Kelly Moreno Mar-4-2000 2.249 I 118
+Alexandra Haynes Mar-6-2000 2.58 I 19
+Julie Andrews Mar-7-2000 0.34 D
+Amy Moore Mar-7-2000 2.163 I 92
+Victoria Davis Mar-8-2000 0.9 D
+Sarah Sanchez Mar-21-2000 1.3 I 2
+Priscilla Calderon Mar-26-2000 0.126 D
+Hannah Gallagher Mar-29-2000 2.897 D
+Jordan Bowen Apr-3-2000 1.41 D
+Melissa Williams Apr-17-2000 2.39 I 94
+Steve Zuniga Apr-28-2000 1.532 D
+Jack Carter Apr-30-2000 1.896 I 0
+Benjamin Burke May-8-2000 3.134 D
+Ashley Freeman May-8-2000 2.7 D
+Jessica White May-22-2000 2.8 D
+Richard Matthews Jun-3-2000 4.22 I 116
+Sandra Dorsey Jun-15-2000 3.433 I 111
+Jill Wilson Jun-15-2000 1.05 I 51
+April Black Jun-19-2000 1.15 I 94
+David Rosales Jun-21-2000 3.7 D
+Michael Crawford Jun-24-2000 2.23 D
+Kelly Griffith Jun-27-2000 2.82 D
+Kelli Buchanan Jun-28-2000 2.7 D
+Jeremy Arnold Jun-30-2000 1.7 I 29
+David Maldonado Jul-3-2000 2.25 I 55
+Anthony Tapia Jul-7-2000 2.776 D
+Christina Johnson Jul-8-2000 3.21 I 110
+Victoria Clark Jul-17-2000 3.6 I 101
+Angela Vincent Jul-18-2000 0.861 I 54
+Lisa Swanson Jul-24-2000 4.232 D
+Nathan Williams Aug-2-2000 1.77 D
+Amy Richardson Aug-4-2000 1.191 I 85
+Carly Montgomery Aug-5-2000 1.8 I 84
+Taylor Velasquez Aug-6-2000 1.34 I 44
+Ronald Buchanan Aug-16-2000 4.3 I 45
+Anthony Stewart Aug-25-2000 2.9 I 111
+Paula Walters Aug-25-2000 2.2 I 53
+Katelyn Newman Sep-8-2000 2.665 I 111
+Heather Ray Sep-8-2000 3.19 I 85
+Melissa Hernandez Sep-10-2000 0.3 I 88
+Joseph Lynn Sep-10-2000 1.409 I 106
+Cameron Harvey Sep-16-2000 4.183 I 55
+Nicole Guerrero Sep-17-2000 4.2 D
+Allen Baldwin Sep-18-2000 3.0 I 71
+David Hernandez Sep-21-2000 3.4 I 120
+Justin Russell Sep-28-2000 3.1 I 0
+Anna Johnson Sep-30-2000 1.94 I 54
+Matthew Ramirez Oct-1-2000 2.1 D
+Joshua Butler Oct-4-2000 2.17 I 82
+Jason Garcia Oct-4-2000 0.37 D
+John Delgado Oct-12-2000 0.1 D
+James Fernandez Oct-14-2000 1.45 D
+Sabrina Gonzalez Oct-21-2000 1.93 D
+Kelly Welch Oct-23-2000 4.3 I 72
+Katherine Campbell Oct-25-2000 1.0 D
+Holly Smith Nov-2-2000 0.22 I 28
+Jon Strickland Nov-2-2000 1.972 D
+Steven Nelson Nov-8-2000 4.147 I 45
+Dakota Skinner Nov-8-2000 1.15 D
+Tracy Whitehead Nov-8-2000 3.32 D
+Chelsea Roth Nov-9-2000 3.3 I 58
+Matthew Brown Nov-13-2000 0.3 I 29
+Julie Clark Nov-17-2000 2.862 I 69
+Cassandra Miller Nov-30-2000 1.59 D
+Sarah Anderson Dec-5-2000 1.025 I 48
+Vanessa Davis Dec-11-2000 0.08 D
+Jessica Taylor Dec-19-2000 3.29 I 94
+Gabrielle Vance Dec-21-2000 3.569 D
+Sarah Welch Dec-28-2000 1.22 D
+Krista Green Jan-4-2001 0.585 D
+David Davis Jan-5-2001 0.972 D
+Robert Gomez Jan-6-2001 0.5 D
+Diane Wright Jan-7-2001 3.365 I 105
+David Lewis Jan-8-2001 3.95 D
+Austin Proctor Jan-8-2001 0.7 I 98
+Ethan Glover Jan-16-2001 2.925 D
+Zachary Morales Jan-20-2001 3.22 I 8
+Linda Williams Jan-20-2001 3.925 I 117
+Philip Jordan Jan-23-2001 0.28 I 113
+Jacob Hahn Jan-24-2001 0.0 D
+Paul Bennett Feb-10-2001 2.9 D
+Madison Horne Feb-12-2001 3.586 I 10
+Caleb Martinez Feb-18-2001 1.8 D
+Mario Rice Feb-19-2001 3.2 D
+Brett Smith Feb-23-2001 1.7 I 98
+James Price Mar-2-2001 3.16 I 44
+Frank Jones Mar-4-2001 4.068 D
+John Morris Mar-7-2001 2.16 I 17
+Karen Butler Mar-8-2001 0.032 D
+Shawn Quinn Mar-13-2001 1.92 D
+Erik Rojas Mar-13-2001 4.27 I 105
+Scott Love Mar-16-2001 2.81 I 43
+Benjamin Davis Apr-1-2001 2.07 D
+James Palmer Apr-4-2001 2.27 I 21
+Jasmine Williams Apr-4-2001 2.85 D
+Connie Stone Apr-7-2001 1.8 I 69
+Katherine Johnson Apr-15-2001 3.229 I 7
+Leslie Williams Apr-18-2001 1.85 I 113
+Peter Walker Apr-23-2001 3.82 I 46
+Kayla Newton Apr-24-2001 4.228 I 79
+Ricky Green Apr-28-2001 2.07 I 7
+Andrea Ward Apr-28-2001 2.264 D
+Sheryl Heath May-1-2001 0.129 I 96
+Zachary Russell May-5-2001 4.192 I 99
+Miranda Lopez May-12-2001 3.07 I 15
+Mary Davis May-15-2001 1.57 I 82
+Elizabeth Jenkins May-15-2001 1.272 D
+Jamie Salinas May-24-2001 0.726 D
+Jennifer Medina May-25-2001 0.37 D
+Austin Johnston May-26-2001 3.887 I 106
+Jessica Hughes May-27-2001 2.97 D
+Thomas Bradley Jun-1-2001 1.9 I 71
+Brenda Flores Jun-4-2001 4.2 I 37
+Donna Shaw Jun-9-2001 4.048 D
+Michael Ware Jun-11-2001 3.5 D
+William Gomez Jun-12-2001 0.73 D
+Joseph Perez Jun-13-2001 0.908 I 96
+Jessica Hernandez Jun-30-2001 2.773 I 69
+Erica Acosta Jul-1-2001 3.5 I 20
+Joshua Olsen Jul-11-2001 0.9 D
+Brittney Smith Jul-18-2001 1.7 D
+Sara Frey Jul-27-2001 4.2 I 80
+Keith Campbell Aug-4-2001 4.1 D
+Jacqueline Gonzalez Aug-20-2001 1.82 D
+David Webb Aug-20-2001 3.758 D
+Brian Fernandez Aug-21-2001 0.72 D
+Gregory Vega Aug-22-2001 0.5 I 14
+Jeffrey Shea Aug-29-2001 0.2 I 36
+Courtney Barrett Sep-4-2001 0.81 I 117
+Robert Shepard Sep-5-2001 0.569 I 7
+Kimberly Little Sep-7-2001 2.0 D
+Patrick Hinton Sep-11-2001 2.58 D
+Justin Robinson Sep-22-2001 3.176 D
+Kathryn Stokes Sep-27-2001 0.31 D
+Amanda Castillo Sep-30-2001 2.2 D
+Shannon Joseph Oct-2-2001 1.858 I 80
+Sandra Lewis Oct-8-2001 2.219 D
+Jennifer Jones Oct-13-2001 2.335 I 32
+Donald Scott Oct-20-2001 0.14 I 111
+Richard Bond Oct-21-2001 3.5 D
+Julie Ellis Nov-2-2001 3.16 I 50
+Mary Lopez Nov-12-2001 3.408 I 29
+Melissa Gonzalez Nov-15-2001 3.0 D
+Karen Barry Nov-19-2001 1.402 I 85
+Kim Pineda Nov-22-2001 3.11 D
+Rebecca Delgado Nov-26-2001 0.55 I 91
+Melanie Gomez Dec-5-2001 0.86 D
+Michael Moore Dec-7-2001 3.5 I 102
+Teresa Hubbard Dec-12-2001 2.91 D
+Nancy Mooney Dec-21-2001 3.557 I 14
+Stephanie Suarez Dec-24-2001 0.812 D
+Eugene Bailey Dec-28-2001 3.77 I 69
+Kelly Davis Dec-31-2001 2.0 I 93
+Christopher Garcia Jan-4-2002 0.111 D
+Jesse Ellis Jan-9-2002 4.2 I 37
+Nichole Smith Jan-11-2002 2.01 D
+Dominic Carney Jan-15-2002 2.072 D
+Jesse Espinoza Jan-24-2002 3.1 I 106
+Rachel Hunter Jan-28-2002 3.8 D
+Lucas Long Jan-31-2002 3.62 I 40
+Lance Stevens Feb-16-2002 0.3 I 51
+Jamie Nelson Feb-25-2002 3.1 D
+Tyler Johnson Mar-2-2002 2.145 I 120
+Kristen Miller Mar-7-2002 1.86 I 71
+Ashley Stevens Mar-7-2002 0.33 I 18
+Brian Johnson Mar-9-2002 4.138 D
+Alicia Harris Mar-12-2002 1.394 I 100
+Ian Stephenson Mar-14-2002 2.5 D
+Thomas Bailey Mar-16-2002 1.61 D
+Kimberly Klein Mar-23-2002 0.11 D
+Jonathan Brown Mar-25-2002 1.1 I 84
+Chris Matthews Mar-26-2002 1.723 I 73
+Ruben Krueger Mar-28-2002 2.98 D
+Haley Schneider Apr-3-2002 0.81 I 22
+David Sanders Apr-5-2002 3.6 D
+Jeffrey Cooper Apr-11-2002 0.61 D
+Stephanie Perez Apr-12-2002 2.1 D
+Brenda Rodriguez Apr-13-2002 2.208 D
+Jennifer Knight Apr-15-2002 3.955 I 33
+Michael Carey Apr-20-2002 1.84 D
+Michelle Lang Apr-21-2002 3.952 D
+Kimberly Shepard Apr-23-2002 3.0 D
+Jessica Todd May-5-2002 0.007 I 35
+Michael Walker May-7-2002 3.9 I 35
+Dustin Moore May-8-2002 1.637 I 119
+Stanley Scott May-8-2002 0.34 D
+Jill Blevins May-10-2002 3.8 D
+Juan Harrington May-10-2002 1.8 D
+Levi Johnson May-10-2002 1.994 D
+Vincent Huerta May-16-2002 4.241 D
+Sandy Simon May-17-2002 0.379 D
+Marvin Horton Jun-13-2002 3.092 I 2
+Samantha Mathews Jun-20-2002 2.7 D
+Deborah Paul Jun-21-2002 0.407 I 47
+James Johnson Jun-24-2002 2.069 D
+Katherine Pratt Jun-24-2002 3.0 D
+Linda Burns Jun-27-2002 2.2 I 63
+Tammy Johnson Jun-27-2002 2.733 D
+Hannah Durham Jul-1-2002 0.99 D
+Michael Rice Jul-1-2002 4.1 I 34
+Brittney Gates Jul-18-2002 3.86 D
+Morgan Howe Jul-21-2002 1.94 D
+Curtis Steele Jul-23-2002 1.66 D
+Aaron Sanders Jul-28-2002 1.848 I 69
+Anthony Allen Aug-4-2002 3.037 I 11
+Edward Beck Aug-5-2002 0.41 D
+Heather Williams Aug-6-2002 0.263 D
+Ethan Hickman Aug-18-2002 0.41 I 63
+Kimberly Lyons Aug-25-2002 1.665 I 21
+Lori Washington Aug-25-2002 0.828 D
+Ronald Benson Aug-26-2002 1.68 I 88
+Christopher Rivera Aug-26-2002 1.49 I 61
+Rebecca Weaver Aug-29-2002 2.23 D
+Tyrone Pearson Sep-6-2002 0.9 I 67
+Lisa Marshall Sep-8-2002 3.72 D
+Jeffrey Wilson Sep-30-2002 4.192 I 0
+John Jones Oct-4-2002 0.7 D
+Nicholas Jacobs Oct-7-2002 0.36 D
+Laura Patterson Oct-9-2002 1.537 D
+Emily James Oct-10-2002 1.93 D
+Nicholas Hernandez Oct-11-2002 0.79 I 104
+Daisy Ibarra Oct-11-2002 0.6 I 95
+Brett Weiss Oct-23-2002 2.78 D
+Joshua Hall Oct-26-2002 1.4 D
+Christopher Taylor Oct-31-2002 1.373 I 64
+Eddie Rios Nov-1-2002 4.22 I 25
+Carrie Montgomery Nov-17-2002 3.3 D
+David Griffin Nov-25-2002 1.577 I 78
+Wesley Kim Nov-27-2002 3.68 I 73
+Kelly Rice Dec-13-2002 3.7 I 100
+Olivia Smith Dec-13-2002 3.29 D
+Anthony Wheeler Dec-15-2002 3.6 D
+Craig Rodriguez Dec-18-2002 1.7 D
+Jamie Chandler Dec-29-2002 1.008 D
+Monica Jones Dec-29-2002 1.1 D
+Casey Sanders Jan-6-2003 2.4 I 106
+Hannah Thomas Jan-7-2003 4.2 D
+Carrie Tucker Jan-10-2003 3.019 I 12
+Paula Moyer Jan-12-2003 3.6 I 68
+Thomas Norman Jan-17-2003 1.7 D
+Russell Lewis Jan-18-2003 0.2 I 38
+Heather Jackson Jan-19-2003 3.25 I 27
+Kenneth Vazquez Jan-20-2003 2.9 I 54
+Adam Brown Jan-25-2003 1.902 D
+Veronica Brown Jan-27-2003 3.977 I 0
+Lauren Diaz Jan-29-2003 3.4 I 112
+Kathryn Thomas Feb-12-2003 3.502 D
+Michael Phillips Feb-22-2003 2.1 I 48
+Regina Gutierrez Feb-24-2003 2.42 D
+Jennifer Gomez Mar-16-2003 2.4 D
+Joan Armstrong Mar-18-2003 3.778 D
+Michelle Jones Mar-21-2003 0.6 I 109
+Dawn Walsh Mar-25-2003 2.5 D
+David Trevino Mar-26-2003 3.877 I 110
+Robert Edwards Apr-2-2003 3.575 D
+Brian Davis Apr-3-2003 0.5 D
+Doris Simmons Apr-8-2003 1.78 D
+Chelsea May Apr-9-2003 3.289 I 114
+Erika Smith Apr-22-2003 1.38 D
+Brandon Arnold Apr-27-2003 2.27 I 75
+Wendy Edwards May-2-2003 2.35 I 77
+Gabrielle Carter May-6-2003 2.95 I 80
+Kurt Smith May-6-2003 2.2 D
+William Cochran May-7-2003 4.203 I 104
+Dalton Vasquez May-8-2003 2.53 D
+Jamie Mcdonald May-9-2003 0.896 D
+Jody Mendoza May-11-2003 3.3 I 35
+Heather Jimenez May-12-2003 4.17 I 83
+Emily Hunt May-24-2003 2.65 I 24
+Kristina House May-25-2003 0.4 I 102
+Aaron Woodward May-25-2003 1.0 I 1
+Franklin White May-26-2003 2.396 D
+Michael Rojas May-29-2003 3.201 I 53
+Eric Chambers May-31-2003 1.331 D
+Angela Baker Jun-7-2003 2.4 I 62
+Janet Fletcher Jun-12-2003 3.83 D
+Alejandra Gomez Jun-13-2003 3.07 I 119
+Amber Potter Jun-17-2003 2.509 D
+Cristina Fitzgerald Jun-18-2003 0.416 I 75
+Manuel Powers Jun-30-2003 1.45 D
+Jessica Wiley Jun-30-2003 3.71 I 20
+Darren Mccoy Jul-4-2003 1.55 I 115
+Preston Matthews Jul-8-2003 1.295 D
+Anthony Hill Jul-14-2003 0.2 I 37
+James Lutz Jul-18-2003 4.09 I 30
+Kyle Dyer Jul-25-2003 4.1 I 80
+Bailey Wright Jul-29-2003 2.29 D
+Matthew Webb Aug-3-2003 0.487 D
+Robert Boyer Aug-7-2003 1.025 D
+Nichole Roberts Aug-9-2003 1.315 D
+Scott Scott Aug-14-2003 2.7 I 89
+Daniel Snyder Aug-18-2003 2.9 D
+Robert Reid Aug-23-2003 2.057 D
+Morgan Newton Sep-19-2003 2.0 I 101
+Richard Robinson Sep-20-2003 0.914 D
+Matthew Shaffer Sep-28-2003 1.43 D
+Vanessa Bush Oct-2-2003 2.66 D
+Tracy Melendez Oct-3-2003 3.21 D
+Priscilla Santos Oct-7-2003 2.807 I 100
+Morgan Black Oct-11-2003 3.1 I 67
+Anthony Brennan Oct-11-2003 2.93 D
+Michael Riggs Oct-12-2003 3.84 D
+Austin Melton Oct-23-2003 4.02 I 51
+Danielle Flowers Oct-28-2003 4.1 I 14
+Suzanne Smith Nov-4-2003 3.572 I 45
+Meghan Osborn Nov-25-2003 0.28 I 84
+Jonathan White Nov-25-2003 3.3 D
+April Lam Nov-27-2003 1.936 I 109
+Gregory Fritz Dec-3-2003 3.51 D
+Jean Perez Dec-5-2003 2.5 I 96
+Mark Adams Dec-18-2003 2.524 I 68
+Brad Davis Dec-18-2003 3.315 I 101
+Gary Warner Dec-18-2003 3.45 I 37
+Charles Hendricks Jan-10-2004 0.225 I 120
+Carlos Joseph Jan-10-2004 3.1 D
+Anthony Adams Jan-16-2004 0.4 I 18
+Thomas Allen Jan-21-2004 3.086 D
+Patrick Caldwell Jan-24-2004 0.7 D
+Jamie Smith Jan-29-2004 0.6 D
+Heather Wood Feb-5-2004 3.7 D
+Kelly Hughes Feb-18-2004 2.64 I 67
+Heather Lewis Feb-20-2004 0.16 I 26
+Angela Lawrence Feb-24-2004 3.789 I 46
+Anna Mccullough Feb-26-2004 1.389 D
+Alicia Brown Feb-27-2004 4.2 D
+Ashley Sellers Mar-3-2004 3.7 D
+Andrea Thomas Mar-4-2004 1.6 I 112
+Jamie Williams Mar-7-2004 0.687 I 37
+Tammy Brown Mar-16-2004 3.651 I 59
+John Bradley Mar-18-2004 1.44 I 25
+Danny Lopez Mar-19-2004 0.416 I 112
+Andrew Mcpherson Mar-22-2004 1.78 I 12
+Debra Ross Mar-22-2004 0.1 I 4
+Jennifer Myers Mar-23-2004 1.078 D
+Jamie Carter Mar-25-2004 4.3 D
+Heather Turner Mar-26-2004 2.3 I 14
+Michelle Campbell Mar-30-2004 2.4 D
+Sharon Brown Mar-31-2004 2.604 D
+Gregory Smith Mar-31-2004 3.7 I 46
+Gene Simon Apr-7-2004 1.7 D
+Joshua Bell Apr-12-2004 2.11 D
+Kim Blair Apr-14-2004 1.016 D
+Valerie Higgins Apr-17-2004 4.3 I 49
+Jacob Juarez Apr-20-2004 3.303 D
+Stephen Carroll Apr-26-2004 3.34 D
+Bobby Reyes Apr-30-2004 4.271 I 55
+Kyle Sanchez May-2-2004 3.223 D
+Michelle Goodman May-16-2004 1.205 I 110
+Steven Walker May-20-2004 3.16 I 39
+Katie Alexander May-22-2004 1.277 D
+Gregory Bond May-23-2004 0.68 I 53
+Grant Vargas May-27-2004 0.48 I 12
+Frank Hicks Jun-4-2004 3.19 I 11
+Kimberly Perez Jun-4-2004 1.36 D
+Linda Riley Jun-10-2004 1.8 D
+Anne Koch Jun-13-2004 3.8 D
+Reginald Freeman Jun-19-2004 0.9 I 29
+Robert King Jun-22-2004 3.844 D
+Logan Young Jun-28-2004 1.4 I 116
+Carlos Young Jul-1-2004 3.078 D
+Matthew Webb Jul-2-2004 0.462 I 111
+Kyle Moore Jul-5-2004 3.72 I 65
+Gabriel Osborne Jul-6-2004 2.538 I 2
+Margaret Garrett Jul-10-2004 2.1 I 8
+Jason Meyer Jul-17-2004 0.86 I 2
+Adrian Wiggins Jul-19-2004 2.5 D
+Colleen Hensley Jul-29-2004 0.1 I 43
+Bethany Hess Jul-31-2004 2.29 I 37
+Paul Hurst Aug-1-2004 0.79 I 58
+Karen Patel Aug-5-2004 3.8 D
+Bobby Green Aug-7-2004 1.02 I 109
+Leslie Golden Aug-9-2004 2.6 I 99
+Sally Grimes Aug-15-2004 1.0 I 34
+Michele Reed Aug-22-2004 4.2 D
+Hector Garcia Sep-3-2004 3.79 D
+Linda Wallace Sep-5-2004 3.958 I 26
+Michelle Jones Sep-23-2004 1.48 D
+Kyle Gibbs Oct-4-2004 4.202 D
+Pamela Perez Oct-5-2004 0.29 D
+Kevin Green Oct-7-2004 2.88 I 103
+Eric Henderson Oct-14-2004 2.356 D
+Brooke Johnson Oct-20-2004 3.05 I 26
+Melinda Singh Oct-26-2004 0.809 I 80
+Amy Gomez Oct-27-2004 3.808 I 56
+Robin Barnett Nov-4-2004 0.6 I 96
+David Hill Nov-5-2004 2.76 I 69
+Alan Johnson Nov-14-2004 1.383 D
+Taylor Martin Nov-14-2004 2.1 D
+George Ramirez Nov-15-2004 1.2 I 96
+Melanie Sullivan Nov-17-2004 1.2 D
+Pamela Baker Nov-20-2004 0.188 D
+Rachael Davis Nov-23-2004 2.24 I 64
+Seth Stewart Nov-23-2004 1.55 D
+Matthew Solomon Dec-1-2004 1.15 I 16
+Lori Nunez Dec-3-2004 2.2 I 16
+Pamela Mckinney Dec-9-2004 2.5 I 4
+Natasha Rodriguez Dec-15-2004 2.0 D
+Joanna Mitchell Dec-19-2004 0.101 I 55
+Benjamin Williams Dec-19-2004 3.7 I 12
+Sherri Simpson Dec-25-2004 1.6 D
+Carl Gill Jan-7-2005 0.304 D
+Nicholas Clayton Jan-10-2005 0.3 I 34
+Micheal Miller Jan-10-2005 3.1 D
+Bradley Hudson Jan-11-2005 2.44 D
+Amanda Hayes Jan-19-2005 0.46 I 0
+Ronald Flores Jan-22-2005 1.29 D
+Heather Clark Jan-26-2005 0.04 D
+Garrett Johns Jan-27-2005 1.9 D
+Elizabeth Rivera Jan-29-2005 2.1 I 113
+Tracy Gordon Feb-1-2005 0.424 I 51
+Haley Bradshaw Feb-3-2005 0.47 D
+Debra Vargas Feb-10-2005 2.21 I 29
+Jason Cantu Feb-14-2005 2.897 I 52
+Tammy Hurst Feb-19-2005 3.04 I 80
+Tammy Brown Feb-20-2005 0.4 D
+Randy Nguyen Feb-23-2005 0.387 I 42
+Michael Coleman Feb-25-2005 3.8 I 33
+Christopher Brown Feb-26-2005 1.2 D
+Margaret Cooper Mar-1-2005 1.47 I 3
+Christine Hebert Mar-1-2005 1.2 D
+Shannon Vasquez Mar-16-2005 0.43 D
+Joseph Benitez Mar-21-2005 1.7 D
+Kyle Johnson Mar-29-2005 3.131 I 1
+Ashley Prince Apr-12-2005 2.98 I 78
+James Lara Apr-13-2005 2.888 D
+Kevin Duncan Apr-18-2005 0.05 D
+Janet Ford Apr-18-2005 2.445 D
+Joshua Medina May-10-2005 2.61 D
+Joshua Benitez May-12-2005 2.3 D
+Adam Rogers May-12-2005 4.26 I 42
+Christine Kennedy May-16-2005 1.15 D
+Andrew Castro May-19-2005 2.42 I 83
+Tyrone Schneider May-22-2005 1.49 D
+Julian Jordan Jun-9-2005 2.922 I 13
+Jeremy Mitchell Jun-19-2005 3.3 I 110
+Shelly Hunt Jun-28-2005 3.291 I 66
+Heather Hamilton Jul-1-2005 0.398 I 4
+Chelsea Hawkins Jul-9-2005 4.1 D
+Kimberly Middleton Jul-15-2005 2.857 I 29
+Jenny Mclaughlin Jul-29-2005 1.2 D
+Carl Horn Aug-4-2005 3.9 D
+Lance Chambers Aug-7-2005 0.2 D
+Alyssa Grant Aug-14-2005 2.279 D
+Julie Suarez Aug-18-2005 1.233 I 68
+Tyler Willis Aug-31-2005 1.05 D
+Matthew Salas Sep-2-2005 0.5 I 101
+Jessica Thomas Sep-6-2005 4.0 D
+Martin Young Sep-10-2005 1.02 D
+Lisa Rogers Sep-12-2005 2.453 I 46
+Craig Hardy Sep-16-2005 2.3 I 67
+Linda Taylor Sep-16-2005 2.71 D
+Caitlin Price Sep-23-2005 0.559 D
+Isaiah Leach Sep-24-2005 3.95 D
+Jake Tran Sep-25-2005 2.11 I 117
+Gregory Hopkins Sep-27-2005 2.774 D
+Megan Love Sep-28-2005 3.2 D
+Thomas Johnson Sep-30-2005 3.978 I 84
+Joann Lee Oct-1-2005 2.65 I 52
+Chad Smith Oct-1-2005 3.35 D
+John Hill Oct-2-2005 0.038 I 112
+Ronald Holmes Oct-9-2005 1.099 D
+William Becker Oct-16-2005 1.06 I 102
+Diane Campbell Oct-16-2005 0.4 D
+Justin Mccoy Oct-17-2005 1.486 D
+Christopher Allen Oct-29-2005 1.364 I 21
+Robert Young Nov-8-2005 3.2 I 104
+Derek Mullins Nov-10-2005 2.04 D
+Jessica Graves Nov-13-2005 1.7 I 104
+Timothy Harris Nov-21-2005 0.7 D
+Eugene Adams Nov-22-2005 2.9 I 69
+Kurt Smith Dec-2-2005 3.36 D
+Julia Pace Dec-4-2005 3.03 I 99
+David Howard Dec-9-2005 0.6 I 46
+Megan Lambert Dec-10-2005 4.283 D
+Kimberly Faulkner Dec-19-2005 1.697 I 104
+Kathleen Keith Dec-29-2005 2.64 I 53
+Paul Wong Jan-2-2006 2.284 I 101
+Eric Wilson Jan-3-2006 1.018 I 81
+Michael Russell Jan-11-2006 0.7 I 73
+David Johnson Jan-13-2006 3.34 I 111
+Tina Acosta Jan-17-2006 3.8 D
+Toni Chen Jan-20-2006 2.593 D
+Brian Erickson Jan-25-2006 4.0 I 110
+Jennifer Barnett Jan-26-2006 0.757 I 115
+Victoria Allen Jan-27-2006 3.88 I 4
+Dawn Stephens Jan-31-2006 2.458 I 71
+Phillip Reese Feb-2-2006 3.146 D
+Jennifer Franklin Feb-4-2006 2.829 I 61
+Heather Murphy Feb-4-2006 3.1 D
+Vanessa Mcfarland Feb-9-2006 2.21 I 49
+Catherine Baker Feb-12-2006 1.5 D
+Brandon Haynes Feb-14-2006 2.4 D
+Yolanda Thompson Feb-28-2006 2.874 D
+Sue Davis Mar-1-2006 3.283 D
+Breanna Dean Mar-6-2006 2.456 I 20
+Lindsay Mendoza Mar-7-2006 0.1 D
+Sarah Mitchell Mar-7-2006 3.837 D
+James Williamson Mar-7-2006 2.1 D
+Julie Cunningham Mar-12-2006 3.161 D
+Stacy Jordan Mar-17-2006 1.67 I 48
+Ashley Walsh Mar-17-2006 3.24 D
+Brian Bird Mar-19-2006 0.847 D
+Steve Jackson Mar-23-2006 1.89 D
+Kimberly Becker Mar-25-2006 3.995 I 54
+Robert White Apr-3-2006 3.55 I 9
+Timothy Carter Apr-4-2006 4.27 D
+Natalie Cook Apr-6-2006 2.871 D
+Sandra Morris Apr-18-2006 0.8 D
+Jasmine Miller May-6-2006 0.66 D
+Mario Daniels May-10-2006 1.001 D
+Paul Gallagher May-10-2006 3.55 I 37
+Sean Terrell May-21-2006 2.86 D
+James Campbell May-24-2006 1.12 D
+Matthew Mcdaniel May-24-2006 2.83 D
+Claudia Jones May-29-2006 2.756 I 14
+Joseph Torres Jun-6-2006 4.13 D
+Theodore Edwards Jun-13-2006 0.52 I 10
+Monica Miller Jun-13-2006 1.0 D
+Joshua Moore Jun-14-2006 0.5 I 58
+Tracey Jones Jun-21-2006 1.607 D
+Natasha Steele Jun-27-2006 1.89 I 95
+Bobby Shaw Jun-30-2006 3.23 I 27
+Denise Guerrero Jul-1-2006 1.53 D
+Allison Mcdonald Jul-2-2006 4.163 D
+Theresa Taylor Jul-6-2006 4.064 D
+Ryan Villa Jul-13-2006 3.752 I 1
+Jose English Jul-29-2006 2.04 I 4
+Roberta Wilcox Aug-4-2006 3.8 D
+Zachary Brown Aug-14-2006 0.935 I 77
+Nicole Garcia Aug-17-2006 2.33 D
+Laura Washington Aug-17-2006 2.14 D
+Emma Wilson Aug-19-2006 3.792 I 15
+Mary Martin Aug-21-2006 4.089 I 59
+Frank Reyes Aug-21-2006 4.0 I 15
+James Gray Aug-22-2006 3.77 D
+Roberto Morales Sep-3-2006 0.92 I 14
+Joshua Barrett Sep-7-2006 3.122 D
+Erin Young Sep-18-2006 0.21 D
+Julian Estrada Sep-21-2006 2.98 D
+Elizabeth Mitchell Sep-25-2006 3.682 I 115
+Katie Goodman Sep-27-2006 1.685 I 117
+Eric Reynolds Sep-30-2006 0.6 D
+Nicole Lewis Oct-1-2006 2.922 D
+James Hall Oct-2-2006 1.1 I 66
+Jennifer Maddox Oct-7-2006 1.12 D
+Joanna Barajas Oct-8-2006 0.895 D
+Heather Webster Oct-9-2006 2.79 D
+Jonathan Carter Oct-11-2006 4.0 I 109
+Dennis Douglas Oct-15-2006 0.666 D
+Tony Johnson Oct-20-2006 2.868 D
+Wayne Kemp Oct-21-2006 1.0 D
+Scott Clark Oct-28-2006 0.849 I 17
+Ray Logan Nov-2-2006 4.05 D
+Mario Black Nov-6-2006 1.4 D
+Nicole Wilson Nov-6-2006 1.8 D
+Kevin Farley Nov-8-2006 2.73 D
+James Jenkins Nov-13-2006 3.26 D
+Jeremy Davis Nov-23-2006 3.354 I 40
+Caitlin Davis Dec-2-2006 1.957 I 80
+Jasmine Zamora Dec-8-2006 2.2 D
+Jonathan Galloway Dec-15-2006 1.136 I 13
+Shannon Roberson Dec-18-2006 0.4 D
+Tony Thomas Dec-19-2006 3.9 D
+Tommy Matthews Dec-26-2006 3.446 I 37
+Cassandra Jones Jan-4-2007 2.638 D
+James Rodriguez Jan-10-2007 0.7 I 35
+Peter Steele Jan-12-2007 3.457 I 7
+Jamie Long Jan-19-2007 4.09 I 18
+Kristy Vaughn Jan-19-2007 3.649 D
+Christopher Maxwell Jan-23-2007 1.67 D
+Jennifer Sheppard Jan-27-2007 2.08 I 17
+Kenneth Calhoun Jan-28-2007 3.88 D
+Donna Huber Feb-5-2007 0.87 I 85
+Elizabeth Young Feb-6-2007 2.53 D
+Tracie Jones Feb-13-2007 2.84 D
+Thomas Riley Feb-15-2007 1.5 I 118
+Carlos Stevens Feb-27-2007 4.15 D
+Ryan Barnett Feb-28-2007 4.1 D
+Katie Bradley Mar-8-2007 3.0 I 92
+Andrea Jordan Mar-10-2007 1.4 D
+Anthony Thomas Mar-12-2007 1.42 D
+Tristan Wright Mar-14-2007 3.896 D
+Dawn Chapman Mar-16-2007 1.66 I 120
+Tony Forbes Mar-17-2007 4.02 I 29
+Richard Kane Mar-20-2007 2.8 D
+Mark Stevenson Mar-20-2007 1.6 D
+Amanda Bridges Apr-6-2007 2.6 I 96
+Mary Gilmore Apr-7-2007 4.1 D
+Joseph Castro Apr-8-2007 3.828 D
+Michelle Cooper Apr-9-2007 2.4 D
+Christina Murphy Apr-10-2007 4.0 I 39
+Suzanne Williams Apr-10-2007 3.1 D
+Marilyn Perez Apr-22-2007 0.1 D
+Jonathan Armstrong May-2-2007 0.1 I 100
+Sarah Wilcox May-2-2007 2.16 D
+Laurie Gonzalez May-4-2007 4.0 D
+David Morris May-15-2007 2.624 I 75
+Brian Franco May-17-2007 2.643 D
+Nicole Aguirre May-25-2007 1.13 I 37
+Annette Gonzalez Jun-5-2007 2.217 I 71
+Frederick Riley Jun-8-2007 3.0 D
+Donna Tran Jun-15-2007 3.49 D
+Michael Graham Jun-19-2007 0.035 I 107
+Tammy Thompson Jun-23-2007 1.856 I 100
+Brian Moss Jun-25-2007 1.6 D
+David Williams Jun-25-2007 3.647 I 2
+Daniel Watts Jun-28-2007 2.1 I 96
+Katherine Lynch Jun-29-2007 3.473 D
+Randall Higgins Jul-3-2007 1.847 D
+Ashley Johnson Jul-6-2007 3.5 D
+Linda Stewart Jul-10-2007 0.719 D
+Melissa Brown Jul-11-2007 0.1 D
+Michael Kelly Jul-11-2007 0.912 I 78
+Kenneth Reynolds Jul-13-2007 4.2 D
+Melissa Evans Jul-15-2007 1.54 I 68
+Deborah Olson Jul-15-2007 2.91 I 11
+Eric Rogers Jul-22-2007 2.4 D
+Michael Rodriguez Jul-24-2007 2.9 D
+Allison Davis Jul-26-2007 1.2 I 107
+Barbara Knox Aug-6-2007 0.323 I 43
+Carlos Mooney Aug-9-2007 1.41 I 12
+Daniel Baker Aug-10-2007 2.654 I 34
+Faith Rogers Aug-13-2007 2.3 D
+Matthew Grant Aug-20-2007 1.92 D
+Rebecca Rivera Aug-20-2007 2.649 I 101
+Thomas Green Aug-21-2007 3.3 I 82
+Manuel Hill Aug-21-2007 0.129 I 94
+Eric Turner Aug-24-2007 1.3 I 66
+Nicole Walker Aug-26-2007 4.26 I 46
+Amber Mcknight Aug-29-2007 1.1 I 86
+Tiffany Martinez Sep-2-2007 0.27 D
+Julie Bailey Sep-4-2007 3.75 I 67
+Amanda Neal Sep-4-2007 2.3 D
+Karen Brooks Sep-6-2007 1.9 D
+Paul Poole Sep-8-2007 1.0 I 60
+Charles Blevins Sep-13-2007 3.8 I 18
+Dalton Sharp Sep-13-2007 3.588 I 84
+Kimberly Wilkins Sep-23-2007 0.23 D
+Jessica Cook Sep-24-2007 1.81 D
+David James Sep-30-2007 2.49 I 4
+Michael Williams Oct-9-2007 3.2 D
+Stephanie Smith Oct-16-2007 4.12 I 82
+Gloria Wallace Oct-18-2007 2.1 I 48
+Samantha Norton Oct-23-2007 3.727 I 65
+Adrian Reyes Oct-23-2007 2.9 I 109
+Samantha Marsh Nov-6-2007 0.721 I 64
+Kristin Nguyen Nov-7-2007 2.683 D
+Craig Garza Nov-8-2007 0.05 I 52
+Julie Turner Nov-9-2007 2.27 I 29
+Gene Clark Nov-12-2007 1.42 I 79
+Jeremiah Wilkinson Nov-14-2007 1.66 I 102
+Anthony Flores Nov-15-2007 4.1 I 27
+Elizabeth Jones Nov-20-2007 3.076 D
+David Holmes Nov-22-2007 2.7 D
+Patrick Davis Nov-28-2007 4.265 D
+Ashley Scott Dec-20-2007 0.107 D
+Mark Jones Dec-22-2007 0.812 D
+Megan Oneill Dec-22-2007 1.28 I 16
+Mary Hernandez Jan-7-2008 3.13 I 13
+Angela Stevens Jan-8-2008 4.27 I 119
+Seth Johnson Jan-12-2008 1.18 I 34
+Elizabeth Kent Jan-12-2008 2.6 I 32
+Karen Goodwin Jan-13-2008 0.8 I 84
+Nathaniel Lopez Jan-14-2008 1.413 I 32
+Evan Turner Jan-17-2008 4.2 I 45
+Julia Schwartz Jan-30-2008 2.22 I 42
+Katherine Yates Jan-30-2008 0.87 D
+Marcus Bennett Feb-7-2008 3.581 D
+Ryan Ford Feb-7-2008 1.92 D
+Eric Harris Feb-15-2008 3.617 I 108
+Johnny Lee Feb-16-2008 3.5 D
+Karen Page Feb-23-2008 2.1 D
+Kirsten Morse Feb-27-2008 2.58 I 6
+Bradley Hoffman Mar-1-2008 1.4 I 115
+Crystal Brady Mar-4-2008 3.832 D
+Sophia Herrera Mar-6-2008 2.2 I 21
+Jennifer Harris Mar-17-2008 0.424 I 79
+Carolyn Garcia Mar-22-2008 4.145 I 21
+Michael Johnson Mar-23-2008 2.633 D
+Rebecca Bailey Mar-31-2008 3.9 D
+William Taylor Mar-31-2008 1.38 I 69
+Margaret Mcbride Apr-4-2008 3.772 I 85
+Robert Sweeney Apr-6-2008 2.49 I 5
+Madison Bass Apr-12-2008 1.0 I 24
+Timothy Vance Apr-13-2008 2.07 D
+Chad Baker Apr-14-2008 2.95 D
+Christopher Gaines Apr-20-2008 3.77 I 16
+Ashley Garcia Apr-28-2008 3.064 D
+Lauren Tucker Apr-29-2008 1.135 I 77
+Crystal Johnson Apr-30-2008 3.7 I 99
+Kevin Johnson May-1-2008 1.5 I 111
+Katherine Wallace May-3-2008 0.72 I 81
+Matthew Mcdonald May-6-2008 1.27 D
+Elizabeth Spencer May-19-2008 2.5 I 54
+Danny Howell May-21-2008 3.046 D
+Jennifer Arellano May-25-2008 4.1 D
+Samantha Cortez May-26-2008 4.04 D
+Brandy Brown May-31-2008 3.74 D
+Samuel Case Jun-9-2008 3.5 D
+Deborah Ramirez Jun-20-2008 1.718 D
+Michelle Leonard Jun-26-2008 1.12 I 35
+Christopher Orozco Jun-29-2008 1.36 I 70
+Cody Bailey Jul-1-2008 2.34 I 104
+Kurt Fisher Jul-3-2008 1.5 I 80
+Erica Bailey Jul-4-2008 3.57 D
+William Brown Jul-5-2008 0.79 D
+Jessica Mendoza Jul-8-2008 2.036 D
+Scott Barnett Jul-9-2008 1.373 D
+Christopher Underwood Jul-9-2008 2.38 I 3
+Angela Matthews Jul-13-2008 0.681 I 90
+Diane Aguilar Jul-19-2008 1.8 D
+Scott Jenkins Jul-26-2008 0.15 I 1
+Joseph Brown Aug-8-2008 0.58 D
+Wyatt Potts Aug-10-2008 2.58 D
+Terrance Holland Aug-14-2008 3.311 D
+Jeffrey Mcfarland Aug-14-2008 4.198 D
+Dominique Norton Aug-18-2008 1.7 I 114
+Alicia Kemp Aug-23-2008 1.7 D
+Janet Rogers Aug-23-2008 2.75 D
+Joshua Benson Aug-28-2008 1.78 D
+Tiffany Perez Sep-5-2008 0.124 I 106
+Hannah Petersen Sep-5-2008 2.52 I 103
+Nicholas Smith Sep-5-2008 4.0 I 1
+Christine Miller Sep-11-2008 3.466 I 13
+Patricia Crawford Sep-16-2008 0.623 I 19
+Aaron Torres Sep-16-2008 1.83 D
+Kristin Fry Sep-20-2008 1.441 I 101
+Dawn Robinson Sep-22-2008 0.718 D
+Richard Owens Sep-25-2008 0.98 I 79
+Eric Campbell Sep-29-2008 0.6 I 31
+Jesse Mcclain Oct-6-2008 0.78 I 58
+Christopher Wells Oct-6-2008 2.9 D
+Kathleen Buckley Oct-8-2008 2.88 I 56
+Brendan Barrera Oct-12-2008 1.873 I 48
+Alexandra Norris Oct-14-2008 1.45 D
+Colleen Alexander Oct-20-2008 2.1 D
+Kathryn Smith Oct-22-2008 2.6 D
+Austin Walls Oct-28-2008 0.888 D
+Michael Bailey Oct-29-2008 1.0 I 114
+Brian Rivera Oct-30-2008 2.0 I 59
+Renee Peterson Nov-1-2008 2.345 I 83
+Robert Davis Nov-9-2008 1.32 D
+James Hayes Nov-9-2008 3.6 I 50
+Victoria Crawford Nov-10-2008 2.8 I 115
+Christine Andrews Nov-20-2008 3.9 D
+Micheal Cunningham Nov-27-2008 2.8 D
+Brianna Martinez Nov-29-2008 3.1 D
+James Grimes Dec-1-2008 2.04 I 118
+Melissa Pruitt Dec-7-2008 1.1 D
+Bryan Rodriguez Dec-10-2008 1.87 D
+Patty Lutz Dec-12-2008 0.51 D
+Norma Cunningham Dec-13-2008 2.0 D
+Shane Robertson Dec-14-2008 1.592 D
+Darryl Williams Dec-16-2008 0.9 I 104
+Michael Todd Dec-18-2008 4.1 I 72
+Steven Bradley Dec-19-2008 1.52 D
+Daniel Frank Dec-20-2008 2.5 I 82
+Richard Williams Dec-24-2008 1.5 D
+Joseph Evans Jan-6-2009 1.7 D
+Sharon Carter Jan-7-2009 1.81 I 83
+Marie Fernandez Jan-10-2009 1.4 D
+Mark Zavala Jan-13-2009 0.029 I 18
+Nicholas Hodges Jan-17-2009 0.1 D
+Elizabeth Dunn Jan-20-2009 1.3 D
+Brenda Franco Jan-20-2009 4.06 I 89
+Michael Gomez Jan-21-2009 3.9 D
+Faith Reed Jan-24-2009 3.25 D
+Matthew Turner Jan-25-2009 0.713 D
+Jonathan Carr Jan-30-2009 3.52 D
+Mark Christensen Feb-4-2009 1.7 I 106
+Megan Walton Feb-4-2009 4.01 D
+Shawn Higgins Feb-7-2009 4.05 D
+Larry Mcdonald Feb-9-2009 0.43 D
+Kathleen Mora Feb-19-2009 0.03 D
+Henry House Feb-21-2009 0.693 D
+Danielle Roberts Feb-26-2009 3.91 D
+Jonathan Kelly Feb-27-2009 3.83 D
+Rachel Coleman Feb-28-2009 1.7 D
+Sharon Kelly Mar-6-2009 1.05 I 52
+Melissa Anderson Mar-8-2009 0.17 I 21
+Trevor Fernandez Mar-8-2009 3.6 D
+Stephanie Watson Mar-8-2009 0.17 D
+Sandra Moore Mar-12-2009 0.236 I 77
+Timothy Jones Mar-23-2009 0.1 I 76
+George Wilson Mar-25-2009 2.4 D
+Barbara Reeves Apr-7-2009 1.81 D
+Heather Mays Apr-9-2009 1.88 D
+Corey Welch Apr-15-2009 3.141 I 92
+Randy Walsh Apr-16-2009 3.6 I 101
+Robert Douglas Apr-22-2009 3.645 I 67
+Tracy Marshall Apr-30-2009 2.0 D
+Melanie Rodriguez Apr-30-2009 1.92 D
+Donald Oconnor May-4-2009 4.21 I 28
+Alexander Lewis May-12-2009 2.42 I 82
+David Brown May-13-2009 2.3 I 22
+Deborah Barnett May-17-2009 3.61 D
+Jonathan Cochran May-17-2009 2.997 D
+Christy Dickerson May-22-2009 1.65 I 59
+Briana Macias May-23-2009 0.304 I 80
+David Whitaker Jun-2-2009 3.3 D
+Allison Smith Jun-13-2009 2.188 I 48
+Anthony Fox Jun-16-2009 1.759 I 64
+James Garrett Jun-21-2009 1.0 I 119
+Nicholas Le Jun-23-2009 2.192 I 8
+Sheena Dyer Jun-26-2009 4.26 D
+Christopher Jones Jun-26-2009 1.4 I 59
+Sabrina Johnson Jul-4-2009 2.6 I 101
+Thomas Pena Jul-21-2009 2.77 D
+Benjamin Hart Jul-27-2009 1.5 D
+Daniel Lucero Jul-30-2009 4.176 I 117
+James Kelly Aug-1-2009 3.427 D
+Isaac Gonzalez Aug-2-2009 2.7 I 107
+Karen Gonzales Aug-7-2009 2.58 D
+Rachel Rodriguez Aug-8-2009 2.5 I 97
+Karen Lopez Aug-11-2009 1.8 I 86
+Kevin King Aug-13-2009 1.96 D
+Mark Arnold Aug-14-2009 3.42 D
+Rachel Frye Aug-19-2009 2.2 D
+Devin Perkins Aug-22-2009 1.593 I 5
+Juan Pitts Aug-31-2009 0.683 D
+Ashley Jimenez Sep-1-2009 4.143 D
+Melissa Gill Sep-3-2009 0.113 D
+Rachel Perkins Sep-4-2009 2.732 D
+Mary Allen Sep-7-2009 3.27 D
+Robert Woods Sep-10-2009 0.8 I 9
+Danielle Richardson Oct-8-2009 1.0 I 2
+Miguel Nicholson Oct-13-2009 0.9 D
+Lisa Smith Oct-24-2009 3.8 I 33
+Angel Farmer Oct-31-2009 2.6 D
+Nancy Mendoza Nov-3-2009 3.99 D
+Christian Palmer Nov-10-2009 4.1 D
+Maureen Gonzalez Nov-15-2009 0.1 I 52
+Melinda Barrett Nov-17-2009 1.88 I 39
+Kelly Carlson Nov-23-2009 2.1 I 49
+Julie Jones Nov-27-2009 3.41 I 22
+Erik Lawrence Nov-27-2009 2.842 I 33
+Wayne Mckinney Nov-29-2009 2.075 I 31
+Bryan Jones Dec-2-2009 0.9 I 28
+Anthony Henderson Dec-3-2009 4.2 D
+Paula Terry Dec-9-2009 2.856 I 76
+Matthew Davis Dec-11-2009 3.96 I 60
+Jason Harvey Dec-12-2009 2.497 D
+Matthew Hickman Dec-18-2009 3.9 I 56
+Jason Mills Dec-22-2009 1.54 D
+Jessica Leon Dec-23-2009 1.18 I 12
+Edward Butler Jan-2-2010 2.3 D
+Jesus Morrison Jan-10-2010 1.6 I 62
+Vanessa Cisneros Jan-14-2010 0.13 D
+Chad Davis Jan-18-2010 1.0 D
+Linda Miller Jan-18-2010 1.05 I 13
+Charles Bowen Jan-21-2010 0.91 I 100
+Nicole Garcia Jan-21-2010 4.09 D
+Jessica Edwards Jan-23-2010 4.0 I 3
+Timothy Kaufman Jan-23-2010 1.5 I 20
+Anthony Archer Jan-26-2010 2.8 I 13
+Paul Deleon Jan-29-2010 3.4 D
+William Johnston Jan-30-2010 1.126 I 12
+Pamela Weeks Feb-2-2010 3.358 D
+Alison Horton Feb-4-2010 1.41 I 12
+James Scott Feb-6-2010 0.89 I 72
+Julie Dunn Feb-9-2010 2.3 I 50
+David Clark Feb-13-2010 1.36 I 44
+James Perez Mar-6-2010 0.24 I 79
+Ashley Mueller Mar-11-2010 0.138 D
+Rebecca Murray Mar-11-2010 0.06 D
+Gary Barber Mar-12-2010 3.86 D
+George Garner Mar-16-2010 0.12 I 67
+Randy Nunez Mar-21-2010 2.3 D
+Nathan Griffith Mar-22-2010 2.5 I 70
+Heather White Mar-28-2010 2.7 D
+Angela Williams Mar-29-2010 4.298 I 98
+Michael Glover Apr-1-2010 1.11 D
+Gina Mercado Apr-3-2010 2.3 I 16
+Heather Rivas Apr-3-2010 0.344 D
+James Taylor Apr-9-2010 0.24 D
+Daniel Sutton Apr-11-2010 2.37 I 26
+Monique Richard Apr-16-2010 3.1 D
+Alexandra Scott Apr-19-2010 1.2 D
+Christina Carter Apr-24-2010 3.36 I 49
+Kimberly Neal May-10-2010 1.8 I 19
+Melissa Spencer May-10-2010 0.028 I 8
+Rhonda Miller May-12-2010 4.167 D
+Alexis Ortiz May-15-2010 1.552 I 71
+Richard Brady May-24-2010 2.275 I 58
+Jamie Cortez May-27-2010 1.947 D
+Allison Scott May-29-2010 3.66 D
+Alex Davidson Jun-2-2010 4.0 I 100
+Timothy Wilson Jun-6-2010 1.6 I 14
+Eric Wright Jun-12-2010 0.0 I 68
+Michael Anderson Jun-18-2010 0.269 I 22
+Jennifer Russell Jun-18-2010 0.04 I 117
+Priscilla Montoya Jun-22-2010 3.7 I 78
+Gerald Abbott Jun-26-2010 4.02 I 58
+Jennifer Stanley Jun-26-2010 0.3 D
+Tara Carter Jun-27-2010 3.9 I 100
+Karen Carr Jun-29-2010 1.79 I 53
+Robert Sanchez Jul-2-2010 4.16 D
+Scott Hayes Jul-3-2010 3.368 I 14
+Susan Fields Jul-5-2010 4.015 D
+Kevin Buck Jul-7-2010 1.8 D
+Aaron Tran Jul-7-2010 0.3 D
+Samantha Ray Jul-9-2010 3.37 I 52
+Kelly Lowery Jul-14-2010 2.99 I 15
+Natalie Woods Jul-15-2010 0.495 I 30
+Dwayne Brooks Jul-23-2010 0.502 D
+Matthew Garrett Jul-23-2010 1.5 D
+Kayla Hoover Jul-25-2010 3.8 I 1
+John Richards Aug-1-2010 2.3 I 39
+Philip Reyes Aug-6-2010 1.57 D
+Kendra Zavala Aug-6-2010 0.616 I 13
+Michael Howard Aug-8-2010 0.47 D
+Kristen Garcia Aug-18-2010 0.562 D
+Barry Hall Aug-28-2010 0.0 D
+Heather Boyle Sep-8-2010 0.256 D
+Margaret Cox Sep-8-2010 2.3 D
+Bailey Martin Sep-12-2010 1.2 D
+Brian Norman Sep-15-2010 0.98 D
+Jeffery Brown Sep-21-2010 0.8 D
+Erica Rivers Sep-25-2010 1.635 I 103
+Crystal Flores Sep-28-2010 3.05 I 100
+Kara Cobb Oct-2-2010 0.8 D
+Adam Robinson Oct-3-2010 2.05 D
+Michelle Davidson Oct-15-2010 3.92 D
+Julia Garrison Oct-15-2010 1.2 D
+Ronald Johnson Oct-23-2010 1.154 D
+Anna Potter Oct-29-2010 3.3 I 12
+Cody Wade Nov-1-2010 4.0 D
+Amanda Larsen Nov-9-2010 2.9 I 52
+Jon Wood Nov-17-2010 1.324 D
+Sean Simpson Nov-23-2010 1.791 I 86
+Russell Myers Nov-24-2010 1.1 D
+Timothy Duncan Nov-25-2010 3.719 D
+Lynn Allen Nov-26-2010 3.5 I 111
+Shane Hull Nov-30-2010 1.3 D
+Miranda Brooks Dec-1-2010 1.212 I 39
+Stacey Diaz Dec-7-2010 3.43 D
+Daniel Peters Dec-19-2010 1.1 I 96
+Christine Davis Dec-22-2010 1.47 I 75
+Katelyn Cain Dec-30-2010 0.23 D
+John Moore Dec-30-2010 0.95 D
+Mackenzie Sanchez Dec-31-2010 3.61 D

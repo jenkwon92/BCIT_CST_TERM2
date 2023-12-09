@@ -1,0 +1,47 @@
+// Each line inputted separately should error
+jane doe 
+jane 4.5 D
+jane Doe D
+jane doe I D
+jane doe D 4.5
+jane doe -1 D
+jane doe 4.0000 D
+jane doe -1 I 120
+jane doe 4.0000 I 120
+jane doe 4 I -20
+jane doe 4.00 I 150
+jane doe 4.5 x 120
+jane doe 4..5 I 120
+jane doe .0000 D
+
+jane doe 4.5 I test
+
+
+
+
+// These should not error but should not be outputted into txt file
+Jane DOE 3 D
+Jane D 4.5 I 65
+Jane D 3.5 I 100
+jane doe .000 D
+
+// These should output into the txt file
+Mary Jackson 4.0 I 100
+Jack He 4.05 D
+Mike Johnson 3.901 D
+Jane Zhang 3.911 I 120
+
+//Option 1:
+Jack He 4.05 D
+Mike Johnson 3.901 D
+
+//Option 2: 
+Mary Jackson 4.0 I 100
+Jane Zhang 3.911 I 120
+
+//Option 3:
+Mary Jackson 4.0 I 100
+Jack He 4.05 D
+Mike Johnson 3.901 D
+Jane Zhang 3.911 I 120
+

@@ -1,0 +1,61 @@
+// Each line inputted separately should error out
+
+Error: Invalid input format.
+jane doe
+jane 4.5 D
+jane Doe D
+jane doe I D
+jane doe D 4.5
+
+
+Error: International student must have a TOEFL score.
+jane doe 3.98 I
+
+Error: Invalid GPA format.
+jane doe 4.0000 I 120 
+jane doe 4..5 I 120
+jane doe .0000 D
+jane doe 4.0000 D
+jane doe -1 I 120
+jane doe -1 D
+
+Error: Domestic student should not have a TOEFL score.
+jane doe 4.002 D 120
+
+Error: Invalid student type.
+jane doe 4.5 x 120
+
+Error: Invalid TOEFL score.
+jane doe 4.5 I test
+jane doe 4.00 I 150
+jane doe 4 I -20
+
+
+
+다음 라인들은 오류를 발생시키지 않지만, txt 파일에 출력되지 않아야 합니다:
+Jane DOE 3 D : GPA가 3.9 미만임
+Jane D 4.5 I 65 : 국제 학생(I)이지만 TOEFL 점수가 70 미만임
+Jane D 3.5 I 100 : GPA가 3.9 미만임
+jane doe .000 D : GPA가 3.9 미만임
+이 라인들은 txt 파일에 출력되어야 합니다:
+
+Mary Jackson 4.0 I 100 : 국제 학생이고 GPA가 3.9 이상, TOEFL 점수가 70 이상임
+Jack He 4.05 D : 국내 학생이고 GPA가 3.9 이상임
+Mike Johnson 3.901 D : 국내 학생이고 GPA가 3.9 이상임
+Jane Zhang 3.911 I 120 : 국제 학생이고 GPA가 3.9 이상, TOEFL 점수가 70 이상임
+각 옵션에 따라 출력되어야 할 결과는 다음과 같습니다:
+
+옵션 1:
+
+Jack He 4.05 D
+Mike Johnson 3.901 D
+옵션 2:
+
+Mary Jackson 4.0 I 100
+Jane Zhang 3.911 I 120
+옵션 3:
+
+Mary Jackson 4.0 I 100
+Jack He 4.05 D
+Mike Johnson 3.901 D
+Jane Zhang 3.911 I 120

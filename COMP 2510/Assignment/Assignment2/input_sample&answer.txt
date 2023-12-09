@@ -1,0 +1,172 @@
+// Input: pass
+John Doe Jan-1-2010 2.123 I 45
+Jane Smith Feb-2-2003 3.456 D
+Robert Johnson Mar-3-1963 1.789 I 89
+Michael Williams Apr-4-1973 0.123 D
+Sarah Brown May-5-1977 2.321 I 56
+Jessica Davis Jun-6-1950 2.234 D
+Thomas Miller Jul-7-1999 3.567 I 90
+Charles Wilson Aug-8-2000 1.890 D
+Patricia Moore Sep-9-2001 0.234 I 34
+Linda Taylor Oct-10-2002 2.567 D
+Mark Anderson Nov-11-2003 2.345 I 78
+Elizabeth Thomas Dec-12-1983 3.678 D
+James Jackson Jan-13-1993 1.901 I 23
+Jennifer White Feb-14-1963 0.345 D
+Joseph Harris Mar-15-1960 3.89 I 67
+Margaret Martin Apr-16-1974 2.456 D
+George Thompson May-17-2001 3.789 I 12
+Susan Garcia Jun-18-1998 1.012 D
+William Martinez Jul-19-1997 0.456 I 56
+Mary Robinson Aug-20-1996 4 D
+
+// Option 1
+Jessica Davis Jun-6-1950 2.234 D
+Jennifer White Feb-14-1963 0.345 D
+Michael Williams Apr-4-1973 0.123 D
+Margaret Martin Apr-16-1974 2.456 D
+Elizabeth Thomas Dec-12-1983 3.678 D
+Mary Robinson Aug-20-1996 4 D
+Susan Garcia Jun-18-1998 1.012 D
+Charles Wilson Aug-8-2000 1.890 D
+Linda Taylor Oct-10-2002 2.567 D
+Jane Smith Feb-2-2003 3.456 D
+
+// Option 2
+Joseph Harris Mar-15-1960 3.89 I 67
+Robert Johnson Mar-3-1963 1.789 I 89
+Sarah Brown May-5-1977 2.321 I 56
+James Jackson Jan-13-1993 1.901 I 23
+William Martinez Jul-19-1997 0.456 I 56
+Thomas Miller Jul-7-1999 3.567 I 90
+George Thompson May-17-2001 3.789 I 12
+Patricia Moore Sep-9-2001 0.234 I 34
+Mark Anderson Nov-11-2003 2.345 I 78
+John Doe Jan-1-2010 2.123 I 45
+
+// Option 3
+Jessica Davis Jun-6-1950 2.234 D
+Joseph Harris Mar-15-1960 3.89 I 67
+Jennifer White Feb-14-1963 0.345 D
+Robert Johnson Mar-3-1963 1.789 I 89
+Michael Williams Apr-4-1973 0.123 D
+Margaret Martin Apr-16-1974 2.456 D
+Sarah Brown May-5-1977 2.321 I 56
+Elizabeth Thomas Dec-12-1983 3.678 D
+James Jackson Jan-13-1993 1.901 I 23
+Mary Robinson Aug-20-1996 4 D
+William Martinez Jul-19-1997 0.456 I 56
+Susan Garcia Jun-18-1998 1.012 D
+Thomas Miller Jul-7-1999 3.567 I 90
+Charles Wilson Aug-8-2000 1.890 D
+George Thompson May-17-2001 3.789 I 12
+Patricia Moore Sep-9-2001 0.234 I 34
+Linda Taylor Oct-10-2002 2.567 D
+Jane Smith Feb-2-2003 3.456 D
+Mark Anderson Nov-11-2003 2.345 I 78
+John Doe Jan-1-2010 2.123 I 45
+
+// Input (Name last name precedence over first name): pass
+John Doe Jan-1-2010 2.123 D
+June Die Jan-1-2010 2.123 D
+
+// Option 1&3:
+June Die Jan-1-2010 2.123 D
+John Doe Jan-1-2010 2.123 D
+
+
+// Input (Name Alphabet case, programmed to ignore case):pass 
+John Doe Jan-1-2010 2.123 I 45
+John doe Jan-1-2010 2.123 I 45
+john Doe Jan-1-2010 2.123 I 45
+john doe Jan-1-2010 2.123 I 45
+john dOe Jan-1-2010 2.123 I 45
+jOhn dOe Jan-1-2010 2.123 I 45
+jOhn doe Jan-1-2010 2.123 I 45
+
+// option 2&3:
+John Doe Jan-1-2010 2.123 I 45
+John doe Jan-1-2010 2.123 I 45
+john Doe Jan-1-2010 2.123 I 45
+john doe Jan-1-2010 2.123 I 45
+john dOe Jan-1-2010 2.123 I 45
+jOhn dOe Jan-1-2010 2.123 I 45
+jOhn doe Jan-1-2010 2.123 I 45
+
+// Input (Date Precedence):pass
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-2-2010 2.123 D
+John Doe Jan-2-2009 2.123 D
+John Doe Feb-2-2009 2.123 D
+
+// Option 1&3:
+John Doe Jan-2-2009 2.123 D
+John Doe Feb-2-2009 2.123 D
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-2-2010 2.123 D
+
+// Input (Date and status precedence):pass
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-2-2010 2.123 D
+John Doe Jan-2-2009 2.123 D
+John Doe Feb-2-2009 2.123 D
+John Doe Jan-1-2010 2.123 I 45
+John Doe Jan-2-2010 2.123 I 45
+John Doe Jan-2-2009 2.123 I 45
+John Doe Feb-2-2009 2.123 I 45
+
+// Option 3: 
+John Doe Jan-2-2009 2.123 D
+John Doe Jan-2-2009 2.123 I 45
+John Doe Feb-2-2009 2.123 D
+John Doe Feb-2-2009 2.123 I 45
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-1-2010 2.123 I 45
+John Doe Jan-2-2010 2.123 D
+John Doe Jan-2-2010 2.123 I 45
+
+// Input (GPA Precedence):pass
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-1-2010 0.123 D
+John Doe Jan-1-2010 4.123 D
+John Doe Jan-1-2010 1.123 D
+
+// Option 1&3:
+John Doe Jan-1-2010 0.123 D
+John Doe Jan-1-2010 1.123 D
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-1-2010 4.123 D
+
+// Input (GPA takes precedence over toefl):
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-1-2010 0.123 D
+John Doe Jan-1-2010 0.123 I 100
+John Doe Jan-1-2010 1.123 I 80
+John Doe Jan-1-2010 4.123 D
+John Doe Jan-1-2010 1.123 D
+
+// Option 3:
+John Doe Jan-1-2010 0.123 D
+John Doe Jan-1-2010 0.123 I 100
+John Doe Jan-1-2010 1.123 D
+John Doe Jan-1-2010 1.123 I 80
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-1-2010 4.123 D
+
+// Input (GPA takes precedence over toefl and toefl sorted correctly):
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-1-2010 0.123 D
+John Doe Jan-1-2010 0.123 I 100
+John Doe Jan-1-2010 1.123 I 20
+John Doe Jan-1-2010 4.123 D
+John Doe Jan-1-2010 1.123 I 120
+
+// Option 3:
+John Doe Jan-1-2010 0.123 D
+John Doe Jan-1-2010 0.123 I 100
+John Doe Jan-1-2010 1.123 I 20
+John Doe Jan-1-2010 1.123 I 120
+John Doe Jan-1-2010 2.123 D
+John Doe Jan-1-2010 4.123 D
+
+

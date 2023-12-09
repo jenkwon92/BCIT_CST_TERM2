@@ -1,0 +1,4 @@
+Jane Rogers A0000001 100 100
+Kim Hazelwood A0000003 95 90
+John Kim A0000004 0 90
+Peter Rodriguez A0000005 50 62

@@ -1,0 +1,38 @@
+Write SQL Script to add Foreign Key to ITEM table on SupplierCode  REFERENCES SUPPLIER(SupplierCode)
+
+In order to add the FK, you need to first fix the data/schema. 
+Write all the SQL's in order to create the foreign key.
+
+Hint: Use ALTER table syntax to create FK. Pay attention to the SQL error and proceed as per the error message to fix the problem.
+
+1. Column 'SUPPLIER.SupplierCode' is not the same length or scale as referencing column 'ITEM.SupplierCode' in foreign key 'FK_ITEM_SUPPLIER'. Columns participating in a foreign key relationship must be defined with the same length and scale.
+To match the length as referencing column, change the length.
+
+ALTER TABLE ITEM
+ALTER COLUMN SupplierCode char(3);   
+
+2. The ALTER TABLE statement conflicted with the FOREIGN KEY constraint "FK_ITEM_SUPPLIER". The conflict occurred in database "YKCOMP1630ASSIGMENT3", table "dbo.SUPPLIER", column 'SupplierCode'. 
+Because of the SupplierCode "S03", this conflict occured. To solve this, delete the SupplierCode which is not existing in the SUPPLIER table.
+
+DELETE FROM ITEM
+WHERE SupplierCode NOT IN (SELECT SupplierCode FROM SUPPLIER);
+
+3. After finishing the fix the data/schema, we can add the FK.
+ALTER TABLE ITEM
+ADD CONSTRAINT FK_ITEM_SUPPLIER
+FOREIGN KEY (SupplierCode)
+REFERENCES SUPPLIER(SupplierCode);
+
+Answer>
+
+ALTER TABLE ITEM
+ALTER COLUMN SupplierCode char(3);  
+
+DELETE FROM ITEM
+WHERE SupplierCode NOT IN (SELECT SupplierCode FROM SUPPLIER);
+
+ALTER TABLE ITEM
+ADD CONSTRAINT FK_ITEM_SUPPLIER
+FOREIGN KEY (SupplierCode)
+REFERENCES SUPPLIER(SupplierCode);
+

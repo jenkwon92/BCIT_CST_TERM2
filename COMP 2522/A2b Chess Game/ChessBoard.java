@@ -12,12 +12,12 @@ import javax.swing.JPanel;
 class ChessBoard extends JPanel {
     private Piece[][] board = new Piece[8][8];
     
-    private static final int TILE_SIZE = 60;
+    public static final int TILE_SIZE = 60;
     private Piece selectedPiece = null;
     private int selectedRow = -1;
     private int selectedCol = -1;
     private boolean currentPlayerWhite = true;
-    
+
     /**
      * Initializes the chessboard, placing pieces in their starting positions.
      */
@@ -121,5 +121,17 @@ class ChessBoard extends JPanel {
                 }
             }
         }
+    }
+    
+    /**
+     * Sets the selected row and column for highlighting the clicked tile.
+     * 
+     * @param row The row of the clicked tile.
+     * @param col The column of the clicked tile.
+     */
+    public void setSelectedTile(int row, int col) {
+        selectedRow = row;
+        selectedCol = col;
+        repaint(); // Redraw the board to highlight the selected tile
     }
 }

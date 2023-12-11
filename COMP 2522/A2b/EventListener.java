@@ -39,12 +39,5 @@ class EventListener extends MouseAdapter {
     @Override
     public void mouseClicked(MouseEvent e) {
         chessBoard.movePiece(e.getX(), e.getY());
-        
-        // Get the row and column of the clicked tile
-        int col = e.getX() / ChessBoard.TILE_SIZE;
-        int row = e.getY() / ChessBoard.TILE_SIZE;
-
-        // Update the selected row and column in the ChessBoard
-        chessBoard.setSelectedTile(row, col);
     }
 }
